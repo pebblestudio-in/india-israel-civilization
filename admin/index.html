@@ -339,6 +339,11 @@ function screenEdit() {
 function render() {
   const adm = $("#adm");
   if (!TOKEN || !REPO) { adm.innerHTML = screenLogin(); wireLogin(); return; }
+  const spec = FILES[tab];
+  if (!spec || !cache[spec.file]) {
+    adm.innerHTML = `<p class="tick" style="padding:40px 0">Loading${spec ? " " + esc(spec.label) : ""}</p>`;
+    return;
+  }
   adm.innerHTML = editing === null ? screenList() : screenEdit();
   editing === null ? wireList() : wireEdit();
 }
@@ -348,7 +353,7 @@ function wireLogin() {
     REPO = $("#repo").value.trim().replace(/^https?:\/\/github\.com\//, "").replace(/\.git$/, "");
     TOKEN = $("#token").value.trim();
     if (!REPO || !TOKEN) { msg = { k: "err", t: "Both fields are needed." }; return render(); }
-    msg = { k: "ok", t: "Checking" }; render();
+    $("#adm").innerHTML = `<p class="tick" style="padding:40px 0">Checking the repository and the token</p>`;
     try {
       await loadFile("core");
       localStorage.setItem("iicp.token", TOKEN);
@@ -405,12 +410,16 @@ function wireList() {
     editing = spec.isMap ? r.dataset.i : Number(r.dataset.i);
     msg = null; render();
   }));
-  $("#add").addEventListener("click", () => { editing = "new"; msg = null; render(); });
-  $("#signout").addEventListener("click", () => { localStorage.clear(); TOKEN = ""; REPO = ""; editing = null; render(); });
+  const add = $("#add");
+  if (add) add.addEventListener("click", () => { editing = "new"; msg = null; render(); });
+  const out = $("#signout");
+  if (out) out.addEventListener("click", () => { localStorage.clear(); TOKEN = ""; REPO = ""; editing = null; render(); });
 }
 
 function wireEdit() {
-  $("#back").addEventListener("click", () => { editing = null; msg = null; render(); });
+  const back = $("#back");
+  if (!back) return;
+  back.addEventListener("click", () => { editing = null; msg = null; render(); });
 
   const del = $("#del");
   if (del) del.addEventListener("click", async () => {
