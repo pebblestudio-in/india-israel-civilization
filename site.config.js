@@ -11,11 +11,11 @@ window.SITE_CONFIG = {
   /* addresses. Everything on this site that needs a reply goes by email,
      because a static site has no server and a form would either go
      nowhere or go through somebody else's. */
-  contactEmail:     "",   // general, events, contributing, forum introductions
-  submissionsEmail: "",   // write for us. Falls back to contactEmail if empty
-  correctionsEmail: "",   // reporting errors. Falls back to contactEmail if empty
+  contactEmail:     "info@indiaisrael.co",   // general, events, contributing, forum introductions
+  submissionsEmail: "editor@indiaisrael.co",   // write for us. Falls back to contactEmail if empty
+  correctionsEmail: "corrections@indiaisrael.co",   // reporting errors. Falls back to contactEmail if empty
 
   /* optional links */
-  communityInvite: "",    // the community space, once you have made one
+  communityInvite: "https://chat.whatsapp.com/CeN7qd2qh48CMXsqp8DPjy?s=cl&p=i&mlu=0",    // the community space, once you have made one
   supportLink:     ""     // Ko-fi or Buy Me a Coffee
 };
