@@ -1,0 +1,364 @@
+{
+  "communities": [
+    {
+      "id": "bene-israel",
+      "name": "Bene Israel",
+      "meaning": "Sons of Israel",
+      "region": "Maharashtra and Gujarat",
+      "language": "Marathi",
+      "colour": "#e6b33e",
+      "summary": "The largest of India's historic Jewish communities, concentrated in what is now Maharashtra, with a presence in Ahmedabad and, before partition, in Karachi.",
+      "detail": [
+        "The Bene Israel settled mainly in the region of modern Mumbai, Ahmedabad, and Karachi, which is now in Pakistan. Over the centuries the community held to Jewish practice while taking on the Marathi language and local custom, which is why Bene Israel liturgy, food and family structure look Maharashtrian from the outside and Jewish from the inside.",
+        "Community tradition places the arrival of its ancestors on the Konkan coast around 2,500 years ago, following a shipwreck. This account is transmitted within the community. It is not the same category of claim as a dated document, and this site marks it accordingly.",
+        "The Bene Israel formed the largest single component of Jewish migration from India to Israel, with the primary waves in the 1950s and 1960s."
+      ],
+      "claims": [
+        {
+          "text": "Settled mainly around modern Mumbai, Ahmedabad and Karachi",
+          "status": "verified",
+          "sources": [
+            "wjc-india"
+          ]
+        },
+        {
+          "text": "Adopted Marathi language and local custom while maintaining Jewish practice",
+          "status": "verified",
+          "sources": [
+            "wjc-india"
+          ]
+        },
+        {
+          "text": "Ancestors arrived roughly 2,500 years ago",
+          "status": "community-claim",
+          "sources": [
+            "wjc-india"
+          ]
+        },
+        {
+          "text": "Principal migration to Israel in the 1950s and 1960s",
+          "status": "verified",
+          "sources": [
+            "eoi-telaviv"
+          ]
+        }
+      ],
+      "places": [
+        "mumbai",
+        "thane",
+        "alibag",
+        "pune",
+        "ahmedabad"
+      ]
+    },
+    {
+      "id": "cochin-jews",
+      "name": "Cochin Jews",
+      "meaning": "Also called Cochini or Malabar Jews",
+      "region": "Kerala",
+      "language": "Malayalam",
+      "colour": "#5cc4b0",
+      "summary": "A Kerala community whose standing was recorded on copper plates by regional rulers, and whose synagogue in Kochi is the oldest in India.",
+      "detail": [
+        "Regional rulers granted the community copper plates recording the assumption of important positions. The plates matter because they are material evidence rather than recollection: they can be dated, read and disputed on their own terms.",
+        "After a relocation from Kodungallur in 1524, the community established the Kochi settlement known as Jew Town.",
+        "The Paradesi Synagogue was built in Kochi in 1568 by the city's Jewish trading community, including Sephardic families exiled from Spain and Portugal. It is India's oldest synagogue, and in the early twenty-first century it was the community's only active synagogue."
+      ],
+      "claims": [
+        {
+          "text": "Granted copper plates by regional rulers recording important positions",
+          "status": "verified",
+          "sources": [
+            "wjc-india"
+          ]
+        },
+        {
+          "text": "Relocated from Kodungallur in 1524, founding Jew Town in Kochi",
+          "status": "verified",
+          "sources": [
+            "wjc-india"
+          ]
+        },
+        {
+          "text": "Paradesi Synagogue built in 1568",
+          "status": "verified",
+          "sources": [
+            "britannica-paradesi"
+          ]
+        },
+        {
+          "text": "Built by Jewish traders including Sephardim exiled from Spain and Portugal",
+          "status": "verified",
+          "sources": [
+            "britannica-paradesi"
+          ]
+        }
+      ],
+      "places": [
+        "kochi"
+      ]
+    },
+    {
+      "id": "baghdadi-jews",
+      "name": "Baghdadi Jews",
+      "meaning": "Named for origin, not for a single city",
+      "region": "Kolkata, Mumbai, Pune",
+      "language": "Judeo-Arabic, later English",
+      "colour": "#c98ae0",
+      "summary": "A nineteenth century arrival from Iraq and neighbouring lands, closely tied to the commercial life of British India.",
+      "detail": [
+        "Baghdadi Jews arrived in the nineteenth century, leaving religious persecution in Iraq and other Muslim lands. The name describes an origin region rather than a single city.",
+        "The Sassoon family arrived in Bombay in 1832 and became the community's most visible presence. David Sassoon built institutions in the city that still serve Indian society today.",
+        "The community's centres were Kolkata, Mumbai and Pune, where the Ohel David synagogue stands."
+      ],
+      "claims": [
+        {
+          "text": "Arrived in the nineteenth century from Iraq and other lands",
+          "status": "verified",
+          "sources": [
+            "wjc-india"
+          ]
+        },
+        {
+          "text": "The Sassoon family arrived in Bombay in 1832",
+          "status": "verified",
+          "sources": [
+            "wjc-india"
+          ]
+        },
+        {
+          "text": "David Sassoon built institutions still serving Indian society",
+          "status": "verified",
+          "sources": [
+            "pib-jews"
+          ]
+        }
+      ],
+      "places": [
+        "kolkata",
+        "mumbai",
+        "pune"
+      ]
+    },
+    {
+      "id": "bnei-menashe",
+      "name": "Bnei Menashe",
+      "meaning": "Children of Menasseh",
+      "region": "Mizoram and Manipur",
+      "language": "Mizo, Kuki languages",
+      "colour": "#7fb2d4",
+      "summary": "Communities in India's north east who returned to Jewish practice in the twentieth century, and whose migration to Israel is the most recent of the four.",
+      "detail": [
+        "Small groups in the north east were required to convert to Christianity by Christian missionaries in the nineteenth century.",
+        "From the 1970s, members of these groups restarted the practice of traditional Jewish rites.",
+        "Migration to Israel from Mizoram and Manipur is the most recent of the four community movements, and the status of the community has been the subject of ongoing discussion within Israel."
+      ],
+      "claims": [
+        {
+          "text": "Converted to Christianity under missionary pressure in the nineteenth century",
+          "status": "verified",
+          "sources": [
+            "wjc-india"
+          ]
+        },
+        {
+          "text": "Restarted traditional Jewish rites from the 1970s",
+          "status": "verified",
+          "sources": [
+            "wjc-india"
+          ]
+        },
+        {
+          "text": "Migration to Israel from Mizoram and Manipur",
+          "status": "verified",
+          "sources": [
+            "eoi-telaviv"
+          ]
+        }
+      ],
+      "places": [
+        "aizawl",
+        "imphal"
+      ]
+    }
+  ],
+  "places": {
+    "mumbai": {
+      "name": "Mumbai",
+      "country": "IN",
+      "lat": 19.08,
+      "lon": 72.88,
+      "note": "Principal Bene Israel and Baghdadi centre"
+    },
+    "thane": {
+      "name": "Thane",
+      "country": "IN",
+      "lat": 19.22,
+      "lon": 72.98,
+      "note": "Shaar Hashamaim synagogue"
+    },
+    "alibag": {
+      "name": "Alibag",
+      "country": "IN",
+      "lat": 18.64,
+      "lon": 72.87,
+      "note": "Konkan coast, Bene Israel heartland"
+    },
+    "pune": {
+      "name": "Pune",
+      "country": "IN",
+      "lat": 18.52,
+      "lon": 73.86,
+      "note": "Ohel David synagogue"
+    },
+    "ahmedabad": {
+      "name": "Ahmedabad",
+      "country": "IN",
+      "lat": 23.02,
+      "lon": 72.57,
+      "note": "Bene Israel presence; Kankaria Zoo founded by Reuben David"
+    },
+    "kochi": {
+      "name": "Kochi",
+      "country": "IN",
+      "lat": 9.93,
+      "lon": 76.27,
+      "note": "Paradesi Synagogue, 1568; Jew Town"
+    },
+    "kolkata": {
+      "name": "Kolkata",
+      "country": "IN",
+      "lat": 22.57,
+      "lon": 88.36,
+      "note": "Baghdadi Jewish centre"
+    },
+    "delhi": {
+      "name": "New Delhi",
+      "country": "IN",
+      "lat": 28.61,
+      "lon": 77.21,
+      "note": "Israeli embassy in India"
+    },
+    "bengaluru": {
+      "name": "Bengaluru",
+      "country": "IN",
+      "lat": 12.97,
+      "lon": 77.59,
+      "note": "Small present-day community"
+    },
+    "aizawl": {
+      "name": "Aizawl",
+      "country": "IN",
+      "lat": 23.73,
+      "lon": 92.72,
+      "note": "Bnei Menashe, Mizoram"
+    },
+    "imphal": {
+      "name": "Imphal",
+      "country": "IN",
+      "lat": 24.82,
+      "lon": 93.94,
+      "note": "Bnei Menashe, Manipur"
+    },
+    "telaviv": {
+      "name": "Tel Aviv",
+      "country": "IL",
+      "lat": 32.08,
+      "lon": 34.78,
+      "note": "Embassy of India; Modi addressed about 8,000 people here in July 2017"
+    },
+    "jerusalem": {
+      "name": "Jerusalem",
+      "country": "IL",
+      "lat": 31.78,
+      "lon": 35.22,
+      "note": ""
+    },
+    "haifa": {
+      "name": "Haifa",
+      "country": "IL",
+      "lat": 32.79,
+      "lon": 34.99,
+      "note": "Port acquired by an Adani-led consortium in 2022"
+    },
+    "ramla": {
+      "name": "Ramla",
+      "country": "IL",
+      "lat": 31.93,
+      "lon": 34.87,
+      "note": "National Convention of Indian Jews, 2013 and 2015"
+    },
+    "yeruham": {
+      "name": "Yeruham",
+      "country": "IL",
+      "lat": 30.99,
+      "lon": 34.93,
+      "note": "National Convention of Indian Jews, 2014"
+    },
+    "kiryatgat": {
+      "name": "Kiryat Gat",
+      "country": "IL",
+      "lat": 31.61,
+      "lon": 34.76,
+      "note": "National Convention of Indian Jews, 2016"
+    },
+    "ashkelon": {
+      "name": "Ashkelon",
+      "country": "IL",
+      "lat": 31.67,
+      "lon": 34.57,
+      "note": "National Convention of Indian Jews, 2017"
+    },
+    "petahtikva": {
+      "name": "Petah Tikva",
+      "country": "IL",
+      "lat": 32.09,
+      "lon": 34.89,
+      "note": "National Convention of Indian Jews, 2022"
+    },
+    "beersheba": {
+      "name": "Beersheba",
+      "country": "IL",
+      "lat": 31.25,
+      "lon": 34.79,
+      "note": ""
+    }
+  },
+  "routes": [
+    {
+      "from": "mumbai",
+      "to": "ramla",
+      "community": "bene-israel"
+    },
+    {
+      "from": "alibag",
+      "to": "beersheba",
+      "community": "bene-israel"
+    },
+    {
+      "from": "pune",
+      "to": "petahtikva",
+      "community": "baghdadi-jews"
+    },
+    {
+      "from": "kochi",
+      "to": "yeruham",
+      "community": "cochin-jews"
+    },
+    {
+      "from": "kolkata",
+      "to": "telaviv",
+      "community": "baghdadi-jews"
+    },
+    {
+      "from": "aizawl",
+      "to": "kiryatgat",
+      "community": "bnei-menashe"
+    },
+    {
+      "from": "imphal",
+      "to": "ashkelon",
+      "community": "bnei-menashe"
+    }
+  ]
+}

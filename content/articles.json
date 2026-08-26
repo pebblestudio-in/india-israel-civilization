@@ -1,0 +1,1101 @@
+{
+  "categories": [
+    {
+      "id": "method",
+      "label": "Method and evidence"
+    },
+    {
+      "id": "history",
+      "label": "History"
+    },
+    {
+      "id": "people",
+      "label": "Communities and people"
+    },
+    {
+      "id": "relations",
+      "label": "The modern relationship"
+    },
+    {
+      "id": "explainer",
+      "label": "Explainers"
+    }
+  ],
+  "articles": [
+    {
+      "id": "other-peoples-work",
+      "title": "Other people's work",
+      "category": "method",
+      "kind": "Method",
+      "standfirst": "Why a small project spends its time pointing at 122 books and 23 films instead of summarising them.",
+      "sources": [
+        "wjc-india",
+        "britannica-paradesi",
+        "syn360-search"
+      ],
+      "status": "verified",
+      "type": "method-note",
+      "author": "",
+      "published": "2026-08-25",
+      "body": [
+        "There is a version of this project that would have been much faster to build. Read the scholarship, absorb it, and republish it in shorter sentences under this site's own name. Nobody would have noticed, most sites on most subjects work exactly that way, and it would have produced a great deal more text a great deal sooner.",
+        "This site does the opposite thing, and the reading room and the watch room are where that choice is most visible. 122 books across 11 shelves. 23 films, lectures and recordings. In neither case does this site summarise the work and send you away satisfied. It tells you what the thing is, why it is worth your time, and exactly where to get it.",
+        "The reason is not modesty. It is that summaries of scholarship are the least reliable objects on the internet, and a summary of a summary is worse. Every step away from the original loses the qualifications, the disputed points, the footnote where the author says the evidence is thinner than the chapter title suggests. By the third retelling, a careful scholar's hedged claim has become a confident fact on a hundred pages, and there is no way back to the hedge. This subject is unusually prone to it, because the source material is scattered, the communities are small, and almost nobody checks.",
+        "So the rule here is that when somebody else has done the work properly, the useful thing to do is to name them, say what they did, and get out of the way. Nathan Katz wrote the standard overview of all three historic communities. Jael Silliman built the Calcutta archive. Johanna Spector filmed the Konkan villages in the 1970s while there were still people in them to film. This project cannot improve on any of that and has no business paraphrasing it.",
+        "What a project like this can add is the connective tissue. Nobody had put those 122 books in one place with a working link on each. Nobody had assembled the films with a line on each saying what it actually contains rather than what its title promises. Nobody had built a sourced list of the buildings. Those are unglamorous jobs and they are the jobs that were open.",
+        "There is a second rule underneath the first, which is about copyright and is less philosophical. Almost everything worth reading on this subject is in copyright, held by living authors or by their estates, and a good deal of it is published by small presses that keep this material in print at commercial risk. Reproducing a poem or a chapter here would take money out of the hands of the people who did the work, in exchange for making this site look fuller. That is a bad trade even when it is legal, and often it is not legal.",
+        "This is why the poetry on this site is discussed and not printed. Readers have asked for the poems themselves, and the answer is no, with one exception this project is glad to make: where a full text is genuinely free and legally available, the reading room links straight to it and marks it. 9 of the 122 books are in that category. For everything else, the link goes to a catalogue where you can find a copy, and buying one is a more useful form of support for this field than anything this project can offer.",
+        "The same logic governs the watch room. The films are not re-hosted, re-cut or downloaded. Each entry names the channel that published it, and pressing play loads it from YouTube, through the no cookie domain, and not before you press. Nobody's work is taken and nobody's viewing figures are stolen, which matters when several of these films were made by tiny operations documenting a community that will not be documentable much longer.",
+        "The test this project applies before adding anything to either room is simple enough to state in one line. Would somebody who followed this link be glad they did, and does the link still work? The second half of that is not a formality. A reading list where a third of the links are dead is worse than no reading list, because it wastes the reader's time and then makes them doubt everything else on the page."
+      ]
+    },
+    {
+      "id": "what-remains-standing",
+      "title": "What remains standing",
+      "category": "history",
+      "kind": "Method",
+      "standfirst": "Thirteen buildings, four communities, four hundred years, and a pattern that repeats until it stops looking like a coincidence.",
+      "sources": [
+        "syn360-shaar",
+        "syn360-shaare-rason",
+        "syn360-magen-david",
+        "syn360-kneseth",
+        "syn360-parur",
+        "syn360-kadavumbagam",
+        "syn360-judah-hyam",
+        "syn360-search",
+        "britannica-paradesi",
+        "wjc-india"
+      ],
+      "status": "verified",
+      "type": "method-note",
+      "author": "",
+      "published": "2026-08-25",
+      "body": [
+        "This piece analyses the built heritage survey on this site. It asserts nothing that is not already in that directory with a source attached, and where the directory records a gap, this piece records the same gap rather than smoothing it over. The principal source underneath most of it is Synagogues360, published by ANU, the Museum of the Jewish People. Dates of construction and statements of present condition are as recorded there.",
+        "Start with the arithmetic, because it is unflattering. The directory holds thirteen sites. Five of those thirteen have no recorded construction date, and the same five are marked incomplete, meaning this project has the building's name and not much else. That is a survey with more than a third of its entries unfinished, and saying so in the first paragraph is the only honest way to begin.",
+        "Now the part that is finished. The oldest entry is the Paradesi Synagogue in Kochi, built in 1568 by the city's Jewish trading community, including Sephardic families exiled from Spain and Portugal, in the settlement the community established after relocating from Kodungallur in 1524. The newest is Judah Hyam Hall in New Delhi, whose foundation stone was laid on 12 February 1956 and which was completed on 2 September 1956. Between those two dates lie three hundred and eighty-eight years and the entire built history of Jewish India that this project has so far been able to source.",
+        "Four hundred years is not a long time for a religious architecture. What makes this record unusual is how much of it is concentrated into a single century. Shaar Harahamim in Mumbai dates to 1796. Shaare Rason follows in 1840 or 1843, the source giving both. Magen David is 1861 and Keneseth Eliyahoo is 1884. Four of the thirteen sites, and the four that anchor Jewish Bombay, go up inside eighty-eight years. That century is the century of the Bombay Presidency, of the Sassoon fortune, and of a Bene Israel community moving off the Konkan coast and into the city.",
+        "The two Bombay Bene Israel synagogues in that run tell a story that has nothing to do with imperial commerce. Shaar Harahamim, the oldest Bene Israel synagogue in India, was founded by Samuel Ezekiel Divekar, recorded in the source under the alternative name Samaji Hasaji Divekar, a battalion commandant who, according to the account the source carries, resolved to build a synagogue if he survived capture by Mysore forces in May 1796. Forty-odd years later, a group broke away from that congregation and built Shaare Rason a short distance away. A community small enough to have one synagogue in 1796 is not small enough to avoid a schism by 1840. That is a fact about the internal life of the Bene Israel, and it is legible in the building record without any narrative being added to it.",
+        "Then the Sassoons arrive. David Sassoon, head of the family that reached Bombay in 1832, built Magen David in 1861 in a Neo Classical style, and put a Torah school on the grounds that his son expanded in 1910. His sons Jacob Elias and Albert built Keneseth Eliyahoo in 1884, in Victorian style, in memory of their father. The pattern worth noticing is that the Baghdadi institutional footprint in Bombay ran to schools, hospitals and libraries as much as to synagogues. A trading family that endows a school next to a synagogue is not only building for worship. It is building for permanence.",
+        "The permanence did not hold, and the directory records how it failed, building by building, in a sequence that is the single most useful thing in the whole dataset.",
+        "The sequence goes: the congregation leaves, then the scrolls leave, then the interior leaves, and the building stays. Kadavumbagam in Ernakulam is the clearest case. It ceased functioning as an active synagogue in 1972. The Torah scrolls were shipped to the Cochin National Heritage Center in 1974. In 1991 the interior and the Aron Kodesh were transported to Moshav Nehalim in Israel for restoration. The front building now houses a business, and the guardian permits visitors to see the grounds. Four thousand kilometres now separate the shell from its contents.",
+        "Parur, built in 1615, shows the same movement on a shorter timescale. Its original bimah and Aron Kodesh were shipped to Israel in 1995 and replaced with reconstructions. Restoration of the building itself began in 2009, and the source, written at the time, projected completion in spring 2011. So the building is being restored in Kerala while its original fittings sit in Israel. Both halves are being cared for. Neither is whole.",
+        "It is worth being precise about what this pattern is and is not. It is not destruction. Nothing in this directory was burned, bulldozed or seized. It is not neglect either, in most cases: Parur was restored, Keneseth Eliyahoo is active and well maintained, and Shaar Harahamim runs daily services in a building that seats three hundred for a congregation of roughly a hundred. What the pattern actually is, is the physical trace of a migration. The fittings went where the people went. That is what a community moving looks like when you can only see the buildings.",
+        "Parur also carries the architectural point that most general accounts of Indian Jewish heritage miss. The complex comprises seven buildings, built of whitewashed lime and laterite with terracotta tile roofing, in the manner of Kerala architecture rather than of any imported synagogue form. Ten large shuttered windows on the walls are read as the Ten Commandments. That is a Jewish idea executed in a Kerala building tradition, by builders working in the Thachusasthra tradition, which is what the source records for it. The Paradesi Synagogue gets the visitors and the photographs. Parur is the more interesting building.",
+        "One entry in the directory belongs to a different century and a different problem. Judah Hyam Hall in New Delhi is the newest building in the survey by more than seventy years, and the only one built after Indian independence. It serves roughly fifty local members along with diplomats and visitors. Its practice departs from custom in ways the source states plainly: the rabbi has never been ordained, the doors are open to people of all faiths, and women count towards the ten people required for a service. That last one is not a small adjustment. It is the kind of change a congregation makes when the alternative is not being able to hold a service at all.",
+        "So the directory contains at least three different kinds of Jewish history, and they do not resolve into one story. There is a seventeenth century Kerala trading community building in the local vernacular. There is a nineteenth century Baghdadi commercial dynasty building for permanence in an imperial port. There is a twentieth century capital city congregation of fifty people rewriting the rules in order to survive. Flattening these into one narrative about the Jews of India would lose everything that is actually interesting about them.",
+        "Five entries in the directory exist mainly as a rebuke to this project. Ohel David in Pune, known as the Red Synagogue, is named by the World Jewish Congress among notable Jewish places in India. This site has not verified a construction date for it and will not print one until it has, even though a date is easy enough to find repeated in half a dozen places online. Tiphereth Israel in Mumbai, Shaar Hashamaim in Thane, and Mala and Chennamangalam in Kerala are listed by name and almost nothing more. All five are in the directory because leaving them out would make the survey look more complete than it is.",
+        "There is one more gap, and it is the largest one. Every site in this directory is in Maharashtra, Kerala or Delhi. Gujarat is absent, and the Bene Israel presence in Ahmedabad is documented elsewhere on this site without a single building recorded for it. West Bengal is absent, although the Baghdadi community of Kolkata appears in the register of people, in the culture pages and in the watch room. The north east is absent entirely. A survey of Jewish built heritage in India covering three states is a start rather than a survey, and the honest name for what is on this site is a working directory.",
+        "The reason to keep building it is that no complete, machine readable, sourced list of these buildings exists anywhere. That is a strange thing to be true in 2026 about a body of architecture spanning four centuries, but it is true, and it is the gap this project is most likely to be able to close. The buildings are the part of this history that physically remains. Everything else, the congregations, the languages, the liturgy, the arguments between congregations, is either in Israel now or in living memory, and living memory is a wasting asset.",
+        "If you can add a building, a date, a photograph taken by you, or a present condition, with a source, this project wants it. That is not a formality at the end of an article. Five of thirteen entries are missing their dates, and the fastest way that number comes down is somebody who lives near one of these buildings writing in."
+      ]
+    },
+    {
+      "id": "the-register",
+      "title": "What the source register is made of",
+      "category": "method",
+      "kind": "Method",
+      "standfirst": "Ninety sources hold this site up. Here is what they are, what each kind can and cannot prove, and where the register is thin enough to worry about.",
+      "sources": [
+        "mea-2026",
+        "wjc-india",
+        "syn360-search",
+        "un-273",
+        "pib-jews",
+        "britannica-paradesi"
+      ],
+      "status": "verified",
+      "type": "method-note",
+      "author": "",
+      "published": "2026-08-25",
+      "body": [
+        "Every factual record on this site points at a source in a register, and a script refuses to publish if any record points at nothing or at something not in the register. That much is a mechanical guarantee and it is worth exactly what a mechanical guarantee is worth, which is less than most sites implying they have one would like you to think. A script can confirm that a claim has a source attached. It cannot confirm that the source says what the claim says it says, and it certainly cannot confirm that the source is right.",
+        "So the useful question is not whether this site has sources. It is what kind of sources, in what proportion, and with what blind spots. This piece answers that.",
+        "The register sorts every source into one of four tiers, and the tier is not a quality score. It is a statement about what kind of thing the source is, because different kinds of source can support different kinds of claim.",
+        "A primary source is the document itself or the body that produced it. A Ministry of External Affairs country brief, a Press Information Bureau release, a Prime Minister's Office statement, a United Nations General Assembly resolution record, a Defence Research and Development Organisation page about its own missile programme. When this site says India recognised Israel on 17 September 1950, the source is the Ministry of External Affairs brief that states it. That is the strongest kind of citation available for a fact of that type, and it is still only as good as the ministry's own record keeping.",
+        "A reference source is an encyclopaedia, a museum catalogue, an institutional database, an academic reference work. Britannica on the Paradesi Synagogue. The World Jewish Congress on the communities. Synagogues360, published by ANU, the Museum of the Jewish People, which is the backbone of the built heritage survey. These are secondary by definition. They are compiled by people who read the primary material, and they are usually right, and when they are wrong the error is invisible from the outside. This site treats a reference source as good enough to print and not good enough to be certain about.",
+        "A press source is journalism. Dated, attributed, and written on a deadline. Press citations here are used for events, announcements, figures given at a moment in time, and current conditions. They are the right source for what a minister said in a particular week and the wrong source for anything that requires the passage of time to assess.",
+        "A community source is the community's own account of itself. This tier exists because of one specific problem. The Bene Israel hold that their ancestors reached the Konkan coast roughly two thousand five hundred years ago after a shipwreck. That account is transmitted within the community and is central to how the community understands itself. It is not a dated document. Treating it as one would be dishonest, and dismissing it would be both rude and wrong, because a tradition maintained for centuries is evidence of something even when it is not evidence of the event it describes. So it goes in its own tier and is labelled, which is the only treatment that does not require lying in one direction or the other.",
+        "That last distinction is the one that matters most for a site about this subject, and it generalises. Migration numbers are a good example. Community organisations, government briefs and press reports routinely give different figures for how many Jews left India for Israel, and for how many people of Indian origin now live in Israel. Where this site has two figures from two credible sources, it shows both and names both, rather than averaging them or picking the one that reads better.",
+        "Now the weaknesses, which are the part of a methodology note that is actually worth reading.",
+        "First: the register leans heavily on a small number of workhorses. The Synagogues360 database carries most of the built heritage survey almost single handed. The World Jewish Congress country page carries a large share of the community claims. If either of those is wrong about something, this site is wrong about it too, and there is currently no independent check in place. That is a real single point of failure and it is not solved by adding more citations that all trace back to the same original.",
+        "Second: the register is thin before the eighteenth century. Everything this site can say about the first fifteen hundred years of Jewish presence in India rests on reference works and community tradition, because the primary material is copper plates, inscriptions and manuscripts that this project has not read in the original and cannot read in the original. The Kerala copper plates are real, dated and studied. This site cites accounts of them rather than the plates themselves, and that distinction should stay visible.",
+        "Third: the register is overweight on official Indian government sources for the modern relationship. Ministry briefs, Press Information Bureau releases and Prime Minister's Office statements are primary, they are precise about dates, and they are also promotional documents produced by one of the two parties. A joint statement tells you what two governments agreed to say. It does not tell you what they agreed to do, what they failed to agree, or what the meeting was actually about. Using them as the spine of a timeline is defensible. Using them as the whole of it is not, and this site currently does more of the second than it should.",
+        "Fourth: there is very little material in the register that is not in English, and very little Israeli official material. That is a limit of the person building it rather than a judgement about what exists. A relationship between two countries documented mainly in the English language output of one of them is documented at a slant. Anyone who can read the Israel State Archives, the Knesset record, or Judeo Marathi material and is willing to contribute citations would be more useful to this project than almost anything else.",
+        "Fifth: every source carries an accessed date, which is the day the link was checked. Links rot. Government reorganisations move briefs, newspapers move to archives behind paywalls, museums redesign their databases. A source that resolved in August 2026 may not resolve next year, and there is no mechanism here that will notice. The accessed date is at least an honest statement of when the claim was last standing on something real.",
+        "None of these five is a reason to distrust the site more than you would distrust any comparable one. They are a reason to know what you are reading. A research site that publishes its weaknesses is not confessing. It is telling you where to push.",
+        "One practical note for anyone using this material. Every source in the register carries a publisher, a title, a link, a tier and an accessed date, and the whole register can be exported as CSV or JSON from the open dataset page. If you are checking a claim on this site, the fastest route is to open the source line under it rather than searching for the claim elsewhere, because what you want to know first is not whether the claim is true. It is whether this site has read what it says it has read."
+      ]
+    },
+    {
+      "id": "forty-two-years",
+      "title": "The forty-two years",
+      "category": "history",
+      "kind": "Analysis",
+      "standfirst": "India recognised Israel in 1950 and exchanged embassies in 1992. Everything interesting about the relationship lives in the gap between those two dates.",
+      "sources": [
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "Two dates are recorded in the Ministry of External Affairs brief on India and Israel. India recognised the State of Israel on 17 September 1950. Full diplomatic relations were established in 1992. Between them sit forty-two years.",
+        "Most popular accounts of the relationship treat 1992 as the beginning and skip the gap entirely. That is a mistake of framing rather than of fact. Recognition and diplomatic relations are two different acts. Recognition says a state exists. Diplomatic relations say two states will maintain permanent missions and conduct business through them. A country can do the first without the second for a very long time, and India did.",
+        "What this project can state from the primary record is narrow and worth stating precisely: the recognition happened in 1950, the relations happened in 1992, and the interval was forty-two years. The brief records the dates. It does not explain them.",
+        "The explanation is where the history actually is, and it is contested. Accounts of the period point to several factors operating at once: India's own position in the non aligned movement, its relationships across West Asia, the domestic politics of a large Muslim population, the Cold War alignment of the region, and the changing shape of all of this by the early 1990s. These are not equally weighted by every historian, and this project does not pretend to have settled the question.",
+        "What is worth noticing is the shape of the interval. Forty-two years is not a delay. It is longer than the entire modern relationship has so far lasted. Any account of India and Israel that begins in 1992 has cut off more than half the story, and has cut off precisely the half that explains why the second half looks the way it does.",
+        "There is a second thing the interval does. It makes the post 1992 acceleration legible as acceleration. Between 1992 and 2017, twenty-five years passed before an Indian Prime Minister visited Israel. Between 2017 and 2026, the record fills up: state visits in both directions, ministerial traffic in most years, a bilateral investment agreement, terms of reference for a free trade agreement, a defence cooperation memorandum, and repeated telephone contact at head of government level. Something changed in the tempo, and the forty-two years are the baseline against which that change can be measured.",
+        "This project's position is that the interval is the most under examined thing in the whole relationship, and that filling it in with sources is more valuable than adding another summary of the years after 1992. It is listed among the open questions for that reason."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "evidence-ladder",
+      "title": "The evidence ladder",
+      "category": "method",
+      "kind": "Method",
+      "standfirst": "How this project decides what it is allowed to say, and what the labels on every page actually mean.",
+      "sources": [
+        "mea-2026",
+        "eoi-telaviv",
+        "wjc-india",
+        "britannica-paradesi"
+      ],
+      "status": "verified",
+      "body": [
+        "Every factual block on this site carries a label. The labels are not decoration and they are not a rating of how much the project likes a claim. They record what kind of evidence sits underneath it, which is a different question from whether it is true.",
+        "A primary source is a government document, a treaty, an official brief, a statement issued by a ministry, or a record produced by the institution that did the thing being described. The Ministry of External Affairs bilateral brief is a primary source. So is the Embassy of India's own page about the Indian community in Israel. Primary sources are not neutral, and they are not always right. A government brief describes what a government wants recorded. What makes it primary is that it is the institution speaking for itself, which is exactly the thing a researcher needs to be able to quote.",
+        "A reference source is an encyclopaedia entry, or a publication by an established institution whose business is compiling and checking. Britannica on the Paradesi Synagogue is a reference source. The World Jewish Congress on Jewish communities in India is a reference source. These are usually reliable and usually not the last word.",
+        "A press source is an established news organisation. Nothing on this site currently rests on a press source alone, and where the newsroom gathers headlines automatically they are marked as unverified until a person checks them.",
+        "A community claim is an account transmitted within a community about itself. The Bene Israel tradition of arrival on the Konkan coast around 2,500 years ago is a community claim. This label does not mean the claim is false and it does not mean it is unimportant. It means the evidence is of a different kind: memory carried forward rather than a document that can be dated. Communities are entitled to their own account of where they came from. A research site is obliged to say which kind of thing it is looking at.",
+        "There is a fifth label, and it is the one this project is most attached to: sources differ. When two credible sources give different figures, the honest move is to show both. Two Indian government sources give different numbers for the Indian origin population in Israel, and different numbers again for Indian citizens there. This site does not average them, pick the larger one, or pick the one from the more recent document. It shows both and names the gap as a research question.",
+        "The rule is enforced in code rather than by good intentions. Every record in the content files must carry at least one source identifier, and a check refuses to publish the site if any record does not. This is deliberately inconvenient. Inconvenience is the point: it makes adding an unsourced claim harder than adding a sourced one.",
+        "What this system cannot do should also be said. It does not verify that a source is correct, only that it exists and says what the page claims it says. It does not detect a claim that is true in its source and misleading in the way this site frames it. Those failures are caught by readers, which is why the corrections address sits on every page, and why corrections are published rather than quietly applied."
+      ],
+      "type": "method-note",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "four-communities",
+      "title": "Four communities, one careless label",
+      "category": "people",
+      "kind": "Overview",
+      "standfirst": "The phrase 'Indian Jews' hides four distinct histories that arrive in different centuries, speak different languages, and leave for different reasons.",
+      "sources": [
+        "wjc-india",
+        "eoi-telaviv",
+        "pib-jews",
+        "britannica-paradesi"
+      ],
+      "status": "verified",
+      "body": [
+        "The Embassy of India in Tel Aviv lists the Jewish communities of Indian origin in Israel as the Bene Israel of Maharashtra, the Cochin Jews of Kerala, the Baghdadi Jews of Kolkata, and the Bnei Menashe of Mizoram and Manipur. The list is short, and every item on it is a different history.",
+        "The Bene Israel are the largest. They settled in the region of modern Mumbai, in Ahmedabad, and in Karachi, which is now in Pakistan. Over centuries they took on the Marathi language and local custom while holding to Jewish practice. Their own account places their ancestors' arrival on the Konkan coast around 2,500 years ago, following a shipwreck. That is a community tradition and this site records it as one.",
+        "The Cochin Jews are the community with the most material evidence behind it. Rulers in the Malabar region granted them copper plates recording the assumption of important positions. Copper survives, and it can be dated and read and argued over, which puts this community's early history on a different footing from an oral tradition. After a move from Kodungallur in 1524 the community established the Kochi settlement known as Jew Town, and in 1568 the Paradesi Synagogue was built there. It is the oldest synagogue in India.",
+        "The Baghdadi Jews are the latecomers and the outliers. They arrived in the nineteenth century from Iraq and neighbouring lands, leaving religious persecution behind them. The name records a region of origin rather than a single city. The Sassoon family reached Bombay in 1832 and became the community's most visible presence; David Sassoon built institutions in the city that still serve Indian society. The Baghdadi arc runs through India rather than beginning there, which is why it does not fit the same narrative shape as the Bene Israel.",
+        "The Bnei Menashe are the most recent and the most contested. Groups in the north east were required to convert to Christianity under missionary pressure in the nineteenth century, and from the 1970s members of these groups restarted the practice of traditional Jewish rites. Their migration to Israel from Mizoram and Manipur is the newest of the four movements.",
+        "Four communities, four centuries of arrival, four languages of daily life, and four different relationships to documentation. Flattening them into one category is not merely imprecise. It erases the specific thing that makes each one interesting, which is that Jewish life in India was never a single experiment repeated in several places.",
+        "One more figure belongs here, because it changes the register of everything above. The World Jewish Congress records roughly 4,800 Jews living in India in 2020, against earlier estimates of between 4,900 and 7,000 as of 1996. The communities described on this site are, in India, now very small. The synagogues, cemeteries, records and buildings are the part that stayed."
+      ],
+      "type": "explainer",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "sources-differ",
+      "title": "When the government disagrees with itself",
+      "category": "method",
+      "kind": "Case study",
+      "standfirst": "Two Indian government sources give different numbers for the same population. This page is about why that is interesting rather than embarrassing.",
+      "sources": [
+        "mea-2026",
+        "eoi-telaviv"
+      ],
+      "status": "figures-differ",
+      "body": [
+        "The Ministry of External Affairs bilateral brief of February 2026 records over 100,000 Jews of Indian origin in Israel. The Embassy of India in Tel Aviv records approximately 85,000. Both are Indian government sources. They do not agree.",
+        "The same thing happens with a second number. The Ministry brief records over 42,000 Indian citizens in Israel. The Embassy page records about 18,000, and describes them as mainly caregivers employed by Israeli families, diamond traders, information technology professionals and students.",
+        "The reflex on most websites is to pick one. Usually the larger figure, or the one from the more impressive institution, or whichever was found first. This site does not do that, and the reason is worth spelling out.",
+        "There are several ordinary explanations for a gap like this and none of them require anyone to have done anything wrong. The two sources may have been written at different times and not updated together. They may be counting different things: people of Indian origin is a wider category than Indian citizens, and both categories have edges that a statistician has to draw somewhere. Descendants of migrants who arrived in the 1950s are counted differently depending on how many generations back the definition reaches. Temporary workers on renewable permits may be in one count and not the other.",
+        "The point is that a reader cannot tell which explanation applies from the numbers alone. Choosing one figure and presenting it flatly would hide a real uncertainty and would give the reader false confidence. Showing both, and naming the gap, tells the reader exactly as much as this project actually knows.",
+        "There is also a practical benefit. A number presented without its uncertainty is fragile. The moment someone finds the other figure, the page that picked one looks either careless or dishonest. A page that showed both from the start is already correct.",
+        "This gap is listed among the open questions on this site. Closing it would require finding the definitional basis each source used, which is the kind of question a reader with access to either institution could answer far faster than this project can."
+      ],
+      "type": "method-note",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "water-centre",
+      "title": "Why water sits at the centre",
+      "category": "relations",
+      "kind": "Analysis",
+      "standfirst": "The most durable strand of the relationship is not defence. It is the one that grew out of a problem both countries physically have.",
+      "sources": [
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "Agreements signed in 1993 covered science and technology, and agriculture. The agricultural agreement is the one that kept growing. It was renewed in April 2025, more than three decades after it was first signed, and the structure built under it is now the most concrete civilian thing in the relationship: 43 Centres of Excellence approved, of which 35 are operational, working under a sixth work plan covering 2024 to 2026.",
+        "Alongside it runs a water track. A memorandum on water resources management was signed in November 2016, and a letter of intent on water technology centres of excellence followed in May 2023. In the same month the India Israel Innovation Centre for Agriculture was declared.",
+        "The reason this strand has the longest run is not diplomatic. It is physical. Both countries have arid and semi arid land, both have water they cannot afford to waste, and both have agriculture that has to produce more from less. When two states share a physical constraint, cooperation on it does not depend on either government's enthusiasm surviving an election.",
+        "This is a claim about durability, not about importance. Defence cooperation carries larger sums and more political weight, and the record shows it deepening: the first talks at Defence Minister level in March 2023, a National Security Adviser visit in March 2024, a memorandum of understanding on defence cooperation in November 2025 alongside the seventeenth meeting of the joint working group. But defence cooperation is sensitive to politics in a way that a drip irrigation centre in a district agricultural station is not.",
+        "There is a useful test for which strand defines a relationship: what would still be running in ten years if the political weather turned. On the evidence in the record, the answer is the centres of excellence. A farmer who has changed how a field is irrigated does not un-change it because of a vote in a legislature.",
+        "The open question, and it is a real one, is whether the trade track now overtakes both. Terms of reference for a free trade agreement were agreed in November 2025, and a bilateral investment agreement was signed in September 2025. If those mature, the relationship's centre of gravity moves again. The record does not yet show whether they will."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "haifa",
+      "title": "The Haifa transaction",
+      "category": "relations",
+      "kind": "Explainer",
+      "standfirst": "The largest single Indian commercial commitment in Israel is a port, and ports are never only commercial.",
+      "sources": [
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "In 2022 an Adani led consortium acquired Haifa Port in a transaction valued at USD 1.18 billion. Placed against the other numbers in the bilateral record, the scale is striking. Cumulative Indian outward direct investment into Israel from April 2000 to April 2025 is recorded at about USD 443 million. Cumulative Israeli foreign direct investment into India from April 2000 to March 2025 is recorded at USD 334.26 million. A single port transaction is larger than either cumulative figure.",
+        "That comparison needs a caveat immediately, because it is the kind of comparison that gets misused. Direct investment figures and an acquisition price are not the same category of number and are not measured the same way. The comparison is useful for a sense of scale and should not be used as though the three figures were directly commensurable.",
+        "What makes a port different from any other asset is geography. Haifa sits on the Mediterranean. Indian shipping reaching it travels the Arabian Sea and the Red Sea, which is the same corridor along which the trade that brought Jewish communities to the Malabar coast once ran. An Indian consortium owning a Mediterranean port is a modern fact with a very old shape.",
+        "It is also why a port is never purely commercial. Ports are infrastructure, and infrastructure ownership carries strategic weight regardless of the intentions of the buyer. This is true of every port acquisition by any company in any country, and noting it is not a criticism of this one.",
+        "What the record here supports: the acquisition happened, in 2022, by an Adani led consortium, at a stated value of USD 1.18 billion, as recorded in the Ministry of External Affairs bilateral brief. What the record here does not support, and what this page therefore does not claim, is anything about the transaction's strategic purpose, its performance since, or its relationship to any wider corridor initiative. Those would each need their own sources."
+      ],
+      "type": "explainer",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "reading-a-brief",
+      "title": "How to read a bilateral brief",
+      "category": "explainer",
+      "kind": "Method",
+      "standfirst": "Government briefs are the most useful documents in this field and the most commonly misread. A short guide to what they do and do not tell you.",
+      "sources": [
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "A bilateral brief is a document a foreign ministry maintains about its relationship with one other country. It lists visits, agreements, trade figures, areas of cooperation, and community information. Most of the dated facts on this site come from one: the Ministry of External Affairs brief on India and Israel, dated February 2026.",
+        "These documents are extremely valuable for one specific reason. They are the institution stating, on its own record, what it considers the relationship to consist of. When a brief says an agreement was signed on a date, that is the ministry's own record of its own act. It is close to unimpeachable as evidence that the act occurred.",
+        "The mistakes people make with them are predictable.",
+        "First, treating absence as evidence of absence. A brief lists what a ministry chose to record. Something missing from it may never have happened, or may simply not have been included. Nothing on this site infers from silence in a brief.",
+        "Second, treating the framing as fact. Briefs describe cooperation warmly, because a bilateral brief is a diplomatic document and not a neutral audit. The dates and the figures are the evidential part. The adjectives are not, and this site does not carry them across.",
+        "Third, missing the negative facts. Briefs sometimes record things that are not flattering, and those are often the most informative lines in the document. The February 2026 brief records that bilateral trade fell in FY 2024-25, to USD 3.75 billion. A ministry recording a decline in its own brief is a stronger piece of evidence than the same figure from any other kind of source.",
+        "Fourth, forgetting the date. A brief is a snapshot. This one is dated February 2026, and by the time anyone reads this the situation may have moved. Every fact drawn from it on this site carries the date the brief was accessed, which is the only honest way to cite a living document.",
+        "Fifth, assuming internal consistency. Government sources can disagree with each other, and sometimes a ministry and its own embassy publish different figures for the same population. This site has a page about exactly that.",
+        "The practical advice, if you are researching this area: start from the briefs on both sides, take the dates and the numbers, leave the adjectives, note the accessed date, and archive the file. Government documents move and disappear. A brief you cannot produce later is a source you did not really have."
+      ],
+      "type": "method-note",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "what-is-an-fta",
+      "title": "What a free trade agreement actually is",
+      "category": "explainer",
+      "kind": "Explainer",
+      "standfirst": "Terms of reference were agreed in November 2025. That is a much smaller thing than the headlines around it suggest, and understanding the difference is useful.",
+      "sources": [
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "The record states that terms of reference for a free trade agreement were agreed during the Indian Commerce and Industry Minister's visit to Israel from 20 to 22 November 2025. It is worth being precise about what that means, because in coverage of trade policy the stages routinely get collapsed into one another.",
+        "Terms of reference are an agreement about what will be negotiated. They set the scope: which sectors are on the table, which are excluded, what the working structure will be, roughly what timeline both sides have in mind. They are the starting gun, and they commit nobody to any particular outcome. Negotiations that begin from agreed terms of reference can and do fail.",
+        "After that comes negotiation, which for a comprehensive agreement between two economies typically runs for years and moves through rounds. Then a concluded text, then legal scrubbing and translation, then signature, then ratification according to each country's own constitutional process, then entry into force, often in phases with tariff reductions scheduled over a further period.",
+        "So the honest description of where things stand, on the evidence in the record: the two governments have agreed what they will talk about. That is a real step and it is not nothing. It is also several stages short of an agreement in force.",
+        "There is a second thing in the record worth reading alongside it. A bilateral investment agreement was signed on the visit of the Israeli Finance Minister from 8 to 10 September 2025. Investment agreements and trade agreements do different jobs: one protects capital that crosses the border, the other governs the terms on which goods and services do. Signing the first before negotiating the second is a conventional sequence, because investors want protection in place before exposure grows.",
+        "Against all of this sits the trade figure itself. In FY 2024-25 bilateral trade fell to USD 3.75 billion, with Indian exports at USD 2.1 billion and imports at USD 1.6 billion. Whether the negotiation reverses that, and on what timescale, is not something any source currently answers."
+      ],
+      "type": "explainer",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "copper-plates",
+      "title": "The copper plates",
+      "category": "history",
+      "kind": "Analysis",
+      "standfirst": "Why one community's early history rests on firmer ground than the others, and what that does and does not prove.",
+      "sources": [
+        "wjc-india"
+      ],
+      "status": "verified",
+      "body": [
+        "Rulers in the Malabar region granted the Jewish community of Kerala copper plates recording the assumption of important positions. It is a short sentence in most accounts and it carries more weight than its length suggests.",
+        "Copper does not rot. A plate can be located, handled, dated on physical and palaeographic grounds, read, translated, and disputed by people who disagree about the translation. This puts the early history of the Cochin community into a category that the other three Jewish communities of India do not occupy in the same way. It is documentary evidence produced at the time by a party outside the community, which is close to the strongest form of evidence early history offers.",
+        "Two things follow, and they pull in opposite directions.",
+        "The first is that the plates support a specific and limited claim: that a ruler recognised the community and formalised its standing at a particular time. That is a substantial fact about the community's position in the society around it. Recognition granted in writing by a sovereign is a different thing from tolerance.",
+        "The second is that the plates prove much less than they are often asked to prove. They do not establish when the community first arrived, only that it was established enough by the time of the grant to be worth granting to. They do not establish anything about the other three communities, whose histories are separate. And they do not settle the broader claim, common in popular accounts, that Jewish life in India was uniformly peaceful across two millennia. A grant of privileges at one moment in one region is evidence about that moment and that region.",
+        "This distinction matters beyond the specific case, because it is the standard move in bad history: take a solid piece of evidence about a narrow claim and let it carry a much larger one. The copper plates are excellent evidence. What they are evidence of has edges."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "2017-2018",
+      "title": "The exchange of 2017 and 2018",
+      "category": "history",
+      "kind": "Analysis",
+      "standfirst": "Twenty-five years passed between the opening of embassies and the first visit to Israel by an Indian Prime Minister. Then six months later the visit was returned.",
+      "sources": [
+        "mea-2026",
+        "eoi-telaviv"
+      ],
+      "status": "verified",
+      "body": [
+        "Prime Minister Modi visited Israel from 4 to 6 July 2017. Prime Minister Netanyahu visited India from 14 to 19 January 2018. Between the two, roughly six months.",
+        "The first of those is the fact usually quoted: the first visit to Israel by an Indian Prime Minister, twenty-five years after full diplomatic relations were established in 1992. It is a real marker. Heads of government visit where they judge it useful to be seen, and for twenty-five years no Indian head of government made that judgement.",
+        "The pairing is the more informative fact. A single visit can be a gesture. A visit returned within six months, at the same level, with agreements attached at both ends, is a working relationship rather than a photograph. In the same period the India Israel Industrial Research and Development and Technological Innovation Fund was established, in 2017, and later renewed for 2023 to 2027.",
+        "There is a smaller detail in the record that is easy to skip. In Tel Aviv the Prime Minister addressed a gathering of approximately 8,000 people of Indian origin and Indian nationals. A head of government addressing a diaspora audience of that size is doing something distinct from meeting a counterpart. It treats the migrated population as a constituency rather than as background, and it connects the state to state relationship to the community history that this site documents elsewhere.",
+        "What can be said with the record in hand: the tempo of high level contact changed around 2017, and it has not slowed since. The record after 2023 shows ministerial visits in most sectors, repeated telephone contact between the two Prime Ministers across 2025 and into January 2026, and a run of agreements through 2025.",
+        "What cannot be said from the record alone is why the change came when it did. That belongs with the open questions, alongside the forty-two years, and for the same reason: the brief records what happened, not why."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "buildings-that-stayed",
+      "title": "The buildings that stayed",
+      "category": "people",
+      "kind": "Analysis",
+      "standfirst": "The congregations left. The synagogues did not. What remains standing in India is the most concrete evidence this history has, and almost nobody has catalogued it.",
+      "sources": [
+        "syn360-shaar",
+        "syn360-parur",
+        "syn360-kadavumbagam",
+        "syn360-judah-hyam",
+        "wjc-india",
+        "britannica-paradesi"
+      ],
+      "status": "verified",
+      "body": [
+        "The World Jewish Congress records roughly 4,800 Jews living in India in 2020, against earlier estimates of between 4,900 and 7,000 as of 1996. Set that against the buildings. There are synagogues in Mumbai, Pune, Thane, Kochi, Parur, Ernakulam, Mala, Chennamangalam, Kolkata and New Delhi. The buildings substantially outnumber the community that built them.",
+        "This is the central physical fact about Jewish India today, and it is the reason this project treats the synagogue directory as its most important dataset rather than as a tourism page. When a community becomes very small, the archive stops being paper and starts being architecture. A building can be photographed, dated, measured and protected. A memory cannot.",
+        "The Kerala pattern is the clearest case, and it is worth setting out in full because it repeats.",
+        "Kadavumbagam Synagogue in Ernakulam ceased functioning as an active synagogue in 1972. In 1974 its Torah scrolls were shipped to the Cochin National Heritage Center. In 1991 the interior and the Aron Kodesh were transported to Moshav Nehalim in Israel for restoration. The building itself is still there, closed to worship, with a business in the front room and a guardian who lets visitors see the grounds.",
+        "Parur Synagogue, built in 1615, went the same way in a different order. Its original bimah and Aron Kodesh were shipped to Israel in 1995 and replaced with reconstructions. Restoration of the building began in 2009.",
+        "Read those two together and a sequence appears. First the congregation goes. Then the scrolls go, because scrolls are the part of a synagogue that must stay with a living community. Then the interior goes, because a museum in Israel can conserve it and an empty building in Kerala cannot. What is left standing is the shell, in the place where the community actually lived, with its contents four thousand kilometres away.",
+        "Neither half of that is wrong. The scrolls belong with people who read them. The building belongs to the street it was built on. But the split means that anyone trying to understand Cochin Jewish life has to look in two countries, and that the Indian half of the evidence is the half nobody is systematically recording.",
+        "Mumbai runs differently, because Mumbai still has a congregation. Shaar Harahamim, built in 1796 and rebuilt at Mandvi in 1860, is recorded as serving roughly 100 members with daily services in a building that seats 300. Keneseth Eliyahoo, built in 1884, has a regular gathering on Sabbaths and High Holidays. These are working buildings, not monuments, and the difference shows in how they are described: condition reports rather than restoration projects.",
+        "New Delhi is a third case again. Judah Hyam Hall had its foundation stone laid on 12 February 1956 and was completed on 2 September 1956, with an annex added in 1979. It is the only building in this directory constructed after Indian independence, and its practice has adapted in ways the source records without embarrassment: the rabbi has never been ordained, the doors are open to people of all faiths, and women count towards the ten people required for a service. A very small congregation in a capital city made the rules work rather than letting the congregation fail.",
+        "Put beside a seventeenth century trading synagogue in Kerala, that is a completely different kind of Jewish history. Both belong in the same directory, and flattening them into one story about decline would miss what is actually interesting about each.",
+        "What this project can say with sources is above. What it cannot yet say is most of the rest. Five of the thirteen sites in the directory have no construction date recorded here, because no date has been read in a source this project has checked. Not one cemetery is recorded at all, and cemeteries are the most fragile category of all: unmarked, unvisited, and the first thing to be built over.",
+        "That gap is the work. A complete, sourced, machine readable directory of Jewish sites in India does not exist. Building one is within reach of a small project with a camera and a habit of citing things."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "meeting-in-mandvi",
+      "title": "A meeting in Mandvi, 1919",
+      "category": "history",
+      "kind": "Analysis",
+      "standfirst": "On 2 April 1919 a Bene Israel meeting on Zionism was held in a Bombay synagogue. It is a single dated line in a museum record, and it does more work than most whole chapters.",
+      "sources": [
+        "syn360-shaar",
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "The record of Shaar Harahamim synagogue in Mumbai, kept by Synagogues360 at ANU, the Museum of the Jewish People, contains a line that is easy to read past. On 2 April 1919, a Bene Israel meeting on Zionism was held at the synagogue.",
+        "Consider what that date sits between. The State of Israel is twenty-nine years away. Indian independence is twenty-eight years away. India's recognition of Israel, on 17 September 1950, is thirty-one years away. Full diplomatic relations, in 1992, are seventy-three years away.",
+        "In other words, a community in Bombay was meeting to discuss Zionism before either of the two states in this project's title existed. That single fact does more to justify the sentence this site opens with, that the relationship did not begin in 1992, than any amount of argument about civilisational affinity.",
+        "It is worth being precise about what the record supports and what it does not. It supports that a meeting happened, that it was a Bene Israel meeting, that its subject was Zionism, that it took place at Shaar Harahamim, and that the date was 2 April 1919. It does not tell us who attended, what was resolved, what the tone was, whether the meeting was for or against, or whether it was one of many or the only one of its kind. A single line in a building's history is a pointer, not an account.",
+        "This is exactly the kind of item this project exists to chase. The meeting was presumably minuted, reported, or at least mentioned in the Anglo Jewish or Indian press of the period. Bombay in 1919 had newspapers, and Jewish communal organisations kept records. Somewhere there is more than one line.",
+        "Two further things make the date worth holding on to.",
+        "The first is that it belongs to the Bene Israel specifically, not to Jews in India generally. The Bene Israel were Marathi speaking, long settled, and in 1919 largely a community of Bombay and the Konkan rather than recent arrivals with European connections. A Zionist meeting among that community is a different phenomenon from a Zionist meeting among, say, a recently arrived European Jewish population, and any account that blurs the two is missing the point.",
+        "The second is that it complicates the standard periodisation. The usual story of India and Israel runs: Indian independence, then the creation of Israel, then Indian foreign policy decisions, then a gap, then 1992. In that story the Jewish communities of India appear only as objects, populations that later migrated. The 1919 meeting shows them as participants in an argument, three decades early, in their own building, in their own city.",
+        "This project lists among its open questions why India recognised Israel in 1950 and waited until 1992 for full relations. There is a companion question that is smaller and more answerable: what were the Jewish communities of India themselves saying about all of this, and when did they start saying it? The answer to the second may not illuminate the first at all. Communities and foreign ministries are not the same actor. But it is a real question with a real archive behind it, and one dated meeting in April 1919 is the thread to pull."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "sassoon-footprint",
+      "title": "The Sassoon footprint",
+      "category": "people",
+      "kind": "Analysis",
+      "standfirst": "One family arrives in Bombay in 1832. A century and a half later, a synagogue anniversary in that city draws the President of India.",
+      "sources": [
+        "wjc-india",
+        "pib-jews",
+        "syn360-magen-david",
+        "syn360-kneseth"
+      ],
+      "status": "verified",
+      "body": [
+        "The Sassoon family arrived in Bombay in 1832, part of the nineteenth century movement of Baghdadi Jews leaving Iraq and neighbouring lands. The Press Information Bureau records that David Sassoon built institutions in the city that still serve Indian society. The World Jewish Congress records the arrival date. Between those two flat statements sits one of the more legible stories of institution building in colonial Bombay.",
+        "The buildings are the visible part. Magen David synagogue, built in 1861 by David Sassoon in a Neo Classical style, with an elementary school for the study of the Torah on its grounds, expanded by his son in 1910. Keneseth Eliyahoo, built in 1884 by Jacob Elias Sassoon and his brother Albert in memory of their father Eliyahoo, in a Victorian style. Two synagogues, one school, twenty-three years apart, all from one family.",
+        "The pattern in that list matters more than any individual building. A synagogue serves a congregation. A school attached to a synagogue serves a congregation that expects to still be there in a generation. The Sassoon institutional footprint in Bombay was built by people making long bets on a city, and it is the physical evidence that the Baghdadi community did not regard India as a waiting room.",
+        "Two later facts show what those bets produced.",
+        "The first is about who ends up in the building. Keneseth Eliyahoo was built by and for Baghdadi Jews. After 1941 the congregation received an influx of Jews from Bukhara, Persia and Iraq. From 1948, emigration to Israel ran the other way. Today the congregation is recorded as primarily Bene Israel. A building put up by one community in 1884 is now used by a different one, in the same city, under the same roof, with the same fittings. That is not decline. It is a building outliving the specific population that made it, which is what institutions are for.",
+        "The second is about standing. The 125th anniversary of Keneseth Eliyahoo, in 2009, was attended by the President of India, the Governor of Maharashtra and the Ambassador of Israel. A synagogue anniversary drawing a head of state is a small, concrete, checkable data point about the position of the Jewish communities in Indian public life, and it is worth more than a page of general statements about tolerance.",
+        "The Press Information Bureau list of Indian Jewish contributions runs wider than the Sassoons and is worth reading for its ordinariness. Edwyn Myers gave shape to the Films Division of India. Walter Kaufmann composed the signature tune for All India Radio. Doctor Reuben David founded the Kankaria Zoo in Ahmedabad. David Abraham Cheulkar became a household name as an actor. Lieutenant General J. F. R. Jacob is recorded for his contribution during the 1971 war with Pakistan.",
+        "Notice what kind of list that is. It is not a list of community leaders or religious figures. It is a signature tune, a zoo, a film institution, a film career, and a war. These are people who show up in the history of Indian institutions rather than in the history of a minority, which is a different and stronger claim about belonging than any amount of assertion.",
+        "This project holds each of those names as a single sourced line, which is honest and thin. Every one of them is a person with a full record somewhere: a service file, a filmography, an institutional archive. Turning eleven lines into eleven proper entries is straightforward work that nobody has done in one place."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "shrinking-congregation",
+      "title": "What a shrinking congregation does",
+      "category": "people",
+      "kind": "Analysis",
+      "standfirst": "Judah Hyam Hall in Delhi changed its rules to survive. That is more interesting than any story about decline.",
+      "sources": [
+        "syn360-judah-hyam",
+        "wjc-india"
+      ],
+      "status": "verified",
+      "body": [
+        "The Jewish Welfare Association in Delhi was formed in 1949. The foundation stone of Judah Hyam Hall was laid on 12 February 1956 and the building was completed on 2 September 1956. An annex was added in 1979. It serves roughly 50 local members, along with diplomats and visitors, with Sabbath and High Holiday services and bar and bat mitzvahs.",
+        "Fifty people is not many. What is interesting is what fifty people did about it.",
+        "The source records three departures from custom, stated without apology. The rabbi has never been ordained. The doors are open to people of all faiths. Women count towards the minyan, the ten people traditionally required for communal prayer.",
+        "Each of those is a real adaptation with a real cost, and each is the sort of thing that would be contested in a larger community. In a congregation of fifty, in a city where the next synagogue is a very long way away, they are the difference between a service happening and not happening.",
+        "This is worth saying plainly because the standard narrative about Jewish India is a narrative of loss. Populations fell from thousands to hundreds, communities emigrated, buildings emptied. All of that is true, and the numbers support it: the World Jewish Congress records roughly 4,800 Jews in India in 2020, against between 4,900 and 7,000 as of 1996.",
+        "But loss is a description of a quantity, and it explains nothing about what the remaining people actually did. Judah Hyam Hall is the record of a group deciding that continuity mattered more than any single rule about who may be counted, and acting on that decision in 1956 and continuing to act on it. That is not a story about a community disappearing. It is a story about a community choosing which of its parts were load bearing.",
+        "The contrast with Kerala sharpens it. In Kerala the buildings were kept and the practice moved to Israel: scrolls shipped in 1974, interiors shipped in 1991 and 1995, structures restored as heritage. In Delhi the practice was kept and the rules were adjusted around it. Two entirely different answers to the same shrinkage, and neither is obviously the wrong one.",
+        "This is also why the phrase Indian Jewish community, in the singular, is a category error that this project keeps flagging. In one country, in living memory, you have a seventeenth century Kerala congregation whose bimah is now in a moshav, an 1884 Bombay synagogue built by Baghdadis and now used mainly by Bene Israel, and a 1956 Delhi hall with an unordained rabbi and women in the minyan. These do not share a story. They share a country.",
+        "One caution about all of the above. Every fact in it comes from one institutional source, the Synagogues360 record kept by ANU, the Museum of the Jewish People, and the descriptions of practice were written at a particular moment. Congregational practice changes. If you know the present position at Judah Hyam Hall and it differs from this, an email to the corrections address is the fastest route to correcting it."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "civilisational-ties",
+      "title": "The trouble with civilisational ties",
+      "category": "method",
+      "kind": "Argument",
+      "standfirst": "The phrase does real work in speeches and almost none in research. A short case for retiring it, from a project that has it in its own name.",
+      "sources": [
+        "mea-2026",
+        "wjc-india"
+      ],
+      "status": "verified",
+      "body": [
+        "Anyone reading about India and Israel encounters the phrase civilisational ties within about four paragraphs. Two ancient peoples, two enduring traditions, two survivors of long histories, natural partners. It is warm, it is popular on both sides, and it is close to content free.",
+        "The problem is not that it is false. It is that it is unfalsifiable. There is no observation that would count against it. If the two countries cooperate closely, that is the civilisational tie expressing itself. If they do not, the tie is dormant, or obstructed by politics. A claim that cannot fail is not doing any explanatory work.",
+        "The second problem is that it is available to anyone. Almost any pair of countries with long histories can be described as civilisationally linked, and the phrase gets applied to India and Iran, India and Greece, India and Egypt, India and Japan. If a description fits every pair, it distinguishes none of them.",
+        "The third problem is the one that should worry anyone who cares about the subject. The phrase is often used to substitute for evidence rather than to summarise it. It is a way of asserting a relationship without having to produce a date, a document, or a name.",
+        "Here is the alternative, and it is not more boring, it is considerably more interesting.",
+        "Instead of civilisational ties, say: copper plates issued by Malabar rulers recording the standing of a Jewish community. Say: a synagogue built in Kochi in 1568 by traders including families exiled from Spain and Portugal. Say: the Sassoons arriving in Bombay in 1832 and building two synagogues and a school. Say: a Bene Israel meeting on Zionism at a Bombay synagogue on 2 April 1919. Say: recognition on 17 September 1950 and diplomatic relations in 1992, forty-two years apart. Say: 43 agricultural centres of excellence approved and 35 operational under a work plan covering 2024 to 2026.",
+        "Every one of those is checkable. Every one of those can be wrong, which is what makes them worth stating. Together they describe something far more specific than a civilisational affinity: a long, uneven, interrupted, and mostly commercial and communal traffic between two regions, followed by a modern state relationship with a very particular shape.",
+        "This project carries the word civilisations in its own name, and that is a deliberate tension worth naming. The word is there to mark a scope, that this site covers more than the diplomatic period, and not to make an argument. The moment it starts standing in for evidence on any page here, that page has failed its own standard.",
+        "There is a fair objection to all this. Sometimes the resonance is real. When two societies both have long textual traditions, both have diaspora experiences, and both organise memory around a homeland, people in each recognise something in the other, and that recognition has effects on how they talk to each other. That is worth studying.",
+        "But study it as what it is: a claim about how people in each country perceive the other, which is a question about perception, testable by asking them. That is a research programme. Civilisational ties, as usually deployed, is a way of not having one."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "link-rot",
+      "title": "Government documents disappear",
+      "category": "method",
+      "kind": "Method",
+      "standfirst": "The single most common way a well sourced page becomes an unsourced page is that the source moves. Here is what this project does about it.",
+      "sources": [
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "Almost every dated fact on this site rests on documents published by governments. The Ministry of External Affairs bilateral brief. Embassy pages. Press Information Bureau releases. These are the right sources to use. They are also, as a class, among the least stable documents on the internet.",
+        "Government sites are reorganised. Briefs are replaced by newer briefs at new addresses. Press release systems are migrated and old identifiers stop resolving. A ministry updates a page in place, so the address still works but the content underneath a citation has changed and the citation is now wrong in a way nobody can see.",
+        "For a project whose entire promise is that every claim carries a source, that is not a minor inconvenience. It is the main long term threat. A page citing a link that returns an error is functionally an unsourced page, and worse, it looks sourced.",
+        "There are three defences and this project uses all three.",
+        "The first is the accessed date. Every source in the register carries the date it was read. That does not preserve anything, but it tells a reader exactly which version of a living document a claim was drawn from, and it tells a future editor how stale a citation has become. A citation without an accessed date is a citation to a document that may no longer exist in the form described.",
+        "The second is archiving. Any public web page can be submitted to a web archive, which stores a dated copy at a stable address. Submitting every source at the moment it is cited costs nothing and means that when the original moves, the evidence is still producible. This is the single highest value habit available to a zero budget research project, and it is the one most often skipped because it is invisible while it is working.",
+        "The third is redundancy. Where a fact appears in more than one independent source, cite more than one. Several claims on this site rest on both the Ministry brief and the Embassy page. That is not padding. It means the claim survives either one of them going down.",
+        "There is a fourth thing, which is not a defence but an obligation. When a source does die, say so on the page rather than quietly swapping in a replacement. A citation that changed is a fact about the record, and readers who checked the old one deserve to know.",
+        "None of this is specific to India and Israel. It applies to any project that builds on government publishing. It is written down here because the promise on this site's About page, that nothing is published without a source, is only as good as the sources remaining findable, and a promise with a known failure mode should say what the failure mode is."
+      ],
+      "type": "method-note",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "research-this-yourself",
+      "title": "How to research this subject yourself",
+      "category": "method",
+      "kind": "Guide",
+      "standfirst": "A practical route into India and Israel research for someone starting with nothing but an internet connection. The same route this project took.",
+      "sources": [
+        "mea-2026",
+        "eoi-telaviv",
+        "pib-jews",
+        "wjc-india",
+        "britannica-paradesi",
+        "syn360-search"
+      ],
+      "status": "verified",
+      "body": [
+        "This project has no institutional access, no budget, and no archive card. Everything on this site was assembled from documents anyone can read. That is worth writing down as a method, because the biggest barrier to entry in this subject is not access. It is not knowing where to start.",
+        "Start with the bilateral briefs. Both foreign ministries maintain a document describing the relationship with the other country. India's is published by the Ministry of External Affairs, carries a date, and lists visits, agreements, trade figures, cooperation sectors and community information. Read it whole, twice. The first read tells you what exists. The second, with a notebook, gives you a list of every dated event mentioned, which is your skeleton.",
+        "Take the dates and leave the adjectives. A brief is a diplomatic document. Its dates and figures are the institution's own record and are strong evidence. Its descriptions of warmth and depth are framing and carry across into research as nothing at all.",
+        "Read the embassy pages next, on both sides. Embassies publish things ministries do not: community information, event records, consular operations, lists of award recipients. The Embassy of India in Tel Aviv is where this project found the National Convention of Indian Jews, its host towns and years, and the Pravasi Bharatiya Samman recipients. None of that is in the ministry brief.",
+        "Expect the two to disagree, and treat that as a finding rather than a nuisance. The ministry brief and the embassy page give different figures for the Indian origin population in Israel and for Indian citizens there. When that happens, record both, name the gap, and go looking for the definitions each used.",
+        "For the community history, the reference institutions come first. The World Jewish Congress community page gives you the four communities and their outlines. Britannica gives you dated entries on individual sites. These will not be the last word on anything, and they are a reliable first word.",
+        "Then go to the museums. This is the step most people skip and it is the richest. ANU, the Museum of the Jewish People, publishes Synagogues360, which holds building by building records for synagogues including those in India: dates, founders, architectural notes, congregation sizes, and what happened to the fittings. That is where the specific, checkable, unusual facts live. A museum record of a single building will tell you more than ten general articles about a community.",
+        "For the modern relationship, the Press Information Bureau carries Indian government releases, which are dated, attributable and searchable.",
+        "Two habits make the difference between notes and research.",
+        "Record the accessed date for everything, every time. Government documents move constantly, and a citation without a date is a citation to a document that may no longer say what you think it says.",
+        "Archive every source at the moment you cite it. A dated copy in a web archive costs nothing to make and is the only thing standing between your work and a dead link.",
+        "Finally, a note on what this method cannot reach. Everything described here is published on the open internet in English. The material that would actually settle most of the open questions on this site is not: Marathi and Malayalam community records, Hebrew language scholarship, Indian and Israeli state archives, newspaper runs from the 1910s to the 1940s, and oral histories held by families rather than institutions. A project built from open web sources should be honest that it is working in the shallow end. The shallow end is deeper than most people assume, and it is not the whole pool."
+      ],
+      "type": "explainer",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "what-is-an-mou",
+      "title": "What a memorandum of understanding actually is",
+      "category": "explainer",
+      "kind": "Explainer",
+      "standfirst": "Most of the India-Israel record consists of memoranda, work plans, dialogues and joint declarations. They are not the same as each other, and none of them is a treaty.",
+      "sources": [
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "Read the India-Israel record and you meet a vocabulary: memorandum of understanding, agreement, joint declaration, work plan, letter of intent, terms of reference, dialogue. Coverage tends to treat all of these as deals signed. They are different instruments with different weight, and being able to tell them apart changes what the record looks like.",
+        "A memorandum of understanding records that two parties have a shared intention and describes what each expects to do. In most cases it does not create obligations that a court or tribunal would enforce. It is a statement of direction, and it is the most common instrument in this record: on defence cooperation in November 2025, on water resources management in November 2016, on the industrial research and development initiative in May 2005, between India's diplomatic training institute and the Israeli foreign ministry in November 2025.",
+        "An agreement, in the way these records use the word, is usually the heavier instrument. The 1993 agreement on agricultural cooperation and the 1993 agreement on science and technology cooperation are framework agreements, and the agricultural one was renewed in April 2025. The test of weight is not the word on the cover but whether the text creates commitments and how it enters into force in each country.",
+        "A letter of intent is lighter than a memorandum. It records that both sides want to do something and intend to work out what. The letter of intent on water technology centres of excellence in May 2023 is an example.",
+        "Terms of reference are lighter still in commitment and heavier in signal. They set the scope of a negotiation that has not happened yet: what will be discussed, what is excluded, how the work will run. The terms of reference for a free trade agreement agreed between 20 and 22 November 2025 commit neither side to any outcome. They commit both to a conversation.",
+        "A joint declaration is a public statement of shared position, made together. The joint declaration on fisheries and aquaculture during the Indian fisheries minister's visit from 13 to 15 January 2026 is one. It creates visibility rather than obligation.",
+        "A work plan is the operational layer, and it is often the most informative item in a record because it says what will actually be done and by when. The sixth work plan on agriculture covers 2024 to 2026 and is the framework the centres of excellence run under. The Joint Work Plan 2026 was agreed on the external affairs minister's visit of 16 to 17 December 2025.",
+        "A dialogue is a recurring meeting. The Cyber Policy Dialogue on 27 March 2025 and the Export Control Dialogue on 27 and 28 October 2025 are not agreements at all. They are institutional habits, and habits are underrated: a dialogue that has run for years means officials on both sides know each other, which is the substrate every agreement rests on.",
+        "Finally, the investment agreement. A bilateral investment agreement, signed during the Israeli finance minister's visit of 8 to 10 September 2025, is a proper treaty level instrument in most systems, creating protections for investors from each country in the other. It is the heaviest thing in the recent record, and it attracted less attention than the free trade terms of reference, which are lighter.",
+        "The practical consequence for reading this subject: count instruments by weight, not by number. A year with one investment agreement and one framework renewal is a heavier year than one with six memoranda and four dialogues, even though the second sounds busier."
+      ],
+      "type": "explainer",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "evacuations",
+      "title": "Ajay and Sindhu",
+      "category": "relations",
+      "kind": "Analysis",
+      "standfirst": "Twice in under two years, India moved its citizens out of the region by name and by operation. Evacuation records are the least ceremonial and most revealing part of a bilateral relationship.",
+      "sources": [
+        "mea-2026",
+        "eoi-telaviv"
+      ],
+      "status": "verified",
+      "body": [
+        "Between 12 and 22 October 2023, over 1,300 people were evacuated under Operation Ajay. Between 22 and 25 June 2025, around 818 people were evacuated under Operation Sindhu.",
+        "These two lines sit in the Ministry of External Affairs bilateral brief among the agreements and visits, and they are of a different kind from everything around them. An agreement records what two governments intend. An evacuation records what one government did when the situation stopped being about intentions.",
+        "Three things make evacuation records unusually informative.",
+        "The first is that they are hard to inflate. A visit can be described as historic and a memorandum as landmark, and neither adjective can be checked. A number of people flown out of a country in a named window is a logistics fact. It is either right or wrong, and there are aircraft manifests behind it.",
+        "The second is that they reveal the size and shape of the exposed population. India maintains a substantial civilian presence in Israel. The ministry brief records over 42,000 Indian citizens there, while the Embassy of India in Tel Aviv records about 18,000, described as mainly caregivers employed by Israeli families, diamond traders, information technology professionals and students. This project shows both figures because the two do not agree.",
+        "Read the evacuation numbers against either figure and the same point holds: the number moved is a small fraction of the number present. Over 1,300 in 2023 and around 818 in 2025 are not mass withdrawals. They are the departure of those who chose or needed to leave, out of a population that largely stayed.",
+        "That composition matters for what the relationship actually consists of. The embassy's description of the Indian population is not a diplomatic or corporate population. Caregivers working in Israeli homes are the largest category named. Whatever the strategic relationship is doing at ministerial level, the daily human contact between the two countries runs substantially through domestic care work, and that is a fact about the relationship that no joint statement will mention.",
+        "The third thing is timing. October 2023 and June 2025 are both moments of regional conflict. The brief also records telephone calls between the two Prime Ministers on 13 June 2025 in connection with the conflict involving Iran, and on 9 October 2025 in connection with the Gaza peace plan. Contact intensifies when the region does. That is unsurprising, and it is worth having on the record rather than assumed, because it defines what the relationship is for on the days it matters most.",
+        "This project does not have, and does not claim, the operational detail: routes, aircraft, who qualified, how the decision to launch was taken, or what happened to those who stayed. Those things are knowable, from parliamentary answers, ministry statements and press coverage at the time. They are on the list."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "the-2025-run",
+      "title": "Reading the 2025 run",
+      "category": "relations",
+      "kind": "Analysis",
+      "standfirst": "One calendar year in the record carries an investment agreement, a defence memorandum, a trade negotiation opening, four leader level phone calls and ministerial traffic in most sectors. That density is itself the finding.",
+      "sources": [
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "Set out the 2025 entries in the Ministry of External Affairs bilateral brief in order and the year looks like this.",
+        "In February, the Israeli economy minister visits from 11 to 13 February, and a joint postage stamp pairing Holi and Purim is released. The Israeli foreign minister visits on 15 February. In March, the Cyber Policy Dialogue is held on 27 March, the director general of the Israeli foreign ministry visits from 17 to 20 March, and a deputy national security adviser visits from 11 to 14 February. In April, the Israeli agriculture minister visits from 7 to 10 April, and the 1993 agricultural cooperation agreement is renewed. Also in April, on the 24th, the Israeli Prime Minister telephones the Indian Prime Minister with condolences.",
+        "In June, a call between the two Prime Ministers on the 13th in connection with the conflict involving Iran, and Operation Sindhu evacuates around 818 people between 22 and 25 June. In September, the Israeli finance minister visits from 8 to 10 September and a bilateral investment agreement is signed. In October, a call on the 9th in connection with the Gaza peace plan, and the Export Control Dialogue on 27 and 28 October.",
+        "In November, a memorandum of understanding on defence cooperation on 4 November alongside the seventeenth meeting of the defence joint working group, the Israeli foreign minister visiting again, a memorandum between India's Sushma Swaraj Institute and the Israeli foreign ministry, and the Indian commerce and industry minister visiting from 20 to 22 November, where terms of reference for a free trade agreement are agreed. In December, a call on the 10th on the regional situation, the Indian external affairs minister in Israel on 16 and 17 December agreeing the Joint Work Plan for 2026, and an agreement for an India Chair at Tel Aviv University.",
+        "Then January 2026: a New Year call between the two Prime Ministers on the 7th, and the Indian fisheries minister in Israel from 13 to 15 January signing a joint declaration on fisheries and aquaculture.",
+        "Three observations follow from the density rather than from any single item.",
+        "The first is that the traffic is ministerial rather than leader level. There was no state visit in either direction in 2025. What there was instead was economy, finance, agriculture, tourism, transport, foreign affairs, commerce and fisheries ministers moving between the two countries, plus defence and security officials. A relationship carried by working ministers is more durable than one carried by summits, because it does not require a leader's calendar to continue.",
+        "The second is that the heaviest instruments cluster in the second half. The investment agreement in September, the defence memorandum in November, the trade terms of reference in November, the work plan in December. Whatever was being prepared in the earlier ministerial visits appears to have landed in the autumn.",
+        "The third is the telephone record. Four calls between heads of government in nine months, on condolences, on the Iran conflict, on the Gaza peace plan, on the regional situation, plus New Year greetings in January. Two of those five are ceremonial and three are situational. A relationship in which heads of government reach each other about regional events, rather than only at summits, is operating at a different level from one that does not.",
+        "One caution against over reading. This is a single year in a document maintained by one of the two governments, and a brief records what a ministry chose to record. Comparable density in earlier years might exist and not be listed. What can be said is that the record as published shows 2025 as the busiest year it describes, and that the instruments signed in it are among the heaviest."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "two-scripts",
+      "title": "Two scripts, opposite solutions",
+      "category": "explainer",
+      "kind": "Explainer",
+      "standfirst": "Hebrew leaves the vowels out. Devanagari builds them in. Neither is harder. Understanding why they differ takes about ten minutes and changes how both look.",
+      "sources": [],
+      "status": "verified",
+      "body": [
+        "Most people meeting Hebrew or Devanagari for the first time decide within a minute that it is difficult. That reaction is about unfamiliarity, not difficulty. Both systems are internally regular, and both solve the same problem in ways that are almost mirror images of each other. Seeing the logic is most of the work.",
+        "The problem both are solving is this: speech is a continuous stream of sound, and writing has to cut it into pieces that can be drawn. Which pieces you choose determines everything else about the system.",
+        "Hebrew cuts at the consonant. The twenty-two letters are consonants, and vowels are normally not written at all. A reader supplies them from context, from knowing the word, and from grammatical pattern. This is called an abjad, and it works because Semitic languages are built on consonantal roots: a three consonant root carries the core meaning, and the vowels poured into it inflect that meaning. Writing the consonants writes the meaning, and the vowels are pronunciation detail a competent reader already knows.",
+        "There is a vowel notation, called niqqud, a system of dots and dashes above and below the letters. It exists, and it is used mainly in prayer books, poetry, dictionaries, and material for children and learners. In ordinary Hebrew text it is absent. A learner therefore faces a script that gives them less information than a fluent reader needs, which is why Hebrew feels hard early and gets easier suddenly.",
+        "Devanagari cuts at the syllable. Each consonant letter carries a built in vowel, the short a, so the letter is not k but ka. To write a different vowel you attach a mark to the consonant. To write the consonant with no vowel at all you attach a different mark to suppress it. This is called an abugida, or an alphasyllabary, and the unit on the page corresponds to a syllable rather than to a single sound.",
+        "The consequence is the opposite of Hebrew's. Devanagari text is fully vocalised as a matter of course. Nothing is left to context, because the vowels are structurally part of every letter you write. A learner can pronounce a Devanagari word correctly long before understanding it, which is the reverse of the Hebrew situation.",
+        "Two details in Devanagari repay attention because they are where the system becomes elegant rather than merely consistent.",
+        "The first is the order of the consonants. It is not arbitrary and it is not alphabetical in the European sense. It is a map of the mouth. The first row is made at the back of the throat, the next at the palate, the next with the tongue curled back, the next at the teeth, the last at the lips. Within each row the sounds move from unvoiced to aspirated to voiced to nasal. Once seen, the grid stops being a list to memorise and becomes a diagram of speech production, worked out by grammarians long before phonetics existed as a field.",
+        "The second is the head line, the shirorekha, that runs across the top and joins the letters of a word into one connected strip. It is not decoration. It is what makes a Devanagari word a visual unit, and it is the reason Devanagari text has a distinctive horizontal grain that Hebrew, which sits on the line in separate blocks, does not.",
+        "One shared feature is worth noting because it surprises people: neither script has capital and small letters. That distinction is a European development and not a requirement of writing.",
+        "And one shared piece of history. Both traditions used letters as numbers. Every Hebrew letter has a numeric value, from alef as one to tav as four hundred, and reading words as numbers is called gematria. Sanskrit mathematics and astronomy used the katapayadi system, which encoded numbers as letters so that formulae could be memorised as verse. Two entirely independent traditions arriving at the same idea, that a writing system can carry arithmetic, is a better example of parallel invention than most of the comparisons usually offered between these two cultures.",
+        "This piece explains structure, not usage. It is an explainer, and it makes no claim about the history of either script or about their relationship to each other. There is none: Hebrew and Devanagari are unrelated systems from unrelated families, and the comparison here is a teaching device, not a lineage."
+      ],
+      "type": "explainer",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "small-project-method",
+      "title": "What a project with no budget can actually do",
+      "category": "method",
+      "kind": "Argument",
+      "standfirst": "Not compete with institutions. Do the specific work institutions are structurally bad at, which is more than it sounds.",
+      "sources": [
+        "syn360-search",
+        "wjc-india"
+      ],
+      "status": "verified",
+      "body": [
+        "The honest starting point for a project like this one is that it cannot do most of what a research institute does. No archive access, no fieldwork budget, no language staff, no peer review, no ability to commission. Pretending otherwise produces a site that looks like an institute and contains a summary of Wikipedia.",
+        "The useful question is the narrower one: what is a small, careful, open project structurally good at that a large institution is structurally bad at?",
+        "The first thing is the boring dataset nobody is funded to build. There is no clean, sourced, machine readable directory of Jewish sites in India. Not because it is difficult, but because it is not a paper, not a grant deliverable, and not anyone's job. A list of buildings with dates, coordinates, conditions and citations is exactly the kind of artefact that requires patience rather than resources, and exactly the kind that everyone else then uses.",
+        "The second is showing the disagreements. Institutions have reasons to present a settled figure. A project with no stakeholders can put two contradictory government figures side by side and say plainly that it does not know which is right. That is genuinely more useful to a researcher than a confident number, and it is easier to do when nobody is depending on the number.",
+        "The third is publishing the gaps. Most writing on this subject describes what is known. Very little of it describes, in a form you could act on, what is missing. This site lists open questions, marks entries with no recorded date as having no recorded date, and keeps a wanted list on the directory and the comparison pages. A researcher looking for a topic can read those lists as a menu. That has value and costs nothing to produce.",
+        "The fourth is speed of correction. An institution corrects on an editorial cycle. A static site with a public corrections address and a published corrections log can correct in an afternoon and show its working. Being wrong faster and more visibly is a real advantage, and it is only available to a project willing to look wrong in public.",
+        "The fifth is that everything can be given away. The data on this site is open, in plain files, in formats anyone can take. A project that produces reusable material becomes infrastructure for other people's work, which is a far more durable form of relevance than being read.",
+        "What follows from this is a discipline about what not to do. Not another general history, because good ones exist. Not another news summary, because the wire services do it better. Not opinion pieces about where the relationship should go, because there is an enormous supply of those and no shortage of people better placed to write them.",
+        "What is left is unglamorous and defensible: catalogue the buildings, date the events, cite everything, show the contradictions, name the gaps, publish the corrections, and give the data away.",
+        "None of that requires a budget. All of it requires the same thing repeated: check the source, record the date, admit the gap."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "the-1949-vote",
+      "title": "The vote of 11 May 1949",
+      "category": "history",
+      "kind": "Analysis",
+      "standfirst": "Before India recognised Israel, it voted against admitting Israel to the United Nations. Both facts are in the record, and only one of them is usually told.",
+      "sources": [
+        "un-273",
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "Resolution 273 (III), on the admission of Israel to membership of the United Nations, was adopted at the 207th plenary meeting of the General Assembly on 11 May 1949. India voted against it. India has been described as the only non-Arab state to do so.",
+        "Sixteen months later, on 17 September 1950, India recognised the State of Israel.",
+        "Put those two dates next to each other and the standard narrative of this relationship stops working. The usual telling runs: India recognised Israel in 1950, then hesitated for forty-two years, then normalised in 1992, and the hesitation is explained by Cold War alignment and West Asian relationships. That story starts too late. It begins after the most revealing act had already happened.",
+        "A vote against admission is not a small thing. Recognition is a bilateral act: one state acknowledging that another exists. Admission to the United Nations is a collective act, and voting against it in 1949 was a position taken in public, on the record, in front of everyone. India took that position and then, the following year, recognised the state anyway.",
+        "This project does not have, and does not claim, the internal reasoning behind either decision. The reasoning would be in cabinet papers, in the files of the Ministry of External Affairs, in the correspondence of the people who made the call. That is exactly the kind of material a project working from open web sources cannot reach, and saying so is more useful than guessing.",
+        "What can be said is what the shape of the two decisions implies. A state that votes against admission and then recognises within sixteen months is a state whose position moved, or whose position was always more complicated than a single vote suggests. Recognition without diplomatic relations, sustained for four decades, is consistent with a government that had settled the question of whether Israel existed and had not settled the question of what relationship to have with it.",
+        "There is a second reason the 1949 vote matters, and it is about how this site presents itself.",
+        "A site that supports the India-Israel partnership has an obvious incentive to leave that vote out. It is not flattering, it complicates the civilisational story, and nobody would notice its absence. Leaving it out is exactly the move that makes a project unciteable. Anyone who knows the subject knows about the 1949 vote, and a site that omits it is telling that reader, in the clearest possible way, that it selects its facts.",
+        "The opposite move is stronger. Put the vote in, date it, cite the resolution, and let the reader see that the relationship was not inevitable and did not begin from warmth. What was built after 1992 was built against that starting point, which makes it a more interesting achievement than if the two countries had been natural partners all along.",
+        "There is one further entry in the record that belongs alongside this one. In December 1991, India voted for the resolution revoking the earlier General Assembly resolution equating Zionism with racism. That is described as the first time India formally and openly voted in favour of Israel at the General Assembly. Full diplomatic relations followed within about a month.",
+        "Read the two votes together and the forty-two years acquire a shape. India voted against admission in 1949. India voted with Israel in December 1991. Embassies opened in 1992. The interval between those two votes is the interval this project keeps saying is the most under examined thing in the relationship, and the votes are the two ends of the thread."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "reading-the-un-record",
+      "title": "Reading India's United Nations record",
+      "category": "relations",
+      "kind": "Analysis",
+      "standfirst": "India's votes on Israel and Palestine do not resolve into a simple direction. Set them out by date and a pattern appears that is more interesting than either side's summary of it.",
+      "sources": [
+        "un-273",
+        "un-es10-19",
+        "un-es10-21",
+        "un-es10-24",
+        "unnews-dec2023",
+        "unnews-sep2025",
+        "noa-palestine-un"
+      ],
+      "status": "verified",
+      "body": [
+        "This is the section of the subject most often summarised and least often laid out. Both the people who say India has swung towards Israel and the people who say India has not budged tend to cite two or three votes and stop. What follows is the record this project has been able to source, in order, with the counts where the sources give them.",
+        "The early markers first. India voted against Israel's admission to the United Nations in May 1949. India recognised Israel in September 1950. India was the first non-Arab state to recognise the Palestine Liberation Organisation, in 1974, and recognised the State of Palestine in 1988. In December 1991 India voted to revoke the resolution equating Zionism with racism, and full diplomatic relations followed in 1992.",
+        "Then the modern run.",
+        "On 21 December 2017 India voted in favour of resolution A/RES/ES-10/19 on the status of Jerusalem, adopted at the 37th plenary meeting of the tenth emergency special session. The vote was 128 in favour, 9 against, 35 abstentions. India was among the 128.",
+        "On 6 December 2018 India abstained on a United States drafted resolution condemning Hamas. That resolution received 87 in favour, 57 against and 33 abstentions, and failed because a two thirds threshold had been imposed.",
+        "On 6 June 2019, at the Economic and Social Council, India voted with Israel to deny observer status to a Palestinian non governmental organisation. The vote was 28 to 14, and India voted alongside the United States, Brazil, France, Germany, Japan, the United Kingdom, South Korea and Canada.",
+        "In May 2021 India abstained on the Human Rights Council resolution establishing a commission of inquiry into the Gaza violence, in a vote of 24 in favour, 9 against, 14 abstentions, abstaining alongside France, Italy, Japan, Nepal, the Netherlands, Poland and South Korea.",
+        "On 27 October 2023 India abstained on resolution A/RES/ES-10/21, adopted at the 41st plenary meeting of the tenth emergency special session. India's stated reason was the absence of all elements of its approach in the text. Reported vote counts for this resolution differ between sources, which this project records rather than resolves.",
+        "On 12 December 2023 India voted in favour of the resolution demanding an immediate humanitarian ceasefire, the immediate and unconditional release of all hostages, and humanitarian access. The vote was 153 in favour, 10 against, 23 abstentions.",
+        "On 6 April 2024 India abstained on a Human Rights Council resolution calling for an immediate ceasefire, in a vote of 28 in favour, 6 against, 13 abstentions, while voting in favour of three other resolutions in the same session, including one affirming Palestinian self determination.",
+        "On 11 May 2024 India voted in favour of the resolution supporting Palestine's bid for full United Nations membership. The vote was 143 in favour, 9 against, 25 abstentions.",
+        "On 18 September 2024 India abstained on the resolution following the International Court of Justice advisory opinion, which demanded that Israel end its presence in the Occupied Palestinian Territory within twelve months. The vote was 124 in favour, 14 against, 43 abstentions. India abstained alongside Australia, Canada, Germany, Italy, Nepal, Ukraine and the United Kingdom.",
+        "On 12 December 2024 India voted in favour of the resolution demanding an immediate, unconditional and permanent ceasefire in Gaza, and in favour of a companion resolution on the United Nations Relief and Works Agency.",
+        "On 12 September 2025 India voted in favour of the resolution endorsing the New York Declaration on a two state solution, in a vote of 142 in favour, 10 against, 12 abstentions. Israel and the United States were among the ten against.",
+        "On 7 December 2025 India voted in favour of renewing the mandate of the United Nations Relief and Works Agency for three years, in a vote of 151 in favour, 10 against, 14 abstentions.",
+        "Now the reading, and it should be offered as a reading rather than as a fact.",
+        "What the record does not show is a country that has switched sides. India abstains on resolutions that assign blame or establish investigative mechanisms, and it votes in favour of resolutions on humanitarian outcomes, hostage release, Palestinian statehood and a two state solution. Those are two different categories of resolution and India treats them differently, consistently, over years.",
+        "The abstentions are where the movement is, and they are movement of a specific kind: from voting with a bloc to declining to vote with a bloc. Where India once could be counted on to be in the majority on any resolution critical of Israel, it now sits out a portion of them, usually the ones with an accountability mechanism attached, and usually alongside a group of Western democracies rather than alone.",
+        "What has not changed in the sourced record is the substantive position. India voted for Palestinian full membership in 2024 and for the two state declaration in 2025, both after the relationship with Israel had reached the level of joint work plans and defence memoranda.",
+        "Anyone arguing that closer ties with Israel have moved India's UN position has to account for those two votes. Anyone arguing that nothing has changed has to account for the abstentions of 2023 and 2024. The honest description is that India has separated its bilateral relationship from its multilateral position and maintains both, and that this is a deliberate posture rather than an inconsistency.",
+        "A caveat about this page. The votes listed here are the ones this project has been able to source. It is not a complete record of every Israel or Palestine related vote India has cast, and it should not be read as one. Building the complete series, resolution number by resolution number, from United Nations documents, is on the list of things this project wants to do and has not yet done."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "the-2026-turn",
+      "title": "February 2026, and what a Knesset address is for",
+      "category": "relations",
+      "kind": "Analysis",
+      "standfirst": "Sixteen memoranda, a new label for the relationship, and the first address by an Indian Prime Minister to the Israeli parliament. The label matters less than one number buried in the joint statement.",
+      "sources": [
+        "pmo-js-2026",
+        "ddnews-2026",
+        "pib-fta-round1"
+      ],
+      "status": "verified",
+      "body": [
+        "Prime Minister Modi made a state visit to Israel from 25 to 26 February 2026. Sixteen memoranda were signed. The relationship was elevated to what the joint statement calls a Special Strategic Partnership for Peace, Innovation and Prosperity. He addressed the Knesset, the first Indian Prime Minister to do so.",
+        "Start with the label, because labels in diplomacy are easy to over read and easy to dismiss, and both mistakes are common.",
+        "A named partnership tier is not a treaty and creates no obligations. What it does is instruct two bureaucracies. When a relationship is designated at a particular level, ministries on both sides acquire a reason to propose things that fit the designation, and officials acquire cover for spending time on it. That is not nothing, and it is also not a commitment. The correct weight to give it is: a signal about intended direction, issued by both governments simultaneously.",
+        "The Knesset address is a different kind of act. A parliament is not a counterpart government. Addressing one is addressing a country's political class in front of its cameras, which is a public diplomacy act aimed at the Israeli domestic audience rather than at the Israeli state. That it had not happened before in thirty-four years of diplomatic relations is a measure of how recent the current tempo is.",
+        "Now the number that does more work than either.",
+        "The joint statement records that the two Prime Ministers agreed that up to 50,000 additional Indian workers may arrive in Israel within the next five years, and that three implementation protocols were signed covering the commerce and services sector, the restaurant sector and the manufacturing sector.",
+        "Set that against what already exists. As of 1 July 2025, 6,774 Indian workers had arrived under the framework agreement, of whom 6,730 were in construction and 44 were caregivers. Counting private recruitment channels as well, the Indian government's own parliamentary reply put the total transferred between November 2023 and July 2025 at more than 20,000.",
+        "Fifty thousand more, across three new sectors, would change the composition of the Indian presence in Israel entirely. It would move it out of construction and care and into services, hospitality and manufacturing, and it would make labour mobility the largest single channel of human contact between the two countries by a wide margin.",
+        "It would also make the relationship legible to a much larger number of Indian families. A defence memorandum is read by specialists. A work permit is read by a household in Uttar Pradesh deciding whether someone goes.",
+        "Two other items in the joint statement deserve to be pulled out.",
+        "The first is agriculture. The statement records that 35 Centres of Excellence were operating with eight more being jointly operationalised, and that more than a million Indian farmers had been trained at them. A million is a large number for a bilateral programme and it is worth checking rather than repeating: this project records it as stated in the joint statement and labels it accordingly.",
+        "The second is water. The statement describes cooperation as focused on water conservation, wastewater treatment and reuse for agriculture, desalination, water utility reforms, and the cleaning of the Ganges and other rivers using advanced water technologies. The inclusion of river cleaning is new in that framing and is worth watching, because river restoration is a far harder problem than irrigation and a far more visible one politically.",
+        "One thing to hold on to while reading any of this. A joint statement is written to be agreed by both sides, which means every sentence in it survived two foreign ministries. That makes it excellent evidence of what both governments were willing to say together on a date, and poor evidence of what will happen. The 50,000 figure is a stated intention with a five year horizon. The honest thing to do with it is to write it down, note the date, and check it in five years.",
+        "The trade track moved in the same month. The first round of free trade agreement negotiations was held in New Delhi from 23 to 26 February 2026, covering trade in goods and services, rules of origin, sanitary and phytosanitary measures, technical barriers to trade, customs procedures, intellectual property and digital trade, with a second round scheduled for May 2026 in Israel. Terms of reference had been signed in Tel Aviv on 21 November 2025.",
+        "Put the whole month together and the pattern is a state visit used as a deadline. Negotiating rounds, protocols and memoranda tend to cluster around a leader's travel because a visit creates a date by which things must be finished. That is how bureaucracies work everywhere, and it is why counting agreements signed during a visit overstates what the visit itself achieved. The work was done in the months before. The visit is when it was allowed to be announced."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "counting-the-centres",
+      "title": "Twenty-nine, thirty-one, thirty-five, thirty-seven, forty-three",
+      "category": "method",
+      "kind": "Case study",
+      "standfirst": "Five official counts of the same programme, none of them wrong. A short lesson in why a number without a date is not a fact.",
+      "sources": [
+        "pib-iiap5",
+        "pib-coe2022",
+        "mea-2023",
+        "mea-2026",
+        "pmo-js-2026",
+        "eoisrael-coe"
+      ],
+      "status": "figures-differ",
+      "body": [
+        "The Centres of Excellence are the most successful civilian programme in the India-Israel relationship, and nobody can tell you how many there are.",
+        "Here is the record, in order.",
+        "In May 2021, when the fifth work programme was signed, the Press Information Bureau recorded 29 Centres of Excellence operational across 12 states, producing more than 25 million vegetable seedlings and more than 387 thousand fruit plants a year.",
+        "In June 2022 the Press Information Bureau recorded 37 approved, 29 fully operational across 12 states, and 8 at various stages of construction.",
+        "In December 2023 the Ministry of External Affairs bilateral brief recorded 31 established across 13 states.",
+        "In February 2026 the Ministry of External Affairs bilateral brief recorded 43 approved, of which 35 were operational, working under a sixth work plan covering 2024 to 2026.",
+        "Also in February 2026, the joint statement issued during the Prime Minister's visit recorded 35 operating and 8 being jointly operationalised, with more than a million Indian farmers trained at them.",
+        "And the Embassy of Israel in New Delhi lists 32 centres by name across 14 states.",
+        "Five counts and a named list, and every one of them is from an official source. The temptation on a website is to pick the highest number, or the most recent, and print it as the figure. This project does not, and the reason is a small piece of method worth stating plainly.",
+        "Those numbers are not in conflict. They are counting different things at different times.",
+        "Approved is not the same as operational. A centre can be sanctioned, budgeted and announced years before it grows a seedling, which is why 37 approved and 29 operational appear in the same 2022 release without contradiction. A programme in construction always has a gap between those two figures, and the gap is a measure of momentum rather than of confusion.",
+        "Dates matter more than anything. 29 in May 2021 and 35 in February 2026 are not competing claims. They are a programme growing at roughly one to two centres a year, which is exactly what you would expect of physical infrastructure built inside state agricultural departments.",
+        "The December 2023 figure of 31 sitting between 37 approved in 2022 and 43 approved in 2026 is the one that looks strange, and it is the clearest evidence that the categories differ: 31 established is a narrower category than 37 approved.",
+        "And a named list is always shorter than a count, because publishing a list requires someone to maintain it. The Embassy's 32 named centres are the ones documented well enough to name.",
+        "So what should a reader do with this?",
+        "The rule this project applies: never print a bare number for a moving programme. Print the number, the date, the source, and the category it counts. That is four pieces of information instead of one, and it is the difference between a fact and a factoid.",
+        "The rule has a second benefit that is easy to miss. Showing five counts across five years turns a static number into a trajectory. A reader who sees only 43 learns that a programme is large. A reader who sees 29 in 2021 and 43 in 2026 learns that it is growing, and can estimate what the next number will be. The second reader knows more, and the only cost of telling them is the small embarrassment of admitting that one number was never available.",
+        "There is one figure in this cluster that this project would especially like checked. The claim that more than a million Indian farmers have been trained at these centres appears in the joint statement of 26 February 2026. An earlier count, in June 2022, recorded more than 3.6 lakh farmers trained and over 250 field officers trained in Israel. Going from 360,000 to more than a million in under four years is possible, and it is the kind of jump that deserves a definition. What counts as trained? A residential course, a day visit, a demonstration attended? The joint statement does not say, and the answer would change how the number should be read."
+      ],
+      "type": "method-note",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "where-the-centres-are",
+      "title": "The geography of a cooperation programme",
+      "category": "relations",
+      "kind": "Analysis",
+      "standfirst": "Thirty-two agricultural centres in fourteen states, and not one of them in a capital city. What the map of this programme says that the diplomacy does not.",
+      "sources": [
+        "eoisrael-coe",
+        "pib-iiap5",
+        "pib-coe2022",
+        "pib-karnataka",
+        "eoi-econ"
+      ],
+      "status": "verified",
+      "body": [
+        "Read the list of Centres of Excellence published by the Embassy of Israel in New Delhi and the first thing that strikes you is the addresses. Gharaunda in Karnal. Mangiana in Sirsa. Talala in Junagadh. Chandi in Nalanda. Lunglei. Kuppam. Chinsurah in Hooghly.",
+        "These are district towns and block headquarters. The programme with the largest physical footprint in the whole India-Israel relationship does not touch New Delhi or Mumbai at all.",
+        "The distribution, as published: Haryana five, Maharashtra four, Gujarat three, Karnataka three, Punjab three, Rajasthan three, Tamil Nadu two, Uttar Pradesh two, Bihar two, and one each in Mizoram, Andhra Pradesh, Telangana, West Bengal and Himachal Pradesh.",
+        "Three things in that distribution are worth stopping on.",
+        "The first is Haryana. Five centres, the most of any state, covering vegetables at Gharaunda, citrus and pomegranate at Mangiana, mango at Ladwa, beekeeping at Ram Nagar and semi-arid horticulture at Gignow in Bhiwani. Beekeeping is the outlier in that list and the most interesting item on it, because it is not a crop. A cooperation programme that has reached the point of running a dedicated beekeeping centre is one that has moved past demonstration projects into filling gaps.",
+        "The second is Mizoram. One centre, at Lunglei, for citrus. Mizoram is roughly three thousand kilometres from Israel's nearest interest and is the origin region of the Bnei Menashe, whose migration to Israel is the most recent of the four community movements this project documents. There is no reason to think the citrus centre and the community history are connected, and this project has no source suggesting they are. It is simply worth noticing that the two threads of this relationship, the agricultural and the communal, both arrive in the same small state by entirely separate routes.",
+        "The third is the crop logic. Look at what each centre grows and the programme's premise becomes visible. Date palm at Kukma in Bhuj and at Jaisalmer. Brackish water at Bhatinda. Semi-arid horticulture at Bhiwani. These are the assignments of a partner whose own agriculture was built in a desert. Israel is not being asked to advise on rice or wheat. It is being asked about the places in India that most resemble Israel.",
+        "That is the whole intellectual content of the agricultural relationship, and it is more specific than the language of technology transfer suggests. The transferable part is not farming. It is farming under a particular constraint.",
+        "The programme extends outward through the Villages of Excellence initiative, which surrounds a centre with a cluster of villages that adopt its methods. In 2021 it targeted eight states, with 13 Centres of Excellence covering 75 villages, on three stated pillars: modern agricultural infrastructure, capacity building and market linkage. The Embassy of India in Tel Aviv records 190 villages identified across 22 Centres of Excellence in 12 states.",
+        "The market linkage pillar is the one that decides whether any of this works. A farmer who adopts a new method and cannot sell the output has been given a problem, not a solution. That the programme names market linkage as a pillar suggests the people running it know this. Whether it is delivered is a separate question, and one this project cannot answer from published sources.",
+        "The Karnataka opening of June 2021 gives a sense of scale at the level of a single centre. Three centres were inaugurated together, at Kolar for mango, Bagalkote for pomegranate and Dharwad for vegetables, with a stated combined capacity of 50,000 grafts and 25 lakh vegetable seedlings a year, and about 20,000 farmers recorded as having visited them.",
+        "Twenty thousand farmers visiting three centres is the number that makes the programme make sense. Not the memoranda, not the ministerial visits, not the count of centres. A demonstration plot only does anything if people come and look at it, and then go home and change what they plant.",
+        "One limit on everything above. All of it comes from official sources describing their own programme. There is no independent evaluation in this project's record of whether yields actually changed, whether adoption persisted after the training, or what happened to farmers who adopted and then hit a bad year. Those studies may exist. Finding them would be worth more than another count of centres."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "buyer-to-builder",
+      "title": "From buyer to builder",
+      "category": "relations",
+      "kind": "Analysis",
+      "standfirst": "The defence relationship is usually described by what India buys. The more informative story is where the manufacturing moved.",
+      "sources": [
+        "pib-mrsam",
+        "drdo-mrsam",
+        "adani-elbit",
+        "sipri-2024",
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "The Stockholm International Peace Research Institute records that between 2020 and 2024 Israel supplied 13 per cent of India's arms imports, making it India's third largest supplier after Russia at 36 per cent and France at 33 per cent. Over the same period India was the second largest arms importer in the world.",
+        "That is the number most accounts of this relationship reach for, and it is the least interesting thing in the file.",
+        "A supplier share tells you about transactions. What it does not tell you is whether the relationship has changed shape, and on the evidence available it has, in a direction that a purchase figure cannot capture.",
+        "Take the clearest case. The Defence Research and Development Organisation states on its own site that it is developing the Medium Range Surface to Air Missile system jointly with Israel Aerospace Industries, for the Indian Air Force and Indian Army Air Defence, and that a number of firing units have been delivered to both.",
+        "The word doing the work there is jointly. On 9 September 2021, at Air Force Station Jaisalmer, the first deliverable firing unit was handed to the Indian Air Force in the presence of the Defence Minister, the DRDO Chairman, the Chief of the Air Staff, the Chief of Defence Staff and the President and Chief Executive of Israel Aerospace Industries. The Press Information Bureau describes the system as developed jointly by DRDO and IAI in collaboration with Indian industry, capable of engaging multiple targets at ranges up to 70 kilometres.",
+        "A joint development programme is a different relationship from a sale. In a sale the buyer receives a finished object and, usually, a maintenance contract. In a joint development programme the two sides share the design problem, and the receiving country's own laboratories acquire capability that outlives the specific system.",
+        "The manufacturing record points the same way.",
+        "On 3 August 2017 Kalyani Rafael Advanced Systems opened what was described as India's first private missile subsystems manufacturing facility, in Hyderabad, a 24,000 square foot plant with the Kalyani Group holding 51 per cent and Rafael Advanced Defense Systems 49 per cent, making Spike anti-tank guided missiles and related technologies.",
+        "On 14 December 2018 Adani Defence and Aerospace and Elbit Systems inaugurated a 50,000 square foot facility, also in Hyderabad, described as the first unmanned aerial vehicle manufacturing facility in India and the first outside Israel to manufacture the Hermes 900 medium altitude long endurance drone, producing carbon composite aero-structures for the Hermes 900 and Hermes 450.",
+        "Two plants, both in Hyderabad, sixteen months apart, both majority Indian owned, both making things that were previously imported finished.",
+        "Notice the ownership split in the first: 51 per cent Indian, 49 per cent Israeli. That is not an accident of negotiation. It is the shape a joint venture takes when the receiving country has a policy of majority domestic ownership in defence manufacturing, and it means the Israeli partner accepted a minority position in order to be inside the Indian production system rather than outside selling into it.",
+        "The institutional record has moved in parallel. The first talks at the level of defence ministers took place on 3 March 2023, which is late in a relationship that had been running for thirty-one years. A National Security Adviser visit followed in March 2024. A memorandum of understanding on defence cooperation was signed on 4 November 2025 in Tel Aviv, at the seventeenth meeting of the joint working group on defence cooperation, signed by India's Defence Secretary and the Director General of the Israeli Ministry of Defence.",
+        "The text of that memorandum, as described in the Indian release, covers strategic dialogues, training, defence industrial cooperation, science and technology, research and development, artificial intelligence and cyber security, and states an aim of enabling the sharing of advanced technology and promoting co-development and co-production.",
+        "Co-development and co-production are the two words that describe the whole trajectory above, and they appeared in a signed instrument only in November 2025, years after the plants had opened. Practice ran ahead of paperwork, which is common and worth noticing, because it means the memorandum is better read as a description of what was already happening than as a plan for what will.",
+        "Two honest limits on this page.",
+        "First, defence relationships are partly opaque by design, and everything above is drawn from what governments and companies chose to announce. There is no way, from open sources, to know the proportion of the relationship that is public.",
+        "Second, this project could not verify the large headline arms package figures that circulated in 2025 press coverage, in any Indian or Israeli government source. They are therefore not on this site. If a reader can point to an official source for such a figure, the corrections address is the route."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "the-trade-graph",
+      "title": "The trade graph nobody draws",
+      "category": "relations",
+      "kind": "Analysis",
+      "standfirst": "Two hundred million dollars, then almost eleven billion, then under four. The bilateral trade series is the most volatile number in this relationship and the one most often quoted without its neighbours.",
+      "sources": [
+        "mea-2023",
+        "eoi-econ",
+        "mea-2026",
+        "pib-fta-round1",
+        "ibef-trade",
+        "pib-bia"
+      ],
+      "status": "verified",
+      "body": [
+        "Put the bilateral trade figures in order and something happens that no single figure conveys.",
+        "In 1992, when embassies opened, bilateral trade was around USD 200 million, and the Ministry of External Affairs brief notes that it was primarily diamonds.",
+        "In FY 2021-22 it was USD 7.86 billion, excluding defence.",
+        "In FY 2022-23 it peaked at USD 10.77 billion, excluding defence, with Indian exports at around USD 8.4 billion.",
+        "In FY 2023-24 it was USD 6.53 billion.",
+        "In FY 2024-25 the Ministry of External Affairs records USD 3.75 billion, with Indian exports at USD 2.1 billion and imports at USD 1.6 billion, attributing the fall to regional security issues and trade disruption. The Press Information Bureau, for the same year, records approximately USD 3.62 billion.",
+        "Three observations follow, and they run in different directions.",
+        "The first is about the growth. From USD 200 million to USD 10.77 billion is a multiple of roughly fifty-four across thirty-one years. Almost no bilateral trading relationship grows like that from a standing start, and it is the strongest single piece of evidence that 1992 changed something material rather than merely diplomatic.",
+        "The second is about the fall. From USD 10.77 billion to USD 3.75 billion in two years is a decline of about two thirds. That is not a slowdown, it is a collapse, and it happened during the period in which the political relationship was reaching its warmest recorded point. Anyone using trade as a proxy for closeness has to explain that, and the honest answer is that trade is a proxy for shipping lanes, insurance rates and regional stability at least as much as for diplomacy.",
+        "The third is about composition, and it is the part most easily missed. The figures released by the India Brand Equity Foundation for FY 2025-26 up to November 2025 record India's exports to Israel at USD 1.45 billion and imports at USD 1.12 billion, with the top Indian export category being pearls and precious stones at USD 416.62 million, followed by electrical machinery at USD 243.62 million and organic chemicals at USD 63.71 million. On the import side, pearls and precious stones again lead at USD 316.24 million, followed by electrical machinery at USD 270.28 million and fertilisers at USD 85.46 million.",
+        "Look at the top line on both sides. Pearls and precious stones is the largest category going out and the largest coming in. The diamond trade that made up almost all of the 1992 figure is still, more than three decades later, the single biggest component in both directions.",
+        "That is a striking continuity, and it complicates the technology partnership framing considerably. Rough stones travel to India, are cut and polished, and travel back. The trade relationship at its core remains a processing arrangement built on an old commercial network, with electronics and chemicals layered on top of it.",
+        "It also explains part of the volatility. A trade relationship concentrated in one high value, low weight, easily rerouted commodity will swing hard when shipping and insurance conditions change, in a way that a diversified relationship would not.",
+        "Two instruments are meant to change this. A Bilateral Investment Agreement was signed on 8 September 2025 in New Delhi by the Indian and Israeli finance ministers, providing protection against expropriation, transparency, transfer rights, compensation for losses and independent arbitration. Total bilateral investment at signature stood at USD 800 million. That agreement entered into force on 4 July 2026.",
+        "And terms of reference for a free trade agreement were signed in Tel Aviv on 21 November 2025, with the first negotiating round held in New Delhi from 23 to 26 February 2026 and a second scheduled for May 2026.",
+        "Whether either changes the shape of the series is unknown, and this project would rather say so than predict. What can be said is what to watch for. If the free trade agreement works as intended, the diamond share falls as a proportion, not because diamonds decline but because other categories grow around them. If the diamond share is still the top line on both sides in five years, the agreement will have moved volumes without changing the relationship's structure.",
+        "One methodological note. All the figures above exclude defence, which is stated explicitly in several of the sources. Defence trade is significant in this relationship and is accounted for separately. Any comparison of these figures with a country whose trade data includes defence is not comparing like with like."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "water-by-place",
+      "title": "Water, project by project",
+      "category": "relations",
+      "kind": "Analysis",
+      "standfirst": "Of every strand in this relationship, water is the easiest to state precisely, because it lands as plant and paperwork in towns you can name.",
+      "sources": [
+        "pmo-water-2015",
+        "pmo-water-2017",
+        "iitm-water",
+        "eoi-econ",
+        "pmo-js-2026",
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "Most bilateral cooperation resists description. It exists as dialogues, working groups and memoranda whose effects, if any, are diffuse. Water is the exception in this relationship, because water infrastructure has an address.",
+        "The framework first. The Union Cabinet approved a memorandum with Israel on water resources management and development cooperation on 2 December 2015, covering efficient water use, micro irrigation, recycling and reuse of waste water, desalination, aquifer recharge and in situ conservation, with a joint working group to monitor it. The Ministry of External Affairs records the memorandum as signed in November 2016.",
+        "On 28 June 2017 the Cabinet approved a second memorandum, on a national campaign for water conservation in India, described as designing, implementing and monitoring a professionally designed campaign including the reuse, recharge and recycling of water.",
+        "Then, on 5 July 2017, during the Prime Minister's visit to Israel, two of the seven agreements signed were on water: a water conservation memorandum between India's Ministry of Drinking Water and Sanitation and Israel's Ministry of National Infrastructure, Energy and Water Resources, and a state water utility reforms memorandum between that Israeli ministry and Uttar Pradesh Jal Nigam.",
+        "That second one is the more unusual document. A national ministry of one country signing directly with a state level water utility of another is a narrow, operational instrument, and it points at where this cooperation actually lives.",
+        "It lives in the states. Here is the record this project has been able to source.",
+        "Punjab signed a memorandum with Israel's national water company Mekorot on 24 October 2018, under which Mekorot would prepare a water conservation and management plan for the state, with a joint working group set up within weeks.",
+        "Haryana and Israel signed a joint declaration on integrated water resources management and capacity building on 14 June 2022, signed for Israel by the head of MASHAV and for India by Haryana's Irrigation and Water Resources Department.",
+        "Rajasthan signed a joint declaration with the Israeli Foreign Ministry on 10 December 2024, at the Rising Rajasthan summit in Jaipur, to enhance cooperation in the water sector.",
+        "Three states, three instruments, six years apart, all of them signed by the state rather than by the Union. This is federalism doing foreign policy, and it is one of the more genuinely interesting structural features of the relationship. A Centre to Centre agreement creates a framework. A state signing its own declaration creates a project, because the state is the level at which Indian water is actually managed.",
+        "Then the plant on the ground. The Embassy of India in Tel Aviv records a set of named Israeli water projects in India: desalination plants by IDE; Mekorot providing expertise to Greater Mumbai and to West Bengal; a water supply system by Tahal Group for 131 villages in Karnataka, at a stated value of USD 74 million; Aqwise, in a joint venture with Triveni Engineering, treating water in Agra; a 2017 contract taken by Ayala for an eight kilometre stretch of the Yamuna in Delhi; and Metzerplas of the Metzer Group manufacturing drip irrigation equipment in Hyderabad from 2019.",
+        "The Agra plant has a stated capacity of 160,000 cubic metres a day and supplies drinking water to a city of roughly two million people. That is the most concrete single sentence available about this relationship. It is not a memorandum or an intention. It is a quantity of water reaching a number of households every day.",
+        "The research layer arrived in 2023. A letter of intent for the India-Israel Center of Water Technology at IIT Madras was signed in New Delhi on 9 May 2023, by the Secretary of the Ministry of Housing and Urban Affairs, the Director of IIT Madras and the Israeli Ambassador, in the presence of the two foreign ministers. The centre is described as supporting India's AMRUT mission and covering integrated water resources management, urban water supply, water recycling, monitoring, water harvesting and data management. A parallel centre was agreed at IIT Roorkee.",
+        "And the direction of travel, as stated in February 2026: cooperation focused on water conservation, wastewater treatment and reuse for agriculture, desalination, water utility reforms, and the cleaning of the Ganges and other rivers using advanced water technologies.",
+        "River cleaning is the item to watch. Irrigation and municipal supply are engineering problems with known solutions and measurable outputs. River restoration is a political problem wearing an engineering costume: it requires controlling what upstream users discharge, which is a question of enforcement rather than technology. Any partner entering it should expect a much harder decade than the water supply projects suggest.",
+        "The honest gap on this page: this project has no independent assessment of whether any of the named projects performed as intended. Contracts are easier to source than outcomes. If you know of an audit, an evaluation or a critical study of any project named above, that is exactly the material this project is missing."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "the-workers",
+      "title": "The largest human channel",
+      "category": "relations",
+      "kind": "Analysis",
+      "standfirst": "More than twenty thousand Indian workers went to Israel between November 2023 and July 2025. Whatever else the relationship is, at the level of people this is what it mostly consists of.",
+      "sources": [
+        "bs-workers",
+        "noa-workers",
+        "pmo-js-2026",
+        "mea-2026",
+        "eoi-telaviv"
+      ],
+      "status": "verified",
+      "body": [
+        "The Government of India describes the instrument as the Agreement on Facilitation of the Temporary Employment of Indian Workers in Specific Labour Market Sectors in the State of Israel, with an implementation protocol covering construction workers.",
+        "Accounts differ on when it was concluded. The Indian government states in a parliamentary reply that the framework agreement was signed in November 2023. Other accounts date the understanding to the Israeli foreign minister's visit to India in May 2023, before the outbreak of hostilities that October. This project records both rather than choosing, because the difference is not trivial: one dating places the agreement before the war and one after, and the two imply different things about why it happened.",
+        "The sequence after that is well documented. Recruitment centres were set up in Uttar Pradesh and Haryana in January 2024. The first batch of more than sixty Indian construction workers flew on 2 April 2024. By 22 July 2024 the Minister of State for Labour and Employment told the Lok Sabha that 4,825 workers had been sent out of 10,000 requested, the largest number from Uttar Pradesh, and stated that workers would enjoy equal treatment on labour rights with Israeli citizens, with lodging, medical insurance and social security coverage.",
+        "As of 1 July 2025, per a written reply in the Rajya Sabha on 8 August 2025, 6,774 workers had arrived under the framework agreement, comprising 6,730 in construction and 44 caregivers. Beyond the framework, approximately 7,000 caregivers and 6,400 construction workers were recruited through private channels, and roughly 220 workers returned to India, primarily because of skill mismatch and language barriers. Taking both routes together, the Indian government's own reply puts the total transferred between November 2023 and July 2025 at more than 20,000.",
+        "And on 26 February 2026 the two Prime Ministers agreed that up to 50,000 additional Indian workers may arrive within five years, with implementation protocols signed for commerce and services, restaurants, and manufacturing.",
+        "Now the part that ought to change how the whole relationship is read.",
+        "Set those numbers against every other channel. Cumulative Indian outward direct investment into Israel from April 2000 to April 2025 is about USD 443 million. Cumulative Israeli direct investment into India from April 2000 to March 2025 is USD 334.26 million. Bilateral trade in FY 2024-25 was USD 3.75 billion. Indian students in Israel number about a thousand.",
+        "Twenty thousand people, in twenty months, is by a wide margin the largest movement of anything between these two countries. If you want to know what the India-Israel relationship consists of at the level of human beings, the answer is not diplomats, entrepreneurs, researchers or students. It is construction workers and caregivers.",
+        "The Embassy of India in Tel Aviv describes the Indian population in Israel as primarily caregivers employed by Israeli families, along with diamond traders, information technology professionals and students. Caregivers is the first category named, and it is worth sitting with what that means. A significant part of the daily contact between these two societies takes place inside Israeli homes, between an elderly Israeli and an Indian care worker, over years.",
+        "That is a form of contact no memorandum produces and no summit can manufacture. It is also almost entirely absent from how the relationship is described on both sides.",
+        "Three things follow that a serious project should say out loud.",
+        "The first is that labour migration into an active conflict zone carries risks that ministerial language does not convey. The parliamentary record states that one Indian agricultural worker was killed in an attack from Lebanon in March 2024, and that three Indian nationals were injured, one in rocket fire from Gaza on 7 October 2023 and two in the Lebanon attack. Two evacuation operations have been run in under two years: Operation Ajay, evacuating over 1,300 people between 12 and 22 October 2023, and Operation Sindhu, evacuating around 818 people between 22 and 25 June 2025.",
+        "The second is the context these workers entered. Reporting at the time described Indian construction workers as arriving to replace Palestinian labourers who had lost access to Israeli work sites. Whatever view a reader takes of that, it is part of the factual setting of this programme and a site that omitted it would be selecting.",
+        "The third is that the 220 returns, attributed primarily to skill mismatch and language barriers, are a small number that points at a real question. A recruitment system that sends people who cannot do the work, or cannot communicate on site, is failing the workers first. Twenty thousand placements with two hundred and twenty documented returns is either a well run programme or an under reported one, and the published record does not let a reader tell which.",
+        "What this project would most like to add here is the workers' own account. Every number on this page comes from a ministry. None of it comes from the people counted. Oral history with returned workers, or with workers currently in Israel, would be the single most valuable addition to this section, and it is the kind of material a small project can actually collect."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "innovation-fund",
+      "title": "Forty million dollars and thirty-four projects",
+      "category": "relations",
+      "kind": "Explainer",
+      "standfirst": "The innovation fund is small by the standards of state budgets and unusually well designed. What it does is worth understanding separately from what it spends.",
+      "sources": [
+        "dst-i4f",
+        "eoi-econ",
+        "mea-2026"
+      ],
+      "status": "verified",
+      "body": [
+        "The India-Israel Industrial Research and Development and Technological Innovation Fund, known as I4F, is a forty million dollar fund, twenty million from each side, funded by India's Department of Science and Technology and the Israel Innovation Authority. It was established as an outcome of the Prime Minister's visit to Israel in July 2017, initially for five years, envisaging funding around six projects a year of two years each. The first four projects were awarded at a conclave on 24 and 25 July 2018. The Embassy of India in Tel Aviv records the fund as having run from 2018 to 2022, renewed for 2023 to 2027, with thirty-four projects funded to date.",
+        "Forty million dollars is not a large amount of money. For comparison, a single port acquisition in this same relationship was valued at more than a billion. It would be easy to file the fund under symbolic and move on.",
+        "That would miss what the instrument is for.",
+        "A bilateral innovation fund does not exist to finance research. Research funding of that size can be raised domestically by either country without help. What the fund does is solve a matching problem. An Indian firm with a manufacturing problem and an Israeli firm with a relevant technology will, in the ordinary course of events, never find each other. They operate in different markets, read different trade press, attend different conferences and speak to different investors.",
+        "A joint fund with a call for proposals, an application window and a two country evaluation panel manufactures an occasion for them to meet. The money is the reason to apply. The introduction is the product.",
+        "Two design features in this particular fund are worth noticing.",
+        "The first is the symmetry. Twenty million from each side, and a structure in which each country's own innovation agency handles its own participants. That symmetry matters more than the total, because it means neither side is a donor. A fund where one country pays and the other receives produces a very different relationship, and usually a shorter one.",
+        "The second is the two year project length. Two years is short for research and about right for a demonstration. It selects for teams proposing something they can show working, rather than something they can investigate. That is an industrial fund rather than an academic one, and the name says so.",
+        "Thirty-four projects over roughly eight years is close to the four to six a year that the design envisaged, which is a duller finding than a dramatic number and a more reassuring one. A fund that has run at approximately its designed rate for eight years and been renewed once is functioning. Most bilateral instruments are announced, funded for one cycle and quietly not renewed.",
+        "The wider science relationship around it has a longer history. An agreement on cooperation in science and technology was signed in 1993, one of the first framework agreements after diplomatic relations. A memorandum on the industrial research and development initiative followed in May 2005. A joint research programme was launched in 2023. In December 2025 the Indian Council for Cultural Relations agreed an India Chair at Tel Aviv University, and in November 2025 India's diplomatic training institute signed a memorandum with the Israeli foreign ministry.",
+        "That last pair is a different category from the fund and worth separating. A chair and a training institute memorandum do not produce technology. They produce people who know the other country, which is the input every other kind of cooperation eventually runs short of.",
+        "What this project cannot tell you, and would like to: what the thirty-four funded projects actually were, whether any reached market, and what the failure rate looks like. Innovation funds publish their awards and rarely publish their outcomes. A list of the thirty-four with a status against each would be a genuinely useful document and does not appear to exist in one place."
+      ],
+      "type": "explainer",
+      "author": "",
+      "published": "2026-08-24"
+    },
+    {
+      "id": "diamonds",
+      "title": "The oldest thing in the trade",
+      "category": "history",
+      "kind": "Analysis",
+      "standfirst": "In 1992 almost all India-Israel trade was diamonds. Thirty-four years later, precious stones are still the largest category in both directions. That continuity says more than most of the new agreements.",
+      "sources": [
+        "mea-2023",
+        "ibef-trade",
+        "wjc-india"
+      ],
+      "status": "verified",
+      "body": [
+        "The Ministry of External Affairs records that bilateral trade in 1992 was around USD 200 million and comprised primarily diamonds. Trade figures published for FY 2025-26 up to November 2025 record pearls and precious stones as the largest single category in Indian exports to Israel, at USD 416.62 million, and the largest single category in imports from Israel, at USD 316.24 million.",
+        "Thirty-four years, a fifty-fold increase in total volume, an entirely new political relationship, and the top line on both sides of the ledger has not changed.",
+        "The mechanics of why are not mysterious. Rough stones move to India, where cutting and polishing take place at a scale and cost no other centre matches. Polished stones move out. Israel is a major trading and certification centre for the finished product. The two economies occupy adjacent, non-competing positions in one supply chain, which is the most durable form of trading relationship there is.",
+        "But notice what this does to the standard account of the relationship.",
+        "The standard account is that 1992 opened a door and technology, defence and agriculture walked through it. That is true, and the trade figures show it: electrical machinery at USD 243.62 million in exports and USD 270.28 million in imports, organic chemicals, fertilisers. Real categories with real volumes that did not exist in 1992.",
+        "What the figures also show is that none of them displaced the diamonds. The new relationship was layered onto an older commercial one rather than replacing it.",
+        "And the older commercial one is older than 1992 by a long way. Trade in high value, low weight goods along the routes between India and the eastern Mediterranean is the same traffic that carried the communities this project documents elsewhere. The Baghdadi Jewish families who reached Bombay in the nineteenth century arrived through commercial networks, and the Sassoons built a trading house before they built synagogues. The Cochin community's standing was recorded by rulers who valued what the community's trade brought.",
+        "This is the point at which this project has to be careful with itself, because there is an obvious and seductive move available here: draw a straight line from medieval Malabar trade to twenty-first century diamond flows and call it civilisational continuity.",
+        "That line should not be drawn, for a specific reason. The modern diamond trade did not descend from the medieval spice and textile trade. It was built in the twentieth century on entirely different technology, financing and regulation, and the people in it are not the descendants of the people in that. What the two have in common is geography and a category of good, not a lineage.",
+        "The honest version of the observation is smaller and better. Two regions separated by an ocean have, repeatedly and independently across many centuries, found that the goods worth moving between them are the ones with the highest value per kilogram. That is a fact about distance and shipping economics, not about civilisation. It explains why the trade keeps taking this shape, and it does not require anyone to have inherited anything.",
+        "That version also makes a testable prediction, which the civilisational version does not. If the constraint is value per kilogram, then the trade will diversify precisely to the extent that shipping and tariffs get cheaper relative to value. A free trade agreement, whose terms of reference were signed in November 2025, is an attempt to change exactly that ratio.",
+        "So the diamond share is the number to watch over the next decade, and not because diamonds matter in themselves. If the free trade agreement works, the diamond share should fall as a proportion of a growing total. If in 2036 pearls and precious stones are still the top line in both directions, then the structure of this trading relationship will have proved more resistant than the agreements around it."
+      ],
+      "type": "commentary",
+      "author": "",
+      "published": "2026-08-24"
+    }
+  ],
+  "types": [
+    {
+      "id": "commentary",
+      "label": "Commentaries",
+      "blurb": "Argued pieces that take a position on the evidence and say which position it is."
+    },
+    {
+      "id": "explainer",
+      "label": "Explainers",
+      "blurb": "Pieces that unpack a mechanism, an instrument or a document so that the rest of the site can be read properly."
+    },
+    {
+      "id": "method-note",
+      "label": "Method Notes",
+      "blurb": "How this project decides what it may say, worked through on specific cases."
+    },
+    {
+      "id": "special-report",
+      "label": "Special Reports",
+      "blurb": "Long, single subject investigations with original material. None published yet, and the standard for one is set out on the writing page."
+    }
+  ]
+}

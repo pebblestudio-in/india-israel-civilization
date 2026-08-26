@@ -1,0 +1,118 @@
+{
+  "note": "This wall collects what the two governments have actually said and done to each other, in one place. It is built in three layers. Layer one is the official record: interactions logged in government briefs, which is the most reliable material available and needs no scraping. Layer two is official statements and releases, gathered automatically from government feeds once the site is deployed. Layer three is social media, which is added by hand.",
+
+  "socialNote": "A plain statement about social media, because it matters for what this page can promise. Automatic collection of posts from X is not possible on a zero budget: the platform's interface for it is paid, and the free workarounds that used to exist have largely closed. So posts here are added deliberately, one at a time, by pasting the link into the manager. That is slower, and it also means nothing appears on this wall that a person did not choose to put there. Given how easily a screenshot of a post can be faked, deliberate is the safer default anyway.",
+
+  "accounts": [
+    { "handle": "Prime Minister of India",              "kind": "Head of government", "country": "IN", "note": "Add the official account link through the manager." },
+    { "handle": "Ministry of External Affairs, India",  "kind": "Ministry",           "country": "IN", "note": "" },
+    { "handle": "Embassy of India, Tel Aviv",           "kind": "Mission",            "country": "IN", "note": "Official site: https://www.indembassyisrael.gov.in/" },
+    { "handle": "Prime Minister of Israel",             "kind": "Head of government", "country": "IL", "note": "" },
+    { "handle": "Israeli Ministry of Foreign Affairs",  "kind": "Ministry",           "country": "IL", "note": "" },
+    { "handle": "Embassy of Israel in India",           "kind": "Mission",            "country": "IL", "note": "" }
+  ],
+
+  "interactions": [
+    {
+      "date": "2026-01-07",
+      "dateLabel": "7 January 2026",
+      "type": "Telephone call",
+      "parties": "Prime Minister of India and Prime Minister of Israel",
+      "summary": "A call recorded in the Ministry of External Affairs brief as an exchange of New Year greetings.",
+      "sources": ["mea-2026"],
+      "status": "verified"
+    },
+    {
+      "date": "2025-12-16",
+      "dateLabel": "16 to 17 December 2025",
+      "type": "Visit",
+      "parties": "External Affairs Minister of India, in Israel",
+      "summary": "The visit during which the Joint Work Plan for 2026 was agreed.",
+      "sources": ["mea-2026"],
+      "status": "verified"
+    },
+    {
+      "date": "2025-12-10",
+      "dateLabel": "10 December 2025",
+      "type": "Telephone call",
+      "parties": "Prime Minister of India and Prime Minister of Israel",
+      "summary": "A call recorded in the brief as covering the regional situation.",
+      "sources": ["mea-2026"],
+      "status": "verified"
+    },
+    {
+      "date": "2025-11-20",
+      "dateLabel": "20 to 22 November 2025",
+      "type": "Visit",
+      "parties": "Commerce and Industry Minister of India, in Israel",
+      "summary": "The visit during which terms of reference for a free trade agreement were agreed.",
+      "sources": ["mea-2026"],
+      "status": "verified"
+    },
+    {
+      "date": "2025-10-09",
+      "dateLabel": "9 October 2025",
+      "type": "Telephone call",
+      "parties": "Prime Minister of India and Prime Minister of Israel",
+      "summary": "A call recorded in the brief in connection with the Gaza peace plan. The brief is the source for the fact of the call; its content is not reproduced here.",
+      "sources": ["mea-2026"],
+      "status": "verified"
+    },
+    {
+      "date": "2025-06-13",
+      "dateLabel": "13 June 2025",
+      "type": "Telephone call",
+      "parties": "Prime Minister of India and Prime Minister of Israel",
+      "summary": "A call recorded in the brief in connection with the conflict involving Iran.",
+      "sources": ["mea-2026"],
+      "status": "verified"
+    },
+    {
+      "date": "2025-04-24",
+      "dateLabel": "24 April 2025",
+      "type": "Telephone call",
+      "parties": "Prime Minister of Israel to the Prime Minister of India",
+      "summary": "A call of condolence, as recorded in the brief.",
+      "sources": ["mea-2026"],
+      "status": "verified"
+    },
+    {
+      "date": "2024-03-11",
+      "dateLabel": "11 to 12 March 2024",
+      "type": "Visit",
+      "parties": "National Security Adviser of India, in Israel",
+      "summary": "A visit at national security adviser level.",
+      "sources": ["mea-2026"],
+      "status": "verified"
+    },
+    {
+      "date": "2023-12-01",
+      "dateLabel": "1 December 2023",
+      "type": "Meeting",
+      "parties": "Prime Minister of India and President of Israel",
+      "summary": "A meeting on the margins of COP 28.",
+      "sources": ["mea-2026"],
+      "status": "verified"
+    },
+    {
+      "date": "2018-01-14",
+      "dateLabel": "14 to 19 January 2018",
+      "type": "State visit",
+      "parties": "Prime Minister of Israel, in India",
+      "summary": "A six day visit.",
+      "sources": ["mea-2026"],
+      "status": "verified"
+    },
+    {
+      "date": "2017-07-04",
+      "dateLabel": "4 to 6 July 2017",
+      "type": "State visit",
+      "parties": "Prime Minister of India, in Israel",
+      "summary": "The first visit to Israel by an Indian Prime Minister. In Tel Aviv he addressed a gathering of approximately 8,000 people of Indian origin and Indian nationals.",
+      "sources": ["mea-2026", "eoi-telaviv"],
+      "status": "verified"
+    }
+  ],
+
+  "posts": []
+}

@@ -1,0 +1,950 @@
+{
+  "timeline": [
+    {
+      "id": "bene-israel-tradition",
+      "era": "Before the state",
+      "year": null,
+      "dateLabel": "Community tradition",
+      "sortKey": -2500,
+      "title": "The Bene Israel arrival narrative",
+      "sector": "history",
+      "status": "community-claim",
+      "body": "Bene Israel tradition holds that the community's ancestors reached the Konkan coast of western India roughly 2,500 years ago after a shipwreck. This is a community account of origin. It is transmitted within the community rather than established by documentary evidence, and historians differ on dating.",
+      "sources": [
+        "wjc-india"
+      ]
+    },
+    {
+      "id": "cochin-copper-plates",
+      "era": "Before the state",
+      "year": null,
+      "dateLabel": "Medieval period",
+      "sortKey": -1000,
+      "title": "Copper plate grants to the Jews of Kerala",
+      "sector": "history",
+      "status": "verified",
+      "body": "Rulers in the Malabar region issued copper plates to the Jewish community, recording the grant of privileges and standing. The plates are among the most cited pieces of material evidence for organised Jewish settlement in southern India.",
+      "sources": [
+        "wjc-india"
+      ]
+    },
+    {
+      "id": "kodungallur-1524",
+      "era": "Before the state",
+      "year": 1524,
+      "dateLabel": "1524",
+      "sortKey": 1524,
+      "title": "Relocation from Kodungallur to Kochi",
+      "sector": "history",
+      "status": "verified",
+      "body": "The Jewish community relocated from Kodungallur, establishing the settlement in Kochi that came to be known as Jew Town.",
+      "sources": [
+        "wjc-india"
+      ]
+    },
+    {
+      "id": "paradesi-1568",
+      "era": "Before the state",
+      "year": 1568,
+      "dateLabel": "1568",
+      "sortKey": 1568,
+      "title": "The Paradesi Synagogue is built in Kochi",
+      "sector": "history",
+      "status": "verified",
+      "body": "Built in Kochi, Kerala, by the city's Jewish trading community, including Sephardic families who had been exiled from Spain and Portugal. It is India's oldest synagogue, and in the early twenty-first century was the Cochin community's only active synagogue.",
+      "sources": [
+        "britannica-paradesi"
+      ]
+    },
+    {
+      "id": "sassoon-1832",
+      "era": "Before the state",
+      "year": 1832,
+      "dateLabel": "1832",
+      "sortKey": 1832,
+      "title": "The Sassoon family arrives in Bombay",
+      "sector": "history",
+      "status": "verified",
+      "body": "The Sassoon family arrived in Bombay in 1832, part of the nineteenth century movement of Baghdadi Jews leaving Iraq and other lands. David Sassoon went on to build institutions in the city that still serve Indian society.",
+      "sources": [
+        "wjc-india",
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "recognition-1950",
+      "era": "The states",
+      "year": 1950,
+      "dateLabel": "17 September 1950",
+      "sortKey": 1950,
+      "title": "India recognises the State of Israel",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "India formally recognised Israel on 17 September 1950. Full diplomatic relations, however, would not follow for another forty-two years. The gap between these two dates is one of the central questions in the history of the relationship.",
+      "sources": [
+        "mea-2026"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "dipl-1992",
+      "era": "The states",
+      "year": 1992,
+      "dateLabel": "1992",
+      "sortKey": 1992,
+      "title": "Full diplomatic relations established",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "India and Israel established full diplomatic relations in 1992, opening embassies and beginning the modern phase of the relationship. Nearly every strand of cooperation that exists today, in agriculture, water, defence, science and trade, was built after this point.",
+      "sources": [
+        "mea-2026"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "st-1993",
+      "era": "Building",
+      "year": 1993,
+      "dateLabel": "1993",
+      "sortKey": 1993.1,
+      "title": "Agreement on cooperation in science and technology",
+      "sector": "science",
+      "status": "verified",
+      "body": "One of the first framework agreements after 1992, establishing the basis for joint scientific work.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "agri-1993",
+      "era": "Building",
+      "year": 1993,
+      "dateLabel": "1993",
+      "sortKey": 1993.2,
+      "title": "Agreement on agricultural cooperation",
+      "sector": "agriculture",
+      "status": "verified",
+      "body": "The agricultural cooperation agreement signed in 1993 became the spine of what is now the most visible civilian strand of the relationship. It was renewed in April 2025.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "rnd-2005",
+      "era": "Building",
+      "year": 2005,
+      "dateLabel": "May 2005",
+      "sortKey": 2005,
+      "title": "Memorandum on the industrial research and development initiative",
+      "sector": "science",
+      "status": "verified",
+      "body": "Signed in May 2005, extending cooperation from academic science into industrial research and development.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "mukherjee-2015",
+      "era": "Building",
+      "year": 2015,
+      "dateLabel": "October 2015",
+      "sortKey": 2015,
+      "title": "President Pranab Mukherjee visits Israel",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "A visit at the level of head of state, preceding the shift in tempo that followed in 2017 and 2018.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "rivlin-2016",
+      "era": "Building",
+      "year": 2016,
+      "dateLabel": "November 2016",
+      "sortKey": 2016.2,
+      "title": "President Reuven Rivlin visits India",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "The return visit at head of state level. A memorandum on water resources management was signed in the same month.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "water-2016",
+      "era": "Building",
+      "year": 2016,
+      "dateLabel": "November 2016",
+      "sortKey": 2016.3,
+      "title": "Memorandum on water resources management",
+      "sector": "water",
+      "status": "verified",
+      "body": "Water is the strand where the two countries' problems most closely resemble each other: scarcity, salinity, and the need to grow more with less.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "modi-2017",
+      "era": "The turn",
+      "year": 2017,
+      "dateLabel": "4 to 6 July 2017",
+      "sortKey": 2017.1,
+      "title": "Prime Minister Modi visits Israel",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "A visit from 4 to 6 July 2017. In Tel Aviv the Prime Minister addressed a gathering of approximately 8,000 people of Indian origin and Indian nationals. A set of memoranda was signed during the visit.",
+      "sources": [
+        "mea-2026",
+        "eoi-telaviv"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "i4f-2017",
+      "era": "The turn",
+      "year": 2017,
+      "dateLabel": "2017",
+      "sortKey": 2017.2,
+      "title": "India-Israel Industrial Research and Development and Technological Innovation Fund",
+      "sector": "science",
+      "status": "verified",
+      "body": "Known as I4F. Established in 2017 and renewed for the period 2023 to 2027.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "netanyahu-2018",
+      "era": "The turn",
+      "year": 2018,
+      "dateLabel": "14 to 19 January 2018",
+      "sortKey": 2018.1,
+      "title": "Prime Minister Netanyahu visits India",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "A six day visit to India from 14 to 19 January 2018, the reciprocal leg of the exchange begun the previous July.",
+      "sources": [
+        "mea-2026"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "tarangini-2018",
+      "era": "The turn",
+      "year": 2018,
+      "dateLabel": "September 2018",
+      "sortKey": 2018.2,
+      "title": "INS Tarangini port call in Israel",
+      "sector": "defence",
+      "status": "verified",
+      "body": "A naval port call by the Indian sail training ship, following earlier Indian naval port calls in May 2017.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "health-2020",
+      "era": "Consolidation",
+      "year": 2020,
+      "dateLabel": "21 December 2020",
+      "sortKey": 2020,
+      "title": "Agreement on cooperation in the field of health",
+      "sector": "science",
+      "status": "verified",
+      "body": "Signed on 21 December 2020.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "isa-2021",
+      "era": "Consolidation",
+      "year": 2021,
+      "dateLabel": "October 2021",
+      "sortKey": 2021.1,
+      "title": "Israel ratifies the International Solar Alliance framework",
+      "sector": "science",
+      "status": "verified",
+      "body": "Israel's ratification brought it into the India-initiated International Solar Alliance.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "blueflag-2021",
+      "era": "Consolidation",
+      "year": 2021,
+      "dateLabel": "October 2021",
+      "sortKey": 2021.2,
+      "title": "Indian Air Force participates in Exercise Blue Flag",
+      "sector": "defence",
+      "status": "verified",
+      "body": "Indian Air Force participation in the multinational exercise hosted by Israel.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "jaishankar-2021",
+      "era": "Consolidation",
+      "year": 2021,
+      "dateLabel": "17 to 21 October 2021",
+      "sortKey": 2021.3,
+      "title": "External Affairs Minister Jaishankar visits Israel",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "A visit from 17 to 21 October 2021.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "haifa-2022",
+      "era": "Consolidation",
+      "year": 2022,
+      "dateLabel": "2022",
+      "sortKey": 2022,
+      "title": "Adani-led consortium acquires Haifa Port",
+      "sector": "trade",
+      "status": "verified",
+      "body": "The acquisition, valued at USD 1.18 billion, is the single largest Indian commercial commitment in Israel to date and connects the relationship to the wider question of Indian Ocean to Mediterranean logistics.",
+      "sources": [
+        "mea-2026"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "defmin-2023",
+      "era": "Consolidation",
+      "year": 2023,
+      "dateLabel": "3 March 2023",
+      "sortKey": 2023.1,
+      "title": "First talks at Defence Minister level",
+      "sector": "defence",
+      "status": "verified",
+      "body": "The first engagement at the level of Defence Minister, on 3 March 2023.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "agri-innov-2023",
+      "era": "Consolidation",
+      "year": 2023,
+      "dateLabel": "May 2023",
+      "sortKey": 2023.2,
+      "title": "India-Israel Innovation Centre for Agriculture declared",
+      "sector": "agriculture",
+      "status": "verified",
+      "body": "Declared in May 2023, alongside a letter of intent on water technology centres of excellence.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "ajay-2023",
+      "era": "Consolidation",
+      "year": 2023,
+      "dateLabel": "12 to 22 October 2023",
+      "sortKey": 2023.3,
+      "title": "Operation Ajay",
+      "sector": "diaspora",
+      "status": "verified",
+      "body": "Between 12 and 22 October 2023, over 1,300 people were evacuated from Israel under Operation Ajay.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "cop28-2023",
+      "era": "Consolidation",
+      "year": 2023,
+      "dateLabel": "1 December 2023",
+      "sortKey": 2023.4,
+      "title": "Prime Minister Modi meets President Herzog at COP 28",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "A meeting on the margins of COP 28 on 1 December 2023.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "doval-2024",
+      "era": "Present",
+      "year": 2024,
+      "dateLabel": "11 to 12 March 2024",
+      "sortKey": 2024.1,
+      "title": "National Security Adviser Ajit Doval visits Israel",
+      "sector": "defence",
+      "status": "verified",
+      "body": "A visit on 11 and 12 March 2024.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "agri-renew-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "April 2025",
+      "sortKey": 2025.1,
+      "title": "Agricultural cooperation agreement renewed",
+      "sector": "agriculture",
+      "status": "verified",
+      "body": "The 1993 agreement was renewed in April 2025, extending the framework under which the centres of excellence operate.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "stamp-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "11 to 13 February 2025",
+      "sortKey": 2025.2,
+      "title": "Joint postage stamp on Holi and Purim",
+      "sector": "culture",
+      "status": "verified",
+      "body": "A joint stamp issue pairing Holi and Purim, released during the visit of the Israeli Economy Minister from 11 to 13 February 2025. Two festivals of colour, noise and reversal, issued on one sheet.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "cyber-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "27 March 2025",
+      "sortKey": 2025.3,
+      "title": "Cyber Policy Dialogue",
+      "sector": "science",
+      "status": "verified",
+      "body": "Held on 27 March 2025.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "sindhu-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "22 to 25 June 2025",
+      "sortKey": 2025.4,
+      "title": "Operation Sindhu",
+      "sector": "diaspora",
+      "status": "verified",
+      "body": "Around 818 people were evacuated between 22 and 25 June 2025 under Operation Sindhu.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "bia-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "8 to 10 September 2025",
+      "sortKey": 2025.5,
+      "title": "Bilateral Investment Agreement signed",
+      "sector": "trade",
+      "status": "verified",
+      "body": "Signed during the visit of the Israeli Finance Minister from 8 to 10 September 2025. Investment protection is the legal groundwork that has to exist before capital moves at scale.",
+      "sources": [
+        "mea-2026"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "export-control-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "27 to 28 October 2025",
+      "sortKey": 2025.6,
+      "title": "Export Control Dialogue",
+      "sector": "trade",
+      "status": "verified",
+      "body": "Held on 27 and 28 October 2025.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "defence-mou-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "4 November 2025",
+      "sortKey": 2025.7,
+      "title": "Memorandum of understanding on defence cooperation",
+      "sector": "defence",
+      "status": "verified",
+      "body": "Signed on 4 November 2025, alongside the seventeenth meeting of the Joint Working Group on defence.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "fta-tor-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "20 to 22 November 2025",
+      "sortKey": 2025.8,
+      "title": "Terms of reference agreed for a free trade agreement",
+      "sector": "trade",
+      "status": "verified",
+      "body": "Agreed during the visit of the Indian Commerce and Industry Minister from 20 to 22 November 2025. Terms of reference are the starting gun for negotiation, not the agreement itself.",
+      "sources": [
+        "mea-2026"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "swaraj-mou-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "November 2025",
+      "sortKey": 2025.9,
+      "title": "Sushma Swaraj Institute and Israeli Foreign Ministry memorandum",
+      "sector": "education",
+      "status": "verified",
+      "body": "A memorandum between India's diplomatic training institute and the Israeli Ministry of Foreign Affairs, signed in November 2025.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "workplan-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "16 to 17 December 2025",
+      "sortKey": 2025.95,
+      "title": "Joint Work Plan 2026 agreed",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "Agreed during the External Affairs Minister's visit to Israel on 16 and 17 December 2025.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "iccr-tau-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "December 2025",
+      "sortKey": 2025.96,
+      "title": "India Chair established at Tel Aviv University",
+      "sector": "education",
+      "status": "verified",
+      "body": "An agreement between the Indian Council for Cultural Relations and Tel Aviv University for an India Chair, in December 2025.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "fisheries-2026",
+      "era": "Present",
+      "year": 2026,
+      "dateLabel": "13 to 15 January 2026",
+      "sortKey": 2026.1,
+      "title": "Joint declaration on fisheries and aquaculture",
+      "sector": "agriculture",
+      "status": "verified",
+      "body": "Signed during the visit of India's Minister of Fisheries from 13 to 15 January 2026.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "un-admission-1949",
+      "era": "The states",
+      "year": 1949,
+      "dateLabel": "11 May 1949",
+      "sortKey": 1949,
+      "title": "India votes against Israel's admission to the United Nations",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "Resolution 273 (III), on the admission of Israel to membership of the United Nations, was adopted at the 207th plenary meeting on 11 May 1949. India voted against, and has been described as the only non-Arab state to do so. Sixteen months later India recognised Israel. Both facts belong in any honest account of the origin of this relationship.",
+      "sources": [
+        "un-273"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "plo-1974",
+      "era": "The long gap",
+      "year": 1974,
+      "dateLabel": "1974",
+      "sortKey": 1974,
+      "title": "India recognises the Palestine Liberation Organisation",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "India is recorded as the first non-Arab state to recognise the Palestine Liberation Organisation.",
+      "sources": [
+        "noa-palestine-un"
+      ]
+    },
+    {
+      "id": "palestine-1988",
+      "era": "The long gap",
+      "year": 1988,
+      "dateLabel": "1988",
+      "sortKey": 1988,
+      "title": "India recognises the State of Palestine",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "Four years before establishing full diplomatic relations with Israel.",
+      "sources": [
+        "noa-palestine-un"
+      ]
+    },
+    {
+      "id": "zionism-racism-1991",
+      "era": "The long gap",
+      "year": 1991,
+      "dateLabel": "December 1991",
+      "sortKey": 1991.5,
+      "title": "India votes to revoke the resolution equating Zionism with racism",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "Described as the first occasion on which India formally and openly voted in favour of Israel at the General Assembly. Full diplomatic relations followed within about a month.",
+      "sources": [
+        "un-273"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "agri-workplan-2006",
+      "era": "Building",
+      "year": 2006,
+      "dateLabel": "2006",
+      "sortKey": 2006.5,
+      "title": "The comprehensive agricultural work plan begins",
+      "sector": "agriculture",
+      "status": "verified",
+      "body": "The 1993 agreement acquired an operating structure. The Indo-Israel Agricultural Project has since run in phases: 2009 to 2012, 2012 to 2015, 2015 to 2018, 2018 to 2020, 2021 to 2023, and a sixth work plan covering 2024 to 2026.",
+      "sources": [
+        "mea-2026",
+        "eoisrael-coe"
+      ]
+    },
+    {
+      "id": "water-cabinet-2015",
+      "era": "Building",
+      "year": 2015,
+      "dateLabel": "2 December 2015",
+      "sortKey": 2015.9,
+      "title": "The Union Cabinet approves the water resources memorandum",
+      "sector": "water",
+      "status": "verified",
+      "body": "Covering efficient water use, micro irrigation, recycling and reuse of waste water, desalination, aquifer recharge and in situ conservation, with a joint working group to monitor it.",
+      "sources": [
+        "pmo-water-2015"
+      ]
+    },
+    {
+      "id": "modi-2017-agreements",
+      "era": "The turn",
+      "year": 2017,
+      "dateLabel": "5 July 2017",
+      "sortKey": 2017.15,
+      "title": "Seven agreements signed during the visit, two of them on water",
+      "sector": "water",
+      "status": "verified",
+      "body": "One memorandum on water conservation between India's Ministry of Drinking Water and Sanitation and Israel's Ministry of National Infrastructure, Energy and Water Resources. A second on state water utility reforms, between that Israeli ministry and Uttar Pradesh Jal Nigam. A three year work programme in agriculture was also signed.",
+      "sources": [
+        "pmo-water-2017",
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "kalyani-rafael-2017",
+      "era": "The turn",
+      "year": 2017,
+      "dateLabel": "3 August 2017",
+      "sortKey": 2017.25,
+      "title": "India's first private missile subsystems plant opens in Hyderabad",
+      "sector": "defence",
+      "status": "verified",
+      "body": "Kalyani Rafael Advanced Systems, a joint venture with the Kalyani Group at 51 per cent and Rafael Advanced Defense Systems at 49 per cent. The pattern to notice is that the cooperation moved from purchase to manufacture inside India.",
+      "sources": [
+        "adani-elbit"
+      ]
+    },
+    {
+      "id": "blueflag-2017",
+      "era": "The turn",
+      "year": 2017,
+      "dateLabel": "November 2017",
+      "sortKey": 2017.4,
+      "title": "The Indian Air Force takes part in Blue Flag for the first time",
+      "sector": "defence",
+      "status": "verified",
+      "body": "Alongside the United States, Italy, France, Germany, Greece and Poland. In the 2021 edition, held from 17 to 28 October, five upgraded Indian Mirage 2000 fighters took part.",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "i4f-first-2018",
+      "era": "The turn",
+      "year": 2018,
+      "dateLabel": "24 to 25 July 2018",
+      "sortKey": 2018.15,
+      "title": "The first four projects are awarded under the innovation fund",
+      "sector": "science",
+      "status": "verified",
+      "body": "The India-Israel Industrial Research and Development and Technological Innovation Fund is a forty million dollar fund, twenty million from each side, funded by India's Department of Science and Technology and the Israel Innovation Authority.",
+      "sources": [
+        "dst-i4f"
+      ]
+    },
+    {
+      "id": "adani-elbit-2018",
+      "era": "The turn",
+      "year": 2018,
+      "dateLabel": "14 December 2018",
+      "sortKey": 2018.3,
+      "title": "A drone plant opens in Hyderabad",
+      "sector": "defence",
+      "status": "verified",
+      "body": "Adani Defence and Aerospace with Elbit Systems, described as the first unmanned aerial vehicle manufacturing facility in India and the first outside Israel to make the Hermes 900.",
+      "sources": [
+        "adani-elbit"
+      ]
+    },
+    {
+      "id": "mrsam-2021",
+      "era": "Consolidation",
+      "year": 2021,
+      "dateLabel": "9 September 2021",
+      "sortKey": 2021.05,
+      "title": "The first MRSAM firing unit is handed to the Indian Air Force",
+      "sector": "defence",
+      "status": "verified",
+      "body": "At Air Force Station Jaisalmer. The Defence Research and Development Organisation states that it developed the Medium Range Surface to Air Missile system jointly with Israel Aerospace Industries, that it is capable of engaging multiple targets at ranges up to 70 kilometres, and that a number of firing units have been delivered to the Air Force and the Army.",
+      "sources": [
+        "pib-mrsam",
+        "drdo-mrsam"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "iiap5-2021",
+      "era": "Consolidation",
+      "year": 2021,
+      "dateLabel": "24 May 2021",
+      "sortKey": 2021.02,
+      "title": "The fifth Indo-Israel agriculture work programme is signed",
+      "sector": "agriculture",
+      "status": "verified",
+      "body": "Between India's Ministry of Agriculture and Farmers Welfare and Israel's MASHAV. At the time twenty-nine Centres of Excellence were operational across twelve states, producing more than 25 million vegetable seedlings and more than 387 thousand fruit plants. The Villages of Excellence initiative was launched alongside it.",
+      "sources": [
+        "pib-iiap5"
+      ]
+    },
+    {
+      "id": "coe-karnataka-2021",
+      "era": "Consolidation",
+      "year": 2021,
+      "dateLabel": "16 June 2021",
+      "sortKey": 2021.06,
+      "title": "Three Centres of Excellence open in Karnataka",
+      "sector": "agriculture",
+      "status": "verified",
+      "body": "At Kolar for mango, Bagalkote for pomegranate and Dharwad for vegetables, with a combined capacity of 50,000 grafts and 25 lakh vegetable seedlings a year.",
+      "sources": [
+        "pib-karnataka"
+      ]
+    },
+    {
+      "id": "iitm-water-2023",
+      "era": "Consolidation",
+      "year": 2023,
+      "dateLabel": "9 May 2023",
+      "sortKey": 2023.25,
+      "title": "The India-Israel Center of Water Technology is agreed at IIT Madras",
+      "sector": "water",
+      "status": "verified",
+      "body": "A letter of intent signed in New Delhi covering integrated water resources management, urban water supply, water recycling, monitoring, harvesting and data management, in support of India's AMRUT mission. A parallel centre was agreed at IIT Roorkee.",
+      "sources": [
+        "iitm-water",
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "workers-2023",
+      "era": "Consolidation",
+      "year": 2023,
+      "dateLabel": "November 2023",
+      "sortKey": 2023.85,
+      "title": "The framework agreement on Indian workers in Israel",
+      "sector": "diaspora",
+      "status": "figures-differ",
+      "body": "The Agreement on Facilitation of the Temporary Employment of Indian Workers in Specific Labour Market Sectors in the State of Israel, with an implementation protocol for construction workers. Accounts differ on when it was concluded: the Indian government states in Parliament that it was signed in November 2023, while other accounts date the understanding to the Israeli foreign minister's visit to India in May 2023.",
+      "sources": [
+        "bs-workers",
+        "noa-workers"
+      ]
+    },
+    {
+      "id": "workers-first-batch-2024",
+      "era": "Present",
+      "year": 2024,
+      "dateLabel": "2 April 2024",
+      "sortKey": 2024.25,
+      "title": "The first batch of Indian construction workers flies to Israel",
+      "sector": "diaspora",
+      "status": "verified",
+      "body": "More than sixty workers, after recruitment centres were set up in Uttar Pradesh and Haryana in January 2024. By 22 July 2024 the figure given in the Lok Sabha was 4,825 workers, the largest number from Uttar Pradesh, with a stated entitlement to equal treatment on labour rights with Israeli citizens.",
+      "sources": [
+        "noa-workers",
+        "bs-workers"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "un-abstain-2023",
+      "era": "Consolidation",
+      "year": 2023,
+      "dateLabel": "27 October 2023",
+      "sortKey": 2023.82,
+      "title": "India abstains on the emergency session resolution on Gaza",
+      "sector": "diplomacy",
+      "status": "figures-differ",
+      "body": "Resolution A/RES/ES-10/21 was adopted at the 41st plenary meeting of the tenth emergency special session. India abstained, citing the absence of all elements of its approach in the text. Vote counts reported for this resolution differ between sources.",
+      "sources": [
+        "un-es10-21"
+      ]
+    },
+    {
+      "id": "un-ceasefire-2023",
+      "era": "Consolidation",
+      "year": 2023,
+      "dateLabel": "12 December 2023",
+      "sortKey": 2023.95,
+      "title": "India votes for the ceasefire resolution",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "The General Assembly demanded an immediate humanitarian ceasefire, the immediate and unconditional release of all hostages and humanitarian access. The vote was 153 in favour, 10 against, 23 abstentions. India voted in favour.",
+      "sources": [
+        "unnews-dec2023"
+      ]
+    },
+    {
+      "id": "un-membership-2024",
+      "era": "Present",
+      "year": 2024,
+      "dateLabel": "11 May 2024",
+      "sortKey": 2024.4,
+      "title": "India votes for Palestinian full membership of the United Nations",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "The vote was 143 in favour, 9 against, 25 abstentions.",
+      "sources": [
+        "noa-palestine-un"
+      ]
+    },
+    {
+      "id": "un-icj-2024",
+      "era": "Present",
+      "year": 2024,
+      "dateLabel": "18 September 2024",
+      "sortKey": 2024.7,
+      "title": "India abstains on the resolution following the ICJ advisory opinion",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "The resolution demanded that Israel end its presence in the Occupied Palestinian Territory within twelve months. The vote was 124 in favour, 14 against, 43 abstentions. India abstained, alongside Australia, Canada, Germany, Italy, Nepal, Ukraine and the United Kingdom.",
+      "sources": [
+        "un-es10-24"
+      ]
+    },
+    {
+      "id": "un-nydec-2025",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "12 September 2025",
+      "sortKey": 2025.7,
+      "title": "India votes for the New York Declaration on a two state solution",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "The vote was 142 in favour, 10 against, 12 abstentions.",
+      "sources": [
+        "unnews-sep2025"
+      ]
+    },
+    {
+      "id": "agri-2025-signing",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "8 April 2025",
+      "sortKey": 2025.28,
+      "title": "Agriculture agreements signed in New Delhi",
+      "sector": "agriculture",
+      "status": "verified",
+      "body": "Between Union Agriculture Minister Shivraj Singh Chouhan and Israeli Agriculture Minister Avi Dichter, with emphasis on climate resilient seed development.",
+      "sources": [
+        "noa-agri-2025"
+      ]
+    },
+    {
+      "id": "fta-tor-signing",
+      "era": "Present",
+      "year": 2025,
+      "dateLabel": "21 November 2025",
+      "sortKey": 2025.88,
+      "title": "Terms of reference for the free trade agreement are signed in Tel Aviv",
+      "sector": "trade",
+      "status": "verified",
+      "body": "By Commerce Minister Piyush Goyal and Israeli Economy and Industry Minister Nir Barkat.",
+      "sources": [
+        "noa-fta"
+      ]
+    },
+    {
+      "id": "modi-2026",
+      "era": "Present",
+      "year": 2026,
+      "dateLabel": "25 to 26 February 2026",
+      "sortKey": 2026.2,
+      "title": "Prime Minister Modi's state visit to Israel and address to the Knesset",
+      "sector": "diplomacy",
+      "status": "verified",
+      "body": "Sixteen memoranda were signed and the relationship was elevated to a Special Strategic Partnership for Peace, Innovation and Prosperity. It was the first address to the Knesset by an Indian Prime Minister. The joint statement records that 35 Centres of Excellence were operating with eight more being jointly operationalised, that more than a million Indian farmers had been trained at them, and that up to 50,000 additional Indian workers may arrive in Israel within five years.",
+      "sources": [
+        "pmo-js-2026",
+        "ddnews-2026"
+      ],
+      "pivotal": true
+    },
+    {
+      "id": "fta-round1-2026",
+      "era": "Present",
+      "year": 2026,
+      "dateLabel": "23 to 26 February 2026",
+      "sortKey": 2026.22,
+      "title": "The first round of free trade agreement negotiations",
+      "sector": "trade",
+      "status": "verified",
+      "body": "Held in New Delhi, covering trade in goods and services, rules of origin, sanitary and phytosanitary measures, technical barriers to trade, customs procedures, intellectual property and digital trade. A second round was scheduled for May 2026 in Israel.",
+      "sources": [
+        "pib-fta-round1"
+      ]
+    },
+    {
+      "id": "bia-force-2026",
+      "era": "Present",
+      "year": 2026,
+      "dateLabel": "4 July 2026",
+      "sortKey": 2026.5,
+      "title": "The Bilateral Investment Agreement enters into force",
+      "sector": "trade",
+      "status": "verified",
+      "body": "Signed on 8 September 2025 in New Delhi by Finance Minister Nirmala Sitharaman and Israeli Finance Minister Bezalel Smotrich, it provides protection against expropriation, transparency, transfer rights, compensation for losses and an independent arbitration mechanism. Total bilateral investment stood at USD 800 million when it was signed.",
+      "sources": [
+        "pib-bia"
+      ],
+      "pivotal": true
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "note": "A working directory of Jewish sites in India. This is the dataset the project intends to be useful for: there is no clean, machine readable, sourced list of these buildings anywhere, and the buildings are the part of this history that physically remains. Every entry records what a named source states, including where a source contradicts itself. Entries marked incomplete are exactly that. If you can add a building, a date, a photograph or a present condition with a source, write in.",
+
+  "sourceNote": "The principal source for this directory is Synagogues360, published by ANU, the Museum of the Jewish People, formerly Beit Hatfutsot. Dates of construction and statements of condition are as recorded there and are not independently verified by this project.",
+
+  "sites": [
+    {
+      "id": "shaar-harahamim",
+      "name": "Shaar Harahamim",
+      "alsoKnown": "Gate of Mercy",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.95, "lon": 72.84,
+      "founded": "1796",
+      "community": "bene-israel",
+      "tradition": "Orthodox, Bene Israel",
+      "founder": "Samuel Ezekiel Divekar, also recorded as Samaji Hasaji Divekar",
+      "status": "active",
+      "statusNote": "Active. Recorded as serving roughly 100 members with daily services as well as Sabbath and High Holiday services, in a building that seats 300.",
+      "detail": [
+        "The oldest Bene Israel synagogue in India. The founder was a battalion commandant who, according to the account recorded by the source, resolved to build a synagogue if he survived capture by Mysore forces in May 1796.",
+        "The building was rebuilt and moved to its present location at Mandvi in 1860.",
+        "On 2 April 1919 a Bene Israel meeting on Zionism was held at the synagogue. This is one of the few dated points at which the Jewish communities of India intersect directly with the political movement that produced the State of Israel, and it precedes Indian independence by twenty-eight years."
+      ],
+      "sources": ["syn360-shaar"],
+      "claimStatus": "verified"
+    },
+    {
+      "id": "shaare-rason",
+      "name": "Shaare Rason",
+      "alsoKnown": "The New Synagogue",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.95, "lon": 72.84,
+      "founded": "1840 or 1843",
+      "community": "bene-israel",
+      "tradition": "Orthodox, Bene Israel",
+      "founder": "A group that separated from the existing congregation",
+      "status": "standing",
+      "statusNote": "Standing. The source describes a time worn facade with the prayer room in better condition.",
+      "detail": [
+        "Founded by a group that broke away from the existing Bene Israel congregation, and built a short distance from Shaar Harahamim.",
+        "The source gives two different years for its construction in two places on the same page: 1840 in the narrative and 1843 in the architectural table. This project records both rather than choosing, and flags it as an open item. A single source disagreeing with itself is a useful reminder that a date printed confidently is not the same as a date established."
+      ],
+      "sources": ["syn360-shaare-rason"],
+      "claimStatus": "figures-differ"
+    },
+    {
+      "id": "magen-david-mumbai",
+      "name": "Magen David",
+      "alsoKnown": "",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.97, "lon": 72.83,
+      "founded": "1861",
+      "community": "baghdadi-jews",
+      "tradition": "Built for Baghdadi Jews, later serving a Sephardic and Bene Israel congregation",
+      "founder": "David Sassoon",
+      "status": "active",
+      "statusNote": "Active, with regular services. Operated by the Sir Jacob Sassoon Charity Trust.",
+      "detail": [
+        "Built by David Sassoon, the head of the family that arrived in Bombay in 1832. Neo Classical in style.",
+        "An elementary school dedicated to the study of the Torah was built on the grounds and was expanded by his son in 1910. The pattern is worth noticing: the Baghdadi community's institutional footprint in Bombay ran to schools, hospitals and libraries as much as to synagogues."
+      ],
+      "sources": ["syn360-magen-david"],
+      "claimStatus": "verified"
+    },
+    {
+      "id": "kneseth-eliyahoo",
+      "name": "Keneseth Eliyahoo",
+      "alsoKnown": "Kneseth Elyahoo",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.93, "lon": 72.83,
+      "founded": "1884",
+      "community": "baghdadi-jews",
+      "tradition": "Orthodox. Historically Baghdadi, later also Bukharan, Persian and Iraqi, and primarily Bene Israel in the present",
+      "founder": "Jacob Elias Sassoon and his brother Albert, in memory of their father Eliyahoo Sassoon",
+      "status": "active",
+      "statusNote": "Active and well maintained, with a regular minyan on Sabbaths and Sabbath eves and on High Holidays.",
+      "detail": [
+        "Victorian in style, and the most visible surviving monument of Sassoon patronage in the city.",
+        "After 1941 the congregation received an influx of Jews from Bukhara, Persia and Iraq. From 1948, emigration to Israel reversed the flow.",
+        "The 125th anniversary in 2009 was attended by the President of India, the Governor of Maharashtra and the Ambassador of Israel. A synagogue anniversary drawing a head of state is a small but concrete data point about the standing of the community in Indian public life."
+      ],
+      "sources": ["syn360-kneseth"],
+      "claimStatus": "verified"
+    },
+    {
+      "id": "paradesi",
+      "name": "Paradesi Synagogue",
+      "alsoKnown": "",
+      "city": "Kochi",
+      "state": "Kerala",
+      "lat": 9.96, "lon": 76.26,
+      "founded": "1568",
+      "community": "cochin-jews",
+      "tradition": "Cochin Jewish",
+      "founder": "The city's Jewish trading community, including Sephardic families exiled from Spain and Portugal",
+      "status": "active",
+      "statusNote": "India's oldest synagogue. Recorded as the community's only active synagogue in the early twenty-first century.",
+      "detail": [
+        "Built in 1568 in Kochi, Kerala, in the settlement known as Jew Town that the community established after relocating from Kodungallur in 1524.",
+        "It is the most visited Jewish site in India and the one most likely to appear in a general account of the subject, which is precisely why the other buildings in this directory matter: a single famous building is not a community's built history."
+      ],
+      "sources": ["britannica-paradesi", "wjc-india"],
+      "claimStatus": "verified"
+    },
+    {
+      "id": "parur",
+      "name": "Parur Synagogue",
+      "alsoKnown": "",
+      "city": "Parur",
+      "state": "Kerala",
+      "lat": 10.15, "lon": 76.22,
+      "founded": "1615",
+      "community": "cochin-jews",
+      "tradition": "Cochin Jewish, Sephardic classification, built in the Thachusasthra tradition",
+      "founder": "",
+      "status": "restored",
+      "statusNote": "Restoration begun in 2009. The source, written at the time, projected completion in spring 2011.",
+      "detail": [
+        "Built in 1615. Tradition holds that it stands on the ruins of an earlier synagogue dating to 1165, which is a community tradition rather than an established date.",
+        "The complex comprises seven buildings, built of whitewashed lime and laterite with terracotta tile roofing, in the manner of Kerala architecture rather than of any imported synagogue form. Ten large shuttered windows on the walls are read as the Ten Commandments.",
+        "The original bimah and Aron Kodesh were shipped to Israel in 1995 and replaced with reconstructions. This pattern, in which the fittings migrate and the building stays, recurs across Kerala and is one of the more poignant facts in this directory."
+      ],
+      "sources": ["syn360-parur"],
+      "claimStatus": "verified"
+    },
+    {
+      "id": "kadavumbagam-ernakulam",
+      "name": "Kadavumbagam Synagogue",
+      "alsoKnown": "",
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "lat": 9.98, "lon": 76.28,
+      "founded": "Eighteenth century, rebuilt in the 1700s, with the original foundation recorded as of the 1200s",
+      "community": "cochin-jews",
+      "tradition": "Orthodox, Cochin Jewish",
+      "founder": "",
+      "status": "closed",
+      "statusNote": "Closed to regular worship. The front building now houses a business and the guardian permits visitors to see the grounds.",
+      "detail": [
+        "Ceased functioning as an active synagogue in 1972.",
+        "The Torah scrolls were shipped to the Cochin National Heritage Center in 1974. In 1991 the interior and the Aron Kodesh were transported to Moshav Nehalim in Israel for restoration.",
+        "This is the clearest single case of the pattern that defines Jewish heritage in Kerala today: the congregation goes, then the scrolls go, then the interior goes, and the building remains standing with its contents four thousand kilometres away."
+      ],
+      "sources": ["syn360-kadavumbagam"],
+      "claimStatus": "verified"
+    },
+    {
+      "id": "judah-hyam",
+      "name": "Judah Hyam Hall",
+      "alsoKnown": "",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "lat": 28.60, "lon": 77.22,
+      "founded": "1956",
+      "community": "bene-israel",
+      "tradition": "Bene Israel",
+      "founder": "",
+      "status": "active",
+      "statusNote": "Active, serving roughly 50 local members along with diplomats and visitors. Sabbath and High Holiday services and bar and bat mitzvahs.",
+      "detail": [
+        "The foundation stone was laid on 12 February 1956 and the building was completed on 2 September 1956. An annex was added in 1979. The Jewish Welfare Association behind it had been formed in 1949.",
+        "It is the newest building in this directory by more than seventy years, and the only one built after Indian independence. Its practice departs from custom in ways the source records plainly: the rabbi has never been ordained, the doors are open to people of all faiths, and women count towards the ten people required for a service.",
+        "A very small congregation in a capital city, adapting the rules to survive, is a different kind of Jewish history from a seventeenth century trading community in Kerala. Both are in this directory."
+      ],
+      "sources": ["syn360-judah-hyam"],
+      "claimStatus": "verified"
+    },
+    {
+      "id": "tiphereth-israel",
+      "name": "Tiphereth Israel",
+      "alsoKnown": "",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.98, "lon": 72.83,
+      "founded": "",
+      "community": "bene-israel",
+      "tradition": "Bene Israel",
+      "founder": "",
+      "status": "incomplete",
+      "statusNote": "Listed by the source. This project has not yet recorded its date of construction or present condition.",
+      "detail": ["Named in the Synagogues360 listing for India. Details still to be filled in."],
+      "sources": ["syn360-search"],
+      "claimStatus": "verified"
+    },
+    {
+      "id": "mala",
+      "name": "Mala Synagogue",
+      "alsoKnown": "",
+      "city": "Mala",
+      "state": "Kerala",
+      "lat": 10.24, "lon": 76.25,
+      "founded": "",
+      "community": "cochin-jews",
+      "tradition": "Cochin Jewish",
+      "founder": "",
+      "status": "incomplete",
+      "statusNote": "Listed by the source. Date and present condition still to be recorded.",
+      "detail": ["Named in the Synagogues360 listing for India. Details still to be filled in."],
+      "sources": ["syn360-search"],
+      "claimStatus": "verified"
+    },
+    {
+      "id": "chennamangalam",
+      "name": "Chennamangalam Synagogue",
+      "alsoKnown": "Chendamangalam",
+      "city": "Chennamangalam",
+      "state": "Kerala",
+      "lat": 10.17, "lon": 76.25,
+      "founded": "",
+      "community": "cochin-jews",
+      "tradition": "Cochin Jewish",
+      "founder": "",
+      "status": "incomplete",
+      "statusNote": "Listed by the source. Date and present condition still to be recorded.",
+      "detail": ["Named in the Synagogues360 listing for India. Details still to be filled in."],
+      "sources": ["syn360-search"],
+      "claimStatus": "verified"
+    },
+    {
+      "id": "ohel-david",
+      "name": "Ohel David",
+      "alsoKnown": "The Red Synagogue",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.53, "lon": 73.87,
+      "founded": "",
+      "community": "baghdadi-jews",
+      "tradition": "Baghdadi",
+      "founder": "",
+      "status": "incomplete",
+      "statusNote": "Named by the World Jewish Congress among notable Jewish places in India. Construction date and present condition not yet recorded here with a source this project has read.",
+      "detail": ["Recorded by the World Jewish Congress as one of the notable Jewish sites in India. This project has not yet verified a construction date for it and will not print one until it has."],
+      "sources": ["wjc-india"],
+      "claimStatus": "verified"
+    },
+    {
+      "id": "shaar-hashamaim",
+      "name": "Shaar Hashamaim",
+      "alsoKnown": "",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.22, "lon": 72.98,
+      "founded": "",
+      "community": "bene-israel",
+      "tradition": "Bene Israel",
+      "founder": "",
+      "status": "incomplete",
+      "statusNote": "Named by the World Jewish Congress. Construction date and present condition not yet recorded here.",
+      "detail": ["Recorded by the World Jewish Congress as one of the notable Jewish sites in India."],
+      "sources": ["wjc-india"],
+      "claimStatus": "verified"
+    }
+  ],
+
+  "wanted": [
+    "Cemeteries. Not one is recorded in this directory yet, and they are the most at risk.",
+    "The synagogues of Kolkata, including Beth El and Magen David, with sourced construction dates",
+    "Present condition and custodianship for every building marked incomplete",
+    "Which buildings hold heritage protection, under which authority",
+    "Photographs that this project has permission to publish"
+  ]
+}

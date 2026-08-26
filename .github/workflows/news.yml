@@ -1,0 +1,28 @@
+name: Gather headlines
+
+on:
+  schedule:
+    # every six hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gather:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Gather
+        run: node scripts/fetch-news.mjs
+      - name: Commit if anything changed
+        run: |
+          git config user.name "news gatherer"
+          git config user.email "actions@github.com"
+          git add assets/js/news.js
+          git diff --staged --quiet || git commit -m "Headlines gathered automatically"
+          git push

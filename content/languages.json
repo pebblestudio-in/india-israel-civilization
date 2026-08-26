@@ -1,0 +1,151 @@
+{
+  "intro": {
+    "lede": "Two writing systems that solved the same problem in opposite directions. Hebrew writes the consonants and leaves the vowels to the reader. Devanagari builds every syllable as a single unit and hangs it from a line. Neither is harder than the other. They are differently shaped.",
+    "note": "This page is a reference for a reader starting from zero in either script. It teaches the shapes and the logic. It does not teach the languages, and it does not pretend that learning a script is the same as learning a language."
+  },
+
+  "structure": [
+    {
+      "point": "Type of system",
+      "hebrew": "An abjad. The letters are consonants. Vowels are normally not written at all, and a fluent reader supplies them from context.",
+      "hindi": "An abugida, sometimes called an alphasyllabary. Every consonant carries a built in 'a' sound, and other vowels are written as marks attached to it."
+    },
+    {
+      "point": "Direction",
+      "hebrew": "Right to left. Numbers inside Hebrew text still run left to right, which is why mixed text needs care.",
+      "hindi": "Left to right."
+    },
+    {
+      "point": "Letter count",
+      "hebrew": "22 letters. Five of them take a different final form when they end a word.",
+      "hindi": "Traditionally 11 to 13 vowels and 33 consonants, arranged by where in the mouth the sound is made."
+    },
+    {
+      "point": "Case",
+      "hebrew": "No capital and small letters.",
+      "hindi": "No capital and small letters."
+    },
+    {
+      "point": "The visual signature",
+      "hebrew": "A square script that sits on the line, dense and blocky, with most letters the same height.",
+      "hindi": "A horizontal head line, the shirorekha, runs across the top and joins the letters of a word into one connected strip."
+    },
+    {
+      "point": "Vowel marking",
+      "hebrew": "Niqqud, a system of dots and dashes above and below the letters, exists but is used mainly in prayer books, poetry, dictionaries and books for children and learners.",
+      "hindi": "Matras, vowel marks attached to a consonant. These are always written, so a Devanagari text is fully vocalised as a matter of course."
+    },
+    {
+      "point": "Consonant clusters",
+      "hebrew": "Written simply as consecutive letters.",
+      "hindi": "Written as conjuncts, where two or more consonant shapes fuse into one new shape. This is the part that takes longest to learn."
+    },
+    {
+      "point": "Letters as numbers",
+      "hebrew": "Every letter has a numeric value, from alef as 1 to tav as 400. The practice of reading words as numbers is called gematria.",
+      "hindi": "Devanagari has its own digits, 0 to 9. Separately, the katapayadi system used in Sanskrit mathematics and astronomy encoded numbers as letters, which allowed formulae to be memorised as verse."
+    },
+    {
+      "point": "Official status",
+      "hebrew": "Hebrew is the official language of the State of Israel. It is the only case of a language returning from liturgical and literary use to full everyday spoken use across a whole society.",
+      "hindi": "Under Article 343 of the Constitution of India, Hindi in the Devanagari script is the official language of the Union, with English as an associate official language. Devanagari is also used for Marathi, Nepali, Konkani and Sanskrit among others."
+    },
+    {
+      "point": "The script and its languages",
+      "hebrew": "The Hebrew script is also used to write Yiddish, Ladino and Judeo Arabic. Bene Israel and Cochin Jewish communities in India encountered it primarily as a liturgical script.",
+      "hindi": "Devanagari is one of many Indian scripts. The Cochin Jewish community lived in a Malayalam speaking region, and the Bene Israel in a Marathi speaking one, which is a reminder that 'Indian script' is never a single thing."
+    }
+  ],
+
+  "hebrewLetters": [
+    { "glyph": "א", "name": "Alef",   "translit": "silent or glottal", "value": 1,   "note": "Carries a vowel rather than a sound of its own." },
+    { "glyph": "ב", "name": "Bet",    "translit": "b or v",            "value": 2,   "note": "A dot inside, the dagesh, makes it hard: b." },
+    { "glyph": "ג", "name": "Gimel",  "translit": "g",                 "value": 3,   "note": "" },
+    { "glyph": "ד", "name": "Dalet",  "translit": "d",                 "value": 4,   "note": "" },
+    { "glyph": "ה", "name": "He",     "translit": "h",                 "value": 5,   "note": "Often silent at the end of a word." },
+    { "glyph": "ו", "name": "Vav",    "translit": "v, o, u",           "value": 6,   "note": "Doubles as a vowel carrier." },
+    { "glyph": "ז", "name": "Zayin",  "translit": "z",                 "value": 7,   "note": "" },
+    { "glyph": "ח", "name": "Chet",   "translit": "kh",                "value": 8,   "note": "A back of the throat sound with no English equivalent." },
+    { "glyph": "ט", "name": "Tet",    "translit": "t",                 "value": 9,   "note": "" },
+    { "glyph": "י", "name": "Yod",    "translit": "y, i",              "value": 10,  "note": "The smallest letter." },
+    { "glyph": "כ", "name": "Kaf",    "translit": "k or kh",           "value": 20,  "note": "Final form ך." },
+    { "glyph": "ל", "name": "Lamed",  "translit": "l",                 "value": 30,  "note": "The only letter that rises above the line." },
+    { "glyph": "מ", "name": "Mem",    "translit": "m",                 "value": 40,  "note": "Final form ם." },
+    { "glyph": "נ", "name": "Nun",    "translit": "n",                 "value": 50,  "note": "Final form ן." },
+    { "glyph": "ס", "name": "Samekh", "translit": "s",                 "value": 60,  "note": "" },
+    { "glyph": "ע", "name": "Ayin",   "translit": "silent or guttural","value": 70,  "note": "Like alef, mainly a vowel carrier in modern speech." },
+    { "glyph": "פ", "name": "Pe",     "translit": "p or f",            "value": 80,  "note": "Final form ף." },
+    { "glyph": "צ", "name": "Tsadi",  "translit": "ts",                "value": 90,  "note": "Final form ץ." },
+    { "glyph": "ק", "name": "Qof",    "translit": "k",                 "value": 100, "note": "" },
+    { "glyph": "ר", "name": "Resh",   "translit": "r",                 "value": 200, "note": "" },
+    { "glyph": "ש", "name": "Shin",   "translit": "sh or s",           "value": 300, "note": "The dot on the right gives sh, on the left gives s." },
+    { "glyph": "ת", "name": "Tav",    "translit": "t",                 "value": 400, "note": "" }
+  ],
+
+  "hebrewFinals": [
+    { "glyph": "ך", "from": "Kaf" },
+    { "glyph": "ם", "from": "Mem" },
+    { "glyph": "ן", "from": "Nun" },
+    { "glyph": "ף", "from": "Pe" },
+    { "glyph": "ץ", "from": "Tsadi" }
+  ],
+
+  "devanagariVowels": [
+    { "glyph": "अ", "matra": "",   "translit": "a",  "note": "Built into every consonant by default." },
+    { "glyph": "आ", "matra": "ा",  "translit": "aa", "note": "" },
+    { "glyph": "इ", "matra": "ि",  "translit": "i",  "note": "The mark is written before the consonant but read after it." },
+    { "glyph": "ई", "matra": "ी",  "translit": "ii", "note": "" },
+    { "glyph": "उ", "matra": "ु",  "translit": "u",  "note": "" },
+    { "glyph": "ऊ", "matra": "ू",  "translit": "uu", "note": "" },
+    { "glyph": "ऋ", "matra": "ृ",  "translit": "ri", "note": "Mainly in Sanskrit derived words." },
+    { "glyph": "ए", "matra": "े",  "translit": "e",  "note": "" },
+    { "glyph": "ऐ", "matra": "ै",  "translit": "ai", "note": "" },
+    { "glyph": "ओ", "matra": "ो",  "translit": "o",  "note": "" },
+    { "glyph": "औ", "matra": "ौ",  "translit": "au", "note": "" },
+    { "glyph": "अं", "matra": "ं", "translit": "an", "note": "Anusvara, a nasal." },
+    { "glyph": "अः", "matra": "ः", "translit": "ah", "note": "Visarga, a breath." }
+  ],
+
+  "devanagariConsonants": [
+    { "row": "Velar, back of the throat",   "letters": [["क","ka"],["ख","kha"],["ग","ga"],["घ","gha"],["ङ","nga"]] },
+    { "row": "Palatal, tongue to the palate","letters": [["च","cha"],["छ","chha"],["ज","ja"],["झ","jha"],["ञ","nya"]] },
+    { "row": "Retroflex, tongue curled back","letters": [["ट","ta"],["ठ","tha"],["ड","da"],["ढ","dha"],["ण","na"]] },
+    { "row": "Dental, tongue to the teeth", "letters": [["त","ta"],["थ","tha"],["द","da"],["ध","dha"],["न","na"]] },
+    { "row": "Labial, the lips",            "letters": [["प","pa"],["फ","pha"],["ब","ba"],["भ","bha"],["म","ma"]] },
+    { "row": "Semivowels",                  "letters": [["य","ya"],["र","ra"],["ल","la"],["व","va"]] },
+    { "row": "Sibilants and aspirate",       "letters": [["श","sha"],["ष","sha"],["स","sa"],["ह","ha"]] }
+  ],
+
+  "devanagariNote": "The consonant grid is not alphabetical in the European sense. It is a map of the mouth. Each row moves the point of contact further forward, from the throat to the lips, and within each row the sounds move from unvoiced to voiced to nasal. Once that is seen, the order stops being a list to memorise and becomes a diagram.",
+
+  "phrases": [
+    { "meaning": "Peace, and also hello and goodbye", "hebrew": "שלום", "hebrewT": "shalom", "hindi": "नमस्ते", "hindiT": "namaste", "note": "Shalom is built on the root for wholeness. Namaste is a greeting of respect rather than a word for peace. The two are used in the same slot in conversation but mean different things." },
+    { "meaning": "Thank you",   "hebrew": "תודה",     "hebrewT": "toda",       "hindi": "धन्यवाद", "hindiT": "dhanyavaad", "note": "" },
+    { "meaning": "Yes",         "hebrew": "כן",       "hebrewT": "ken",        "hindi": "हाँ",     "hindiT": "haan",       "note": "" },
+    { "meaning": "No",          "hebrew": "לא",       "hebrewT": "lo",         "hindi": "नहीं",    "hindiT": "nahin",      "note": "" },
+    { "meaning": "Water",       "hebrew": "מים",      "hebrewT": "mayim",      "hindi": "पानी",    "hindiT": "paani",      "note": "" },
+    { "meaning": "Book",        "hebrew": "ספר",      "hebrewT": "sefer",      "hindi": "किताब",   "hindiT": "kitaab",     "note": "The Hindi word arrives through Persian and Arabic, which is a reminder that both languages sit inside larger borrowing networks." },
+    { "meaning": "Teacher",     "hebrew": "מורה",     "hebrewT": "moreh",      "hindi": "गुरु",    "hindiT": "guru",       "note": "" },
+    { "meaning": "Friend",      "hebrew": "חבר",      "hebrewT": "chaver",     "hindi": "दोस्त",   "hindiT": "dost",       "note": "" },
+    { "meaning": "What is your name",  "hebrew": "מה שמך", "hebrewT": "ma shimcha", "hindi": "आपका नाम क्या है", "hindiT": "aapka naam kya hai", "note": "" },
+    { "meaning": "Thank you very much","hebrew": "תודה רבה","hebrewT": "toda raba",  "hindi": "बहुत धन्यवाद",     "hindiT": "bahut dhanyavaad",   "note": "" }
+  ],
+
+  "resources": {
+    "note": "This project links only to resources it can name and stand behind, and it marks the status of each one. Where an entry says the link still needs checking, it means exactly that: it has not yet been opened and confirmed by an editor. Nothing here is a paid placement, and nothing here is invented. Suggest additions through the corrections control on this page.",
+    "hebrew": [
+      { "name": "Academy of the Hebrew Language", "kind": "Official language body", "url": "https://hebrew-academy.org.il/", "status": "unchecked", "note": "The state body responsible for Hebrew. Reference material rather than a beginners course." },
+      { "name": "Nefesh B'Nefesh, ulpan and Hebrew learning resources", "kind": "Established organisation", "url": "https://www.nbn.org.il/life-in-israel/learning-hebrew-and-ulpan/ulpan-and-hebrew-learning-resources-online/", "status": "unchecked", "note": "A directory page aimed at new arrivals to Israel, listing ulpan and online options." }
+    ],
+    "hindi": [
+      { "name": "NCERT textbooks", "kind": "Government of India", "url": "https://ncert.nic.in/textbook.php", "status": "unchecked", "note": "School textbooks published by the National Council of Educational Research and Training, including Hindi language books." },
+      { "name": "Central Institute of Indian Languages", "kind": "Government of India", "url": "https://www.ciil.org/", "status": "unchecked", "note": "The national institute for Indian language teaching and research." }
+    ],
+    "wanted": [
+      "A free Hebrew course aimed at speakers of Indian languages rather than English",
+      "A Hindi course aimed at Hebrew speakers",
+      "Marathi and Malayalam material, since those are the languages of two of the four Jewish communities of India",
+      "Any recorded oral history in Judeo Marathi or in the Malayalam of the Cochin community"
+    ]
+  }
+}

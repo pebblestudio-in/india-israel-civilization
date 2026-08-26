@@ -1,0 +1,766 @@
+{
+  "intro": {
+    "lede": "The Jewish communities of India produced a founding poet of Indian English verse, the first woman film producer in the Hindi industry, the first Muslim painter in the Tate collection, the composer of the tune that opened All India Radio every morning, and a Sahitya Akademi novelist still writing in Ahmedabad. None of that appears in the standard account of the relationship between the two countries, because the standard account starts with embassies.",
+    "note": "Names, works and dates, each with its source. Where two sources disagree, both are shown."
+  },
+  "sections": [
+    {
+      "id": "writers",
+      "label": "Writers and Poets",
+      "blurb": "Six writers who worked in English, Hindi, Gujarati and Malayalam, across a century."
+    },
+    {
+      "id": "artists",
+      "label": "Painters and Artists",
+      "blurb": "From a Bene Israel painter in the Tate to a contemporary painter of blue-skinned figures."
+    },
+    {
+      "id": "cinema",
+      "label": "Cinema",
+      "blurb": "The Jewish women who played Hindu heroines in early Indian film, and why."
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "blurb": "Iraqi Jewish instrumentalists in Bombay studios, and the Malayalam songs of Cochin Jewish women."
+    }
+  ],
+  "people": [
+    {
+      "id": "nissim-ezekiel",
+      "section": "writers",
+      "name": "Nissim Ezekiel",
+      "dates": "1924 to 2004",
+      "community": "bene-israel",
+      "role": "Poet, editor, professor",
+      "place": "Bombay",
+      "motif": "book",
+      "summary": "Britannica describes him as one of the founders of the English vernacular literary genre in India, and as the father of post-independence English-language verse in India. He is the single most consequential figure this section contains, and his community identity is almost never mentioned alongside his work.",
+      "detail": [
+        "Born on 16 December 1924 in Bombay, into the Marathi-speaking Bene Israel community. His father was a school principal and later a professor of botany and zoology. He died in Mumbai on 9 January 2004, aged seventy-nine.",
+        "His collections, as listed by Britannica, are A Time to Change (1952), Sixty Poems (1953), The Third (1959), The Unfinished Man (1960), The Exact Name (1965), Snakeskin and Other Poems (1974), Hymns in the Darkness (1976), Latter-Day Psalms (1982) and Collected Poems 1952-88 (1989).",
+        "One entry in that list needs a caution attached, and this project would rather attach it than pass the list on unchecked. Britannica includes a 1956 volume titled The Discovery of India. The Poetry Archive's bibliography does not list it, and the title famously belongs to Nehru's book of 1946. This project could not confirm a 1956 Ezekiel volume of that name from a second source, and so records it as unconfirmed rather than reprinting it as fact.",
+        "He won the Sahitya Akademi Award in 1983 for Latter-Day Psalms and the Padma Shri in 1988. He was a visiting professor at the University of Leeds in 1964, headed the English department at Mithibai College from 1961, later held a professorship of English at the University of Mumbai, and edited the journals Poetry India and Quest.",
+        "Two biographical facts are worth holding together. His family stayed in India rather than emigrating after Partition, at a period when a great many Bene Israel families were leaving. And in later life he had Alzheimer's disease."
+      ],
+      "sources": [
+        "britannica-ezekiel",
+        "poetryarchive-ezekiel",
+        "theprint-ezekiel"
+      ],
+      "links": [
+        {
+          "label": "Britannica entry",
+          "url": "https://www.britannica.com/biography/Nissim-Ezekiel"
+        },
+        {
+          "label": "The Poetry Archive",
+          "url": "https://poetryarchive.org/poet/nissim-ezekiel/"
+        }
+      ]
+    },
+    {
+      "id": "esther-david",
+      "section": "writers",
+      "name": "Esther David",
+      "dates": "born 1945",
+      "community": "bene-israel",
+      "role": "Novelist, sculptor, art critic",
+      "place": "Ahmedabad",
+      "motif": "book",
+      "summary": "A Sahitya Akademi winner who has spent a working life writing the Bene Israel of Ahmedabad into Indian literature, and who trained as a sculptor and illustrates her own books.",
+      "detail": [
+        "Born on 17 March 1945 in Ahmedabad. Her father, Reuben David, was a hunter turned veterinarian who founded the Kamla Nehru Zoological Garden in the city, which is the same Reuben David recorded elsewhere on this site in the Press Information Bureau's list of Indian Jewish contributions.",
+        "She trained as a sculptor and has worked as an art critic and columnist for the Times of India in Ahmedabad, for Femina Gujarat, Ahmedabad Times and Ahmedabad Mirror.",
+        "The Walled City was first published in 1997. An American edition followed in July 2002 from Syracuse University Press, in its Library of Modern Jewish Literature series.",
+        "She won the Sahitya Akademi Award for English in 2010 for Book of Rachel. The French translation of that novel won the Prix Eugenie Brazier in 2009 and the Prix Michel Tournier in 2012.",
+        "Bene Appetit: The Cuisine of Indian Jews won the Jane and Stuart Weitzman Family Award for Food Writing and Cookbooks in the 2021 National Jewish Book Awards, announced in January 2022. A cookbook winning a national literary award is not a small thing for a community this size: recipes are often the last part of a culture to survive migration, and the first part to be written down when someone realises it is going.",
+        "Her other titles include My Father's Zoo (2007), Shalom India Housing Society (2007), The Man with Enormous Wings (2010) and Bombay Brides, dated 2018 by her own site and 2019 elsewhere. In 2024 she published The Jew and the Zoo, about her father, with Navjivan Publishing House.",
+        "She held Hadassah-Brandeis Institute research awards in 2011 and 2016."
+      ],
+      "sources": [
+        "estherdavid-site",
+        "syracuse-walledcity",
+        "penguin-rachel",
+        "jbc-awards",
+        "wiki-estherdavid"
+      ],
+      "links": [
+        {
+          "label": "Her own site",
+          "url": "https://estherdavid.com/esther-david/biography/"
+        },
+        {
+          "label": "Syracuse University Press",
+          "url": "https://press.syr.edu/supressbooks/1177/walled-city-the/"
+        }
+      ]
+    },
+    {
+      "id": "ruby-daniel",
+      "section": "writers",
+      "name": "Ruby Daniel",
+      "dates": "1912 to 2002",
+      "community": "cochin-jews",
+      "role": "Memoirist, translator, naval servicewoman",
+      "place": "Cochin, later Kibbutz Neot Mordekhai",
+      "motif": "scroll",
+      "summary": "The first Cochin Jewish woman to author a book, and the person who translated roughly 120 Malayalam Jewish women's songs into English before they were lost.",
+      "detail": [
+        "Born in December 1912 in the Cochin Jewish community of Kerala. She died on 23 September 2002.",
+        "She worked as a government court clerk for over fifteen years, and served in the Women's Royal Indian Naval Service between 1944 and 1946. She made aliyah in 1951 and settled at Kibbutz Neot Mordekhai in the Upper Galilee.",
+        "Her memoir, Ruby of Cochin: An Indian Jewish Woman Remembers, was written with Barbara C. Johnson and published in Philadelphia by the Jewish Publication Society in 1995. The Jewish Women's Archive records her as the first Cochin Jewish woman to author a book.",
+        "The translation work is the part that will outlast the memoir. Between 1982 and 1999, from a kibbutz in the Galilee, she translated approximately 120 Malayalam-language Jewish women's songs into English.",
+        "Consider what that means as a piece of preservation. These were songs sung by women in Kerala, in Malayalam, in a Jewish community that had by then almost entirely left Kerala. The people who could still sing them were elderly and scattered across Israel. The person who wrote them down was one of them, working alone, over seventeen years, in her seventies and eighties.",
+        "Almost every archive that exists was made by somebody who noticed in time. This one has a name and a date range attached."
+      ],
+      "sources": [
+        "jwa-rubydaniel",
+        "cambridge-rubycochin"
+      ],
+      "links": [
+        {
+          "label": "Jewish Women's Archive entry",
+          "url": "https://jwa.org/encyclopedia/article/daniel-ruby"
+        }
+      ]
+    },
+    {
+      "id": "jael-silliman",
+      "section": "writers",
+      "name": "Jael Silliman",
+      "dates": "born, year not confirmed",
+      "community": "baghdadi-jews",
+      "role": "Writer, academic, archivist",
+      "place": "Kolkata",
+      "motif": "archive",
+      "summary": "Built the digital archive of Jewish Calcutta, which is the closest thing to a model for what this project is trying to do for the country as a whole.",
+      "detail": [
+        "She is the founder and curator of Recalling Jewish Calcutta, a digital archive at jewishcalcutta.in documenting the Baghdadi Jewish community of the city.",
+        "The archive holds photographs, documents, letters, memoirs and artefacts covering roughly two hundred years of Jewish history in Kolkata, along with video tours of the synagogues and Baghdadi Jewish recipes. A permanent exhibition of thirty posters drawn from the material was installed at Bethel Synagogue in Kolkata on 1 September 2014.",
+        "Her academic career: a former tenured associate professor in the Women's Studies Department at the University of Iowa, holder of a Senior Nehru Fulbright Scholar Award, and programme officer for reproductive rights in the Ford Foundation's Human Rights Unit between 2002 and 2008.",
+        "Jewish Portraits, Indian Frames: Women's Narratives from a Diaspora of Hope was originally published in 2001, with a new Seagull Books edition in 2022. It follows four generations of Baghdadi Jewish women in Calcutta.",
+        "Her other books include Dangerous Intersections (1999), Policing the National Body (2002), Undivided Rights (2004), The Man With Many Hats (2013), The Teak Almirah (2016), Where Gods Reside (2018), ADDA! The College Street Coffee House (2020) and Shalome Rides a Royal Elephant (2023)."
+      ],
+      "sources": [
+        "skidmore-silliman",
+        "scroll-jewishcalcutta",
+        "seagull-portraits",
+        "wiki-silliman"
+      ],
+      "links": [
+        {
+          "label": "Recalling Jewish Calcutta",
+          "url": "https://www.jewishcalcutta.in/"
+        },
+        {
+          "label": "Scroll.in on the archive",
+          "url": "https://scroll.in/article/676912/the-rich-cultural-life-of-kolkatas-jews-comes-alive-in-online-archive"
+        }
+      ]
+    },
+    {
+      "id": "sheela-rohekar",
+      "section": "writers",
+      "name": "Sheela Rohekar",
+      "dates": "born October 1942",
+      "community": "bene-israel",
+      "role": "Novelist in Hindi and Gujarati",
+      "place": "Lucknow",
+      "motif": "book",
+      "summary": "Described by a scholar at Uppsala University as the single living Jewish author of fine literature writing in Hindi.",
+      "detail": [
+        "Note the spelling. She is Sheela, not Sheila, and the surname Rohekar comes from Roha in the Konkan, which is where she was born in October 1942. Her parents were Isaac Jacob Rohekar and Elizabeth. She lives in Lucknow and is married to the Hindi novelist Ravindra Verma.",
+        "Heinz Werner Wessler of Uppsala University, writing for the 2014 European Conference on South Asian Studies, described her as the single living Jewish author of fine literature writing in Hindi. That is a description of a category with one person in it.",
+        "She began writing in Gujarati and later switched to Hindi. Her Hindi novels include Dinank, which won the Yashpal Award, Taveez, and Miss Samuel: Ek Yahudi Gatha, published in 2013 and described as her third Hindi novel. Her short story collections are Chauthi Deewar in Hindi and Life Line Ni Bahar in Gujarati.",
+        "Miss Samuel appeared in English in December 2024, translated by Madhu Singh and published by Speaking Tiger as Miss Samuel: A Jewish-Indian Saga. A later Hindi novel, Pallipaar, was published by Setu Prakashan.",
+        "Her awards include the Yashpal Prize, the Premchand Prize from the Uttar Pradesh Hindi Sansthan for Miss Samuel, and the Hindustan Times Pen of the Year.",
+        "There is a point about language worth making plainly. Indian Jewish writing is usually discussed as a body of English language work, because that is the part reachable by the people who write about it. A novelist who moved from Gujarati to Hindi and has spent decades in Lucknow is invisible to that framing, and there is no reason to think she is the only one."
+      ],
+      "sources": [
+        "ecsas-rohekar",
+        "samalochan-rohekar",
+        "speakingtiger-misssamuel",
+        "arb-misssamuel"
+      ],
+      "links": [
+        {
+          "label": "Speaking Tiger, Miss Samuel",
+          "url": "https://speakingtigerbooks.com/product/miss-samuel/"
+        },
+        {
+          "label": "Asian Review of Books",
+          "url": "https://asianreviewofbooks.com/miss-samuel-a-jewish-indian-saga-by-sheela-rohekar/"
+        }
+      ]
+    },
+    {
+      "id": "zilka-joseph",
+      "section": "writers",
+      "name": "Zilka Joseph",
+      "dates": "born, year not recorded here",
+      "community": "bene-israel",
+      "role": "Poet",
+      "place": "Mumbai and Kolkata, now Michigan",
+      "motif": "book",
+      "summary": "A Bene Israel poet whose most recent book is built around the malida ceremony, the Bene Israel rite associated with the Prophet Elijah.",
+      "detail": [
+        "Born in Mumbai to a Bene Israel family, the daughter of Solomon Aaron Joseph, a marine engineer known as Sunny, and Ruby Benjamin Joseph. She was raised in Kolkata and now lives in Michigan.",
+        "She holds a BA and BEd from the University of Calcutta, an MA in Comparative Literature from Jadavpur University, and an MFA in Poetry from the University of Michigan.",
+        "Her books are Lands I Live In (Mayapple Press, 2007), What Dread (Finishing Line Press, 2011), Sharp Blue Search of Flame (Wayne State University Press, 2016), In Our Beautiful Bones (Mayapple Press, 2021), Sparrows and Dust (Ridgeway Press, 2021) and Sweet Malida: Memories of a Bene Israel Woman (Mayapple Press, 2024).",
+        "Sweet Malida runs to sixty-six pages of poems and short prose on Bene Israel history, custom and food, taking its title from the malida, the ceremony of thanksgiving associated with the Prophet Elijah, whose supposed appearance on the Konkan coast is central to Bene Israel tradition.",
+        "It is worth noticing what this book is doing. A community rite that has been performed in Marathi speaking households for generations is being written into English language poetry by someone living in Michigan. That is not a loss and it is not a preservation either. It is a third thing, and the honest description is that a tradition acquires a new form when the people carrying it move."
+      ],
+      "sources": [
+        "mayapple-malida",
+        "yetzirah-zilka",
+        "zilka-site"
+      ],
+      "links": [
+        {
+          "label": "Mayapple Press, Sweet Malida",
+          "url": "http://mayapplepress.com/sweet-malida-memories-of-a-bene-israel-woman-zilka-joseph/"
+        },
+        {
+          "label": "Her own site",
+          "url": "http://www.zilkajoseph.com/about.html"
+        }
+      ]
+    },
+    {
+      "id": "sophie-judah",
+      "section": "writers",
+      "name": "Sophie Judah",
+      "dates": "born 1949",
+      "community": "bene-israel",
+      "role": "Short story writer",
+      "place": "Jabalpur, now Hod Hasharon",
+      "motif": "book",
+      "summary": "Nineteen linked stories set in an invented Bene Israel town, written by someone whose own childhood was spent as the only Jewish family in a series of real ones.",
+      "detail": [
+        "Born in 1949 in Jabalpur. Because of her father's military career the family was often the only Jewish family in whatever town they were posted to. She emigrated to Israel in 1973 and lives in Hod Hasharon.",
+        "Dropped from Heaven: Stories was published by Schocken Books in New York in 2007. It contains nineteen linked short stories set in Jwalanagar, a fictional Bene Israel town.",
+        "The invented town is the interesting formal choice. A writer describing a real community usually names real places. Inventing one lets a writer compress several decades and several towns into a single location, which is what you do when the experience you are describing was itself scattered."
+      ],
+      "sources": [
+        "encyclopedia-judah"
+      ],
+      "links": [
+        {
+          "label": "Contemporary Authors entry",
+          "url": "https://www.encyclopedia.com/arts/educational-magazines/judah-sophie-1949"
+        }
+      ]
+    },
+    {
+      "id": "kehimkar",
+      "section": "writers",
+      "name": "Haeem Samuel Kehimkar",
+      "dates": "1830 to 1909",
+      "community": "bene-israel",
+      "role": "Historian",
+      "place": "Bombay",
+      "motif": "scroll",
+      "summary": "Wrote the first history of his own community, in English, in 1897. It was published forty years later in Tel Aviv, twenty-eight years after his death.",
+      "detail": [
+        "The National Library of Israel records his dates as 1830 to 1909.",
+        "The History of the Bene Israel of India was written in English in 1897. It was edited by Immanuel Olsvanger and published by Dayag Press in Tel Aviv in 1937.",
+        "Kehimkar's own argument for writing it was that only someone born and raised in the community could give a reliable account of it. That is a claim about method, made in 1897, by a member of a community that had until then been described almost entirely by outsiders.",
+        "The publication history is its own piece of evidence. A book written in Bombay in 1897 was printed in Tel Aviv in 1937, forty years later and twenty-eight years after the author's death, at a moment when the community's centre of gravity was beginning to shift westward. The manuscript travelled the same route the community would."
+      ],
+      "sources": [
+        "posen-kehimkar",
+        "nli-kehimkar"
+      ],
+      "links": [
+        {
+          "label": "Posen Library entry",
+          "url": "https://www.posenlibrary.com/entry/history-bene-israel-india"
+        }
+      ]
+    },
+    {
+      "id": "fyzee-rahamin",
+      "section": "artists",
+      "name": "Samuel Fyzee-Rahamin",
+      "dates": "1880 to 1964",
+      "community": "bene-israel",
+      "role": "Painter",
+      "place": "Poona, Bombay, London, Karachi",
+      "motif": "brush",
+      "summary": "Born Bene Israel in Poona, trained under John Singer Sargent, became in 1925 the first Muslim artist represented in the Tate. One life crosses three religious identities and four cities.",
+      "detail": [
+        "Born Samuel Rahamin Samuel on 19 December 1880 in Poona, now Pune, into a Bene Israel family. He died on 1 January 1964 in Karachi.",
+        "He studied at the Sir J. J. School of Art in Bombay, then on scholarship at the Slade School of Fine Art in 1903 and the Royal Academy from 1904 to 1909, training under John Singer Sargent and Solomon J. Solomon.",
+        "In 1912 he married Atiya Fyzee, the author, performer and arts patron, and converted to Islam. Both took the hyphenated surname Fyzee-Rahamin.",
+        "In 1925 he became the first Muslim artist represented in the Tate, when two Ragmala paintings were acquired. Tate today lists two works by him: Raagni Todi, Goddess Tune (1913) and A Rajput Sirdar, dated around 1914 to 1915.",
+        "He was court painter to Baroda State between 1908 and 1918, and painted frescoes for the Imperial Secretariat in New Delhi between 1926 and 1929. In 1948 he moved to Karachi at Jinnah's invitation. His work is held by Tate, the Yale University Art Gallery, Manchester Art Gallery, Ben Uri and the Baroda Museum.",
+        "Follow the sequence and the standard categories stop working. A Bene Israel boy from Poona trains under the most fashionable portraitist in the English-speaking world, marries into a prominent Muslim family and converts, paints Indian classical music as pictures, enters the British national collection as a Muslim artist, decorates the imperial capital, and ends his life in Pakistan at the invitation of its founder.",
+        "No account of Indian Jewish history that treats the community as a sealed group can hold a life like this. It is the strongest single argument on this site against writing about these communities as though they were separate from everything around them."
+      ],
+      "sources": [
+        "benuri-fyzee",
+        "tate-fyzee",
+        "wiki-fyzee"
+      ],
+      "links": [
+        {
+          "label": "Ben Uri biography",
+          "url": "https://benuri.org/artists/723-samuel-rahamin-samuel/biography/"
+        },
+        {
+          "label": "Tate artist page",
+          "url": "https://www.tate.org.uk/art/artists/samuel-fyzee-rahamin-1136"
+        }
+      ]
+    },
+    {
+      "id": "siona-benjamin",
+      "section": "artists",
+      "name": "Siona Benjamin",
+      "dates": "born 1960",
+      "community": "bene-israel",
+      "role": "Painter",
+      "place": "Mumbai, now near New York",
+      "motif": "brush",
+      "summary": "Paints blue-skinned figures, in gouache and gold leaf, drawing on Indian and Persian miniature painting, illuminated manuscripts, comic books and Sephardic icons at once.",
+      "detail": [
+        "Born in 1960 in Mumbai, into the Bene Israel community. She attended Catholic and Zoroastrian schools while being raised Jewish in a society that was Hindu and Muslim. She moved to the United States in 1986 and now lives near New York City.",
+        "She holds an MFA in Painting from Southern Illinois University, awarded in 1989, and an MFA in Theater Set Design from the University of Illinois, awarded in 1993.",
+        "Her signature is the blue-skinned figure, described in her own words as the colour of the sky and the ocean, of belonging everywhere and nowhere. She works in gouache and gold leaf on panel, and also in mosaic and scroll form.",
+        "The Fereshteh series, begun in the early 2000s and still growing, reimagines biblical women through midrash in order to address contemporary violence. It numbered eighty-two paintings at the time of writing.",
+        "Her named series include Finding Home, Exodus, Improvisation, Circle of Introspection, Liberty, Luminosity and the Fulbright Series.",
+        "She held two Fulbright Fellowships that go directly to this project's subject. The first, to India in 2010 and 2011, researched Indian Jewish communities under the title Faces: Weaving Indian Jewish Narratives. The second, to Israel in 2016 and 2017, was titled From Motherland to Fatherland: Transcultural Indian Jews in Israel.",
+        "That second title is the most precise three-word statement of this project's whole subject that anyone has produced. Motherland to fatherland, with transcultural doing the work in between.",
+        "Recent solo exhibitions include the Montclair Art Museum in New Jersey in 2023 and 2024, Fordham University in New York in 2024 and 2025, the Henry Luce III Center for the Arts and Religion in Washington in 2024, the Skirball Museum in Cincinnati and Cleveland State University Art Galleries in 2023, Jewish Museum Milwaukee in 2022, and Neve Schechter in Tel Aviv in 2016 and 2017. A documentary, Blue Like Me: The Art of Siona Benjamin, appeared in 2015."
+      ],
+      "sources": [
+        "jwa-siona",
+        "artsiona-site",
+        "ajs-siona"
+      ],
+      "links": [
+        {
+          "label": "Her own site",
+          "url": "https://artsiona.com/about-siona-benjamin/"
+        },
+        {
+          "label": "Jewish Women's Archive",
+          "url": "https://jwa.org/encyclopedia/article/benjamin-siona"
+        }
+      ]
+    },
+    {
+      "id": "anish-kapoor",
+      "section": "artists",
+      "name": "Anish Kapoor",
+      "dates": "born 1954",
+      "community": null,
+      "role": "Sculptor",
+      "place": "Mumbai, now London",
+      "motif": "brush",
+      "summary": "Included here for one precise reason, and described carefully because this is exactly the kind of entry that gets exaggerated.",
+      "detail": [
+        "Born on 12 March 1954 in Mumbai. His father was an Indian Punjabi Hindu who served in the Indian Navy as a hydrographer and applied physicist. His mother was of Iraqi Jewish origin, which in the Indian context means Baghdadi Jewish, and his maternal grandfather served as cantor of the synagogue in Pune.",
+        "He was educated at The Doon School in Dehradun, went to Israel in 1971, and from 1973 studied at Hornsey College of Art and Chelsea School of Art and Design in Britain.",
+        "His awards include the Premio Duemila at the 44th Venice Biennale in 1990, the Turner Prize in 1991, the Praemium Imperiale in 2011, the Padma Bhushan in 2012, a knighthood in 2013 and the Genesis Prize in 2017.",
+        "Now the care. He is not a member of an Indian Jewish community organisation and should not be described as Bene Israel, which he is not. His father was Punjabi Hindu and no reliable source says otherwise. What is documented is a Baghdadi Jewish mother and a grandfather who was cantor in Pune.",
+        "He is not Bene Israel and should not be described as such. What is documented is a Baghdadi Jewish mother and a grandfather who was cantor in Pune."
+      ],
+      "sources": [
+        "wiki-kapoor"
+      ],
+      "links": [
+        {
+          "label": "Encyclopaedic entry",
+          "url": "https://en.wikipedia.org/wiki/Anish_Kapoor"
+        }
+      ]
+    },
+    {
+      "id": "shimon-lev",
+      "section": "artists",
+      "name": "Shimon Lev",
+      "dates": "born 1962",
+      "community": null,
+      "role": "Artist, photographer, curator, scholar of India",
+      "place": "Jerusalem",
+      "motif": "brush",
+      "summary": "An Israeli artist whose doctorate was on the mutual influence of Jewish and Indian cultures, and who has written a book on Gandhi and Hermann Kallenbach.",
+      "detail": [
+        "Born on 1 August 1962. He is a multidisciplinary artist, photographer, curator and researcher in Indian Studies, and teaches at Hadassah Academic College in Jerusalem. His doctorate examined the mutual influence of Jewish and Indian cultures.",
+        "His books include Vesheyodea Lishol (1998), Soulmates (2012) on Gandhi and Hermann Kallenbach, Clear are the Paths of India (2018), and From Lithuania to Santiniketan (2018) on Schlomith Flaum and Rabindranath Tagore.",
+        "He curated Two Family Archives in 2014 and was chief curator of The Camera Man: Women and Men Photographing Jerusalem 1900 to 1950 at the Tower of David Museum in May 2016."
+      ],
+      "sources": [
+        "wiki-shimonlev"
+      ],
+      "links": [
+        {
+          "label": "Encyclopaedic entry",
+          "url": "https://en.wikipedia.org/wiki/Shimon_Lev"
+        }
+      ]
+    },
+    {
+      "id": "ruby-myers",
+      "section": "cinema",
+      "name": "Ruby Myers, known as Sulochana",
+      "dates": "1907 to 1983",
+      "community": "baghdadi-jews",
+      "role": "Silent film actress, producer",
+      "place": "Poona and Bombay",
+      "motif": "film",
+      "summary": "A telephone operator from a Baghdadi Jewish family in Poona who became the highest paid film star in India, then learned Hindustani in a year in order to survive the arrival of sound.",
+      "detail": [
+        "Born in 1907 in Poona, into a Baghdadi Jewish family. She died on 10 October 1983 in Mumbai.",
+        "She was working as a telephone operator when Mohan Bhavnani of the Kohinoor Film Company recruited her. At the Imperial Film Company she became the highest paid film star in India.",
+        "Her silent films include Typist Girl (1926), Balidaan (1927), Wildcat of Bombay (1927), Madhuri (1928), Anarkali (1928) and Indira B.A. (1929).",
+        "Then sound arrived, and this is the part of her story worth pausing on. A star of silent cinema whose language was not Hindustani spent a year learning it, and returned in the sound version of Madhuri in 1932. In the mid-1930s she founded her own production house, Rubi Pics.",
+        "She received the Dadasaheb Phalke Award in 1973, India's highest honour for lifetime contribution to cinema.",
+        "The stage name matters. Ruby Myers became Sulochana, a Sanskrit name. The Munich Research Centre for Jewish-Arabic Cultures places her among a group of Baghdadi Jewish actresses who took Sanskrit or Urdu stage names, and that pattern is the single most interesting thing in this whole section."
+      ],
+      "sources": [
+        "wiki-rubymyers",
+        "munich-vamp"
+      ],
+      "links": [
+        {
+          "label": "Munich Research Centre article",
+          "url": "https://www.jewisharabiccultures.fak12.uni-muenchen.de/the-vamp-of-baghdad-how-jewish-actresses-shaped-early-20th-century-indian-cinema/"
+        }
+      ]
+    },
+    {
+      "id": "pramila",
+      "section": "cinema",
+      "name": "Esther Victoria Abraham, known as Pramila",
+      "dates": "1916 to 2006",
+      "community": "baghdadi-jews",
+      "role": "Stunt actress, the first woman film producer in the Hindi industry",
+      "place": "Calcutta and Bombay",
+      "motif": "film",
+      "summary": "Won the first Miss India title in 1947 at the age of thirty-one, acted in around thirty films, and produced sixteen more through her own company.",
+      "detail": [
+        "Born on 30 December 1916 in Calcutta. Her father, Reuben Abraham, was a Jewish businessman from Kolkata; her mother, Matilda Isaac, was Jewish and from Karachi. She died on 6 August 2006 in Mumbai, aged eighty-nine.",
+        "She won the inaugural Miss India pageant in 1947, aged thirty-one. The year is the point. India became independent in 1947, and the first woman crowned to represent it was a Baghdadi Jewish stunt actress and mother.",
+        "She acted in around thirty films and became the first woman film producer in the Hindi film industry. Her company, Silver Films, produced sixteen films. Her notable appearances include Jungle King (1939), Basant (1942), Jhankar (1942), Ulti Ganga (1942) and Hamari Beti (1950).",
+        "Her daughter Naqi Jahan won Eve's Weekly Miss India in 1967, making them the only mother and daughter both to hold a Miss India title. Her youngest son, Haidar Ali, became an actor.",
+        "One source gives her birth year as 1911. Two give 1916, which is what this site prints."
+      ],
+      "sources": [
+        "wiki-pramila",
+        "munich-vamp",
+        "ejp-bollywood"
+      ],
+      "links": [
+        {
+          "label": "Encyclopaedic entry",
+          "url": "https://en.wikipedia.org/wiki/Esther_Victoria_Abraham"
+        }
+      ]
+    },
+    {
+      "id": "nadira",
+      "section": "cinema",
+      "name": "Florence Ezekiel, known as Nadira",
+      "dates": "1932 to 2006",
+      "community": "baghdadi-jews",
+      "role": "Actress",
+      "place": "Baghdad, then Bombay",
+      "motif": "film",
+      "summary": "Played the definitive screen vamp of Hindi cinema for three decades, and was among the first Indian actresses to own a Rolls-Royce.",
+      "detail": [
+        "Born on 5 December 1932, into a Baghdadi Jewish family that moved to Bombay when she was an infant. She died on 9 February 2006 in Mumbai, aged seventy-three.",
+        "Her breakthrough was Aan in 1952, as a Rajput princess. Her later films include Shree 420 in 1955, as the socialite Maya, Pakeezah in 1972 and Julie in 1975, for which she won the Filmfare Award for Best Supporting Actress in 1976.",
+        "She was among the highest paid actresses of her era and one of the first Indian actresses to own a Rolls-Royce.",
+        "A Baghdad-born Jewish actress playing a Rajput princess in what is described as India's first colour film, then becoming the industry's standard image of the dangerous westernised woman, is a career that only makes sense inside the specific world of mid-century Bombay cinema.",
+        "Sources differ on whether she was born in Baghdad or Bombay."
+      ],
+      "sources": [
+        "wiki-nadira",
+        "ejp-bollywood"
+      ],
+      "links": [
+        {
+          "label": "Encyclopaedic entry",
+          "url": "https://en.wikipedia.org/wiki/Nadira_(Indian_actress)"
+        }
+      ]
+    },
+    {
+      "id": "david-cheulkar",
+      "section": "cinema",
+      "name": "David Abraham Cheulkar",
+      "dates": "1908 to 1982",
+      "community": "bene-israel",
+      "role": "Actor",
+      "place": "Bombay",
+      "motif": "film",
+      "summary": "Appeared in more than a hundred and ten films across four decades, billed simply as David, and became one of the most recognisable faces in Indian cinema.",
+      "detail": [
+        "Born on 21 June 1908 into Mumbai's Marathi-speaking Bene Israel community. His mother, Dinah, of Marathi heritage, lived to a hundred and four. He died on 2 January 1982 in Toronto, of a heart attack, aged seventy-three.",
+        "He appeared in more than a hundred and ten films across four decades, usually billed simply as David, or as Uncle David.",
+        "He won the Filmfare Best Supporting Actor Award in 1955 for Boot Polish, released in 1954, in which he played John Chacha. Other notable roles came in Satyakam in 1969 and Gol Maal in 1979. He received the Padma Shri in 1969."
+      ],
+      "sources": [
+        "wiki-cheulkar",
+        "ejp-bollywood",
+        "pib-jews"
+      ],
+      "links": [
+        {
+          "label": "Encyclopaedic entry",
+          "url": "https://en.wikipedia.org/wiki/David_Abraham_Cheulkar"
+        }
+      ]
+    },
+    {
+      "id": "ezra-mir",
+      "section": "cinema",
+      "name": "Ezra Mir, born Edwyn Myers",
+      "dates": "1903 to 1993",
+      "community": "baghdadi-jews",
+      "role": "Documentary film maker",
+      "place": "Bombay and New York",
+      "motif": "film",
+      "summary": "Worked on over seven hundred documentaries, became Chief Producer of the Films Division in 1956, and founded the Indian Documentary Producers Association in the same year.",
+      "detail": [
+        "Born Edwyn Myers on 26 October 1903. He died on 7 March 1993 in Mumbai. He adopted the name Ezra Mir on the advice of the producer Edwin Carewe.",
+        "He worked in New York from 1924 as a stage actor, film actor and editor, and made the short film The Symbolesque in 1929. He founded Everest Pictures in 1939.",
+        "In 1956 he was appointed Chief Producer of the Films Division and founded the Indian Documentary Producers Association. He worked on over seven hundred documentaries and received the Padma Shri in 1970.",
+        "This is the same person the Press Information Bureau lists elsewhere on this site as Edwyn Myers, who gave shape to the Films Division of India. The two names are one man, which is a small thing and exactly the sort of small thing that makes a register useful."
+      ],
+      "sources": [
+        "wiki-ezramir",
+        "ejp-bollywood",
+        "pib-jews"
+      ],
+      "links": [
+        {
+          "label": "Encyclopaedic entry",
+          "url": "https://en.wikipedia.org/wiki/Ezra_Mir"
+        }
+      ]
+    },
+    {
+      "id": "rose-musleah",
+      "section": "cinema",
+      "name": "Rose Musleah, known as Miss Rose",
+      "dates": "1911 to 1985",
+      "community": "baghdadi-jews",
+      "role": "Actress",
+      "place": "Calcutta",
+      "motif": "film",
+      "summary": "Acted from 1922 to 1945. Of her known films, exactly one is known to survive.",
+      "detail": [
+        "Born on 1 January 1911 in Calcutta, the only child of a Jewish family of Baghdadi origin. Her father was secretary to the Costa Rican consul in India. She died on 8 December 1985 in Los Angeles, aged seventy-four.",
+        "Her films include Pati Bakhti (1922), Aparadhi (1931), Balika Badhu (1931), Hamari Betiyan (1936), Hum Tum Aur Woh (1938), Adhuri Kahani (1939), Nai Kahani (1943) and Ramayani (1945).",
+        "Of those, only Nai Kahani is known to survive.",
+        "That single line is the most important sentence in this section. Early Indian cinema was largely destroyed, through nitrate decay, fire, and the routine melting down of prints for their silver. A career of at least eight films across twenty-three years survives as one film. Whatever these actresses actually did on screen is, for the most part, no longer available to be judged."
+      ],
+      "sources": [
+        "wiki-rosemusleah",
+        "munich-vamp"
+      ],
+      "links": [
+        {
+          "label": "Encyclopaedic entry",
+          "url": "https://en.wikipedia.org/wiki/Rose_Musleah"
+        }
+      ]
+    },
+    {
+      "id": "pearl-padamsee",
+      "section": "cinema",
+      "name": "Pearl Padamsee",
+      "dates": "1931 to 2000",
+      "community": "baghdadi-jews",
+      "role": "Theatre director, actor, producer",
+      "place": "Bombay",
+      "motif": "film",
+      "summary": "A central figure in Mumbai English-language theatre for four decades, with a Punjabi Christian father and a Baghdadi Jewish mother.",
+      "detail": [
+        "Born in 1931. She died on 23 April 2000 in Mumbai, of cardiac arrest. Her father was Punjabi Christian and her mother Baghdadi Jewish.",
+        "She was a prominent director, actor and producer in Mumbai English-language theatre from the 1950s to the 1990s, directing The Boy Who Wouldn't Play Jesus in 1966 and Brighton Beach Memoirs in 1985.",
+        "Her films include Khatta Meetha (1978), Baaton Baaton Mein (1979), Junoon (1979), Party (1984), The Perfect Murder (1988) and Such a Long Journey (1998)."
+      ],
+      "sources": [
+        "wiki-padamsee",
+        "ejp-bollywood"
+      ],
+      "links": [
+        {
+          "label": "Encyclopaedic entry",
+          "url": "https://en.wikipedia.org/wiki/Pearl_Padamsee"
+        }
+      ]
+    },
+    {
+      "id": "joseph-david",
+      "section": "cinema",
+      "name": "Joseph David Penkar",
+      "dates": "dates not established here",
+      "community": "bene-israel",
+      "role": "Playwright",
+      "place": "Bombay",
+      "motif": "film",
+      "summary": "Wrote the Parsi play behind Alam Ara, India's first talkie, released on 14 March 1931 and now lost.",
+      "detail": [
+        "Alam Ara premiered on 14 March 1931 and was India's first sound film. The screenplay was adapted by the director Ardeshir Irani from an original Parsi play by Joseph David, described in the encyclopaedic record as a Bombay-based dramatist.",
+        "The British Film Institute in 2017 called it the most important of any lost film produced in India. No print is known to survive.",
+        "If the identification holds, then the first Indian film to speak was written by a member of the Bene Israel community, and neither the film nor a reliable biography of its writer now exists.",
+        "His Jewish identity rests on a single source, and his dates are not established."
+      ],
+      "sources": [
+        "wiki-alamara",
+        "ejp-bollywood"
+      ],
+      "links": [
+        {
+          "label": "On the film",
+          "url": "https://en.wikipedia.org/wiki/Alam_Ara"
+        }
+      ]
+    },
+    {
+      "id": "walter-kaufmann-music",
+      "section": "music",
+      "name": "Walter Kaufmann",
+      "dates": "1907 to 1984",
+      "community": null,
+      "role": "Composer, conductor, musicologist",
+      "place": "Karlsbad, Bombay, Winnipeg, Bloomington",
+      "motif": "music",
+      "summary": "A Jewish refugee from Nazi Europe who wrote the signature tune of All India Radio, taught Zubin Mehta, and ended as a professor of musicology in Indiana.",
+      "detail": [
+        "Born on 1 April 1907 in Karlsbad in Bohemia, now Karlovy Vary. He died on 9 September 1984 in Bloomington, Indiana. He was Jewish, fled Nazi persecution, and married Gerti Hermann, a niece of Franz Kafka.",
+        "He composed the signature tune of All India Radio. That is confirmed. The surrounding chronology is not, and this site would rather say so than round it off. One account has him director of music at All India Radio in Bombay from 1937 to 1946 and dates the tune to 1936. The METROMOD Archive, an academic project of LMU Munich, has him arriving in Bombay in 1934 at twenty-seven and staying twelve years to 1946, as director of European music at the Bombay station.",
+        "He co-founded the Bombay Chamber Music Society, alongside Mehli Mehta, father of Zubin Mehta, and taught Zubin Mehta.",
+        "After India: the BBC in London from 1946 to 1947, first professional conductor of the Winnipeg Symphony Orchestra from 1948 to 1956, and professor of musicology at Indiana University from 1957 until his death. His scholarly books include Musical Notations of the Orient (1967), The Ragas of North India (1968), Tibetan Buddhist Chant (1975) and The Ragas of South India (1976).",
+        "The tune has opened the broadcasting day in India for decades. Almost nobody who has heard it knows that it was written by a Jewish refugee from Czechoslovakia who went on to write the standard English-language catalogue of Indian ragas."
+      ],
+      "sources": [
+        "wiki-kaufmann",
+        "metromod-kaufmann",
+        "pib-jews"
+      ],
+      "links": [
+        {
+          "label": "METROMOD Archive",
+          "url": "https://archive.metromod.net/viewer.p/69/2951/object/5138-12032183"
+        }
+      ]
+    },
+    {
+      "id": "bombay-jewish-musicians",
+      "section": "music",
+      "name": "The Iraqi Jewish musicians of the Bombay studios",
+      "dates": "early to mid twentieth century",
+      "community": "baghdadi-jews",
+      "role": "Instrumentalists and singers",
+      "place": "Bombay",
+      "motif": "music",
+      "summary": "Oud, qanun and mandolin players from Baghdad and Samarkand who played on Hindi film soundtracks, and one Arabic tune that became a Hindi film song.",
+      "detail": [
+        "The best sourced account of this is by Naresh Fernandes for Scroll.in, and it names people rather than gesturing at a milieu.",
+        "Isaac David, an Iraqi Jew, played oud, qanun, mandolin and guitar in the Bombay film studios and performed on the soundtrack of Yahudi in 1958. He also recorded Iraqi Jewish music for the Hebrew Record label in the early twentieth century.",
+        "Faizulla Taghioff, from Samarkand, was a precious stone dealer who taught Isaac David and played mandolin in films including Awaara and Mera Naam Joker, under the stage name Abdul Rahim Taghioff. Note the pattern again: a Jewish musician working under a Muslim stage name, exactly as the actresses worked under Sanskrit ones.",
+        "Nathan Solomon Satamkar, of the Bene Israel, was a silent film actor whose family founded two music schools teaching sitar and dilruba.",
+        "Silman Museri, a Baghdadi, led an ensemble. Mnashi Abu Moshe, also Baghdadi, was a blind singer who performed Arabic Baghdad songs at private parties.",
+        "The Maimon Brothers, from Palestine, brought the tune Habibi to Bombay. It was adapted by O. P. Nayyar into Jata Kahaan Hai Diwaane for the film C.I.D. in 1956.",
+        "That last item is the kind of fact that changes how you listen to something. A tune carried from Palestine to Bombay by a family of musicians, absorbed into a Hindi film score in 1956, and now heard by people who have no idea it travelled.",
+        "The scholarship behind the article is largely by Sara Manasseh, a Mumbai-born Iraqi Jewish ethnomusicologist, and by the album Shir Hodu: Jewish Song from Bombay of the '30s."
+      ],
+      "sources": [
+        "scroll-jewishsounds"
+      ],
+      "links": [
+        {
+          "label": "Scroll.in, the Jewish sounds of Bollywood",
+          "url": "https://scroll.in/magazine/842621/iraq-and-roll-the-jewish-sounds-of-bollywood"
+        }
+      ]
+    },
+    {
+      "id": "cochin-womens-songs",
+      "section": "music",
+      "name": "The Malayalam songs of Cochin Jewish women",
+      "dates": "tradition of uncertain age, translated 1982 to 1999",
+      "community": "cochin-jews",
+      "role": "Oral tradition",
+      "place": "Kerala, then Israel",
+      "motif": "music",
+      "summary": "A body of Jewish women's songs in Malayalam, roughly a hundred and twenty of which were translated into English by one woman in her seventies and eighties.",
+      "detail": [
+        "The Cochin Jewish community had a tradition of women's songs in Malayalam. The Jewish Women's Archive maintains an entry on it.",
+        "Between 1982 and 1999, Ruby Daniel translated approximately a hundred and twenty of these songs into English, from Kibbutz Neot Mordekhai in the Upper Galilee.",
+        "Two features of this tradition are worth stating for anyone approaching it for the first time. It is in Malayalam, not Hebrew, which means it belongs to Kerala as much as to Judaism. And it is a women's tradition, which in most religious communities is the part least likely to be written down and therefore most likely to disappear."
+      ],
+      "sources": [
+        "jwa-cochinmusic",
+        "jwa-rubydaniel"
+      ],
+      "links": [
+        {
+          "label": "Jewish Women's Archive entry",
+          "url": "https://jwa.org/encyclopedia/article/cochin-jewish-womens-music"
+        }
+      ]
+    }
+  ],
+  "readingGuide": {
+    "note": "Almost everything named here is in copyright, held by living authors or their estates. Nothing is reprinted. What follows is where to start and where to get it.",
+    "paths": [
+      {
+        "title": "If you want to start with the poetry",
+        "steps": [
+          "Nissim Ezekiel, Collected Poems 1952-88. The single volume that contains the arc. Read The Unfinished Man and The Exact Name first if you want the middle of his development rather than the beginning.",
+          "Latter-Day Psalms (1982), which won the Sahitya Akademi Award, and whose title tells you what he was doing with a Jewish form in English in India.",
+          "Zilka Joseph, Sweet Malida (2024), for a Bene Israel poet writing now, about the malida ceremony, from Michigan."
+        ]
+      },
+      {
+        "title": "If you want the community from inside",
+        "steps": [
+          "Ruby Daniel and Barbara C. Johnson, Ruby of Cochin: An Indian Jewish Woman Remembers (Jewish Publication Society, 1995). The first book by a Cochin Jewish woman.",
+          "Haeem Samuel Kehimkar, The History of the Bene Israel of India, written 1897, published Tel Aviv 1937. A community historian arguing in the 1890s that outsiders had been getting it wrong.",
+          "Jael Silliman, Jewish Portraits, Indian Frames (2001, new edition Seagull 2022). Four generations of Baghdadi Jewish women in Calcutta."
+        ]
+      },
+      {
+        "title": "If you want fiction",
+        "steps": [
+          "Esther David, The Walled City (1997). Ahmedabad, from inside a Bene Israel family.",
+          "Esther David, Book of Rachel, which won the Sahitya Akademi Award in 2010.",
+          "Sophie Judah, Dropped from Heaven (Schocken, 2007). Nineteen linked stories in an invented Bene Israel town.",
+          "Sheela Rohekar, Miss Samuel: A Jewish-Indian Saga, translated by Madhu Singh, published in English in December 2024. Originally written in Hindi in 2013."
+        ]
+      },
+      {
+        "title": "If you read Hindi or Gujarati",
+        "steps": [
+          "Sheela Rohekar's Hindi novels Dinank, Taveez, Miss Samuel: Ek Yahudi Gatha (2013) and Pallipaar, and her Hindi story collection Chauthi Deewar.",
+          "Her Gujarati story collection Life Line Ni Bahar.",
+          "This is the part of the field that English language writing about Indian Jews almost never reaches. If you can read these and write about them, this project would publish it."
+        ]
+      }
+    ]
+  },
+  "imagesPolicy": {
+    "title": "Why there are no photographs on this site yet",
+    "body": [
+      "A photograph is somebody's property. Using one without a licence is theft, and hotlinking to one on another server breaks the moment they move the file.",
+      "Wikimedia Commons holds freely licensed images, each with its licence stated on the file page. Using one means opening that page, reading the licence, and carrying the attribution it demands. That check is not finished for this site. Until it is, nothing goes up.",
+      "The plates here are drawn by this project from initials and a motif. They are decoration. Nobody should look at one and think they are seeing a face.",
+      "What would be worth more than either: photographs taken by the people who own them. A synagogue, a cemetery, a plaque, a ketubah, a shop sign, a family portrait. That material sits in households, it is being lost every year, and nobody else is collecting it."
+    ],
+    "wanted": [
+      "Freely licensed images verified file by file on Wikimedia Commons, with licence and attribution recorded",
+      "Photographs of synagogues and cemeteries, taken by the person sending them, with permission to publish",
+      "Family documents and photographs, with permission, from any of the four communities",
+      "Reproductions of works by the artists on this page, licensed from the artist or their estate",
+      "Recordings of the Cochin Jewish women's Malayalam songs, if any exist in a form that can be shared"
+    ]
+  }
+}

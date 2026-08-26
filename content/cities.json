@@ -1,0 +1,106 @@
+{
+  "note": "Comparison is the easiest place on a site like this to slide into invention. The rule applied here: structural facts that can be checked against a constitution, a statute or a named document are recorded as facts. Population counts, economic rankings and 'largest in Asia' style claims are not recorded at all until a source is attached, because those are exactly the numbers that get copied around the internet without one. Empty is better than wrong.",
+
+  "countryPairs": [
+    {
+      "point": "How the modern state begins",
+      "india": "Independence on 15 August 1947, at the end of British rule in India.",
+      "israel": "Declaration of independence on 14 May 1948, at the end of the British Mandate.",
+      "observation": "Ten months apart, out of the same imperial withdrawal. This is the single most concrete thing the two states have in common, and it is structural rather than sentimental.",
+      "status": "verified-general"
+    },
+    {
+      "point": "Head of state and head of government",
+      "india": "A President as head of state, a Prime Minister as head of government.",
+      "israel": "A President as head of state, a Prime Minister as head of government.",
+      "observation": "Both are parliamentary systems in which the ceremonial and the executive roles are held by different people.",
+      "status": "verified-general"
+    },
+    {
+      "point": "The legislature",
+      "india": "Bicameral. The Lok Sabha, directly elected, and the Rajya Sabha.",
+      "israel": "Unicameral. The Knesset, with 120 seats.",
+      "observation": "A real structural difference. India's federal upper house has no Israeli counterpart, which shapes how each country makes law about regions.",
+      "status": "verified-general"
+    },
+    {
+      "point": "Official language",
+      "india": "Hindi in the Devanagari script is the official language of the Union under Article 343, with English as an associate official language, alongside the languages scheduled in the Constitution.",
+      "israel": "Hebrew is the official language.",
+      "observation": "Israel revived a language. India manages a very large number of them. Both are language policy problems, but they are opposite problems.",
+      "status": "verified-general"
+    },
+    {
+      "point": "Where the Indian embassy sits",
+      "india": "The Israeli embassy in India is in New Delhi.",
+      "israel": "The Embassy of India in Israel is in Tel Aviv.",
+      "observation": "The international status of Jerusalem is disputed and many states locate their missions in Tel Aviv. This site records where the missions are, and does not treat that placement as a statement about the dispute.",
+      "status": "verified",
+      "sources": ["eoi-telaviv"]
+    },
+    {
+      "point": "The shared physical problem",
+      "india": "Large areas of arid and semi arid land, seasonal rainfall, and groundwater under pressure.",
+      "israel": "A largely arid country in which desert agriculture and water reuse became a national necessity.",
+      "observation": "Water is why the agricultural relationship exists at all. The Ministry of External Affairs brief records 43 Centres of Excellence approved and 35 operational, plus a water technology track. Cooperation followed the physical problem, not the other way round.",
+      "status": "verified",
+      "sources": ["mea-2026"]
+    }
+  ],
+
+  "cityPairs": [
+    {
+      "a": "Mumbai",
+      "b": "Tel Aviv",
+      "aRole": "The centre of the Bene Israel and Baghdadi Jewish communities, and the city the Sassoon family arrived in from 1832.",
+      "bRole": "The city where the Embassy of India in Israel sits, and where the Indian Prime Minister addressed a gathering of approximately 8,000 people of Indian origin and Indian nationals in July 2017.",
+      "link": "The largest single strand of Jewish migration from India ran out of Maharashtra. If there is a single Mumbai to Israel corridor in this history, this pairing is it.",
+      "status": "verified",
+      "sources": ["wjc-india", "eoi-telaviv", "mea-2026"]
+    },
+    {
+      "a": "Kochi",
+      "b": "Haifa",
+      "aRole": "A port city on the Malabar coast and the seat of the Cochin Jewish community, whose Paradesi Synagogue was built in 1568.",
+      "bRole": "A port city on the Mediterranean, whose port was acquired by an Adani led consortium in 2022 in a transaction valued at USD 1.18 billion.",
+      "link": "Two ports, roughly four and a half centuries apart, at the two ends of the same maritime corridor. The first connection was trade and settlement. The second is infrastructure ownership.",
+      "status": "verified",
+      "sources": ["britannica-paradesi", "mea-2026"]
+    },
+    {
+      "a": "Kolkata",
+      "b": "Tel Aviv",
+      "aRole": "A centre of the Baghdadi Jewish community, part of the nineteenth century movement out of Iraq and neighbouring lands.",
+      "bRole": "A destination of the migration from India, with the primary waves recorded in the 1950s and 1960s.",
+      "link": "The Baghdadi community reached India from the west and left it for the west. Its arc runs through India rather than beginning there, which is why it does not fit the same story as the Bene Israel.",
+      "status": "verified",
+      "sources": ["wjc-india", "eoi-telaviv"]
+    },
+    {
+      "a": "Aizawl and Imphal",
+      "b": "Kiryat Gat and Ashkelon",
+      "aRole": "Mizoram and Manipur, the home regions of the Bnei Menashe.",
+      "bRole": "Israeli towns that have hosted the National Convention of Indian Jews, in 2016 and 2017 respectively.",
+      "link": "The most recent of the four migrations, and the one furthest from the coastal trade routes that carried the earlier ones. It arrives by aircraft and paperwork rather than by ship.",
+      "status": "verified",
+      "sources": ["wjc-india", "eoi-telaviv"]
+    },
+    {
+      "a": "Pune",
+      "b": "Petah Tikva",
+      "aRole": "Home of the Ohel David synagogue, built in the era of Baghdadi Jewish presence in western India.",
+      "bRole": "Host of the National Convention of Indian Jews in 2022.",
+      "link": "A pairing of institutions rather than of populations: a synagogue at one end, an annual gathering of about 5,000 people at the other.",
+      "status": "verified",
+      "sources": ["wjc-india", "eoi-telaviv"]
+    }
+  ],
+
+  "wanted": [
+    "Population of each city, with a named census or statistical office as the source",
+    "Number of Indian origin residents in each Israeli city named here",
+    "Dates of construction for each surviving synagogue in India",
+    "Present condition and custodianship of each synagogue and cemetery",
+    "Direct flight and shipping connections between the two countries, with a source"
+  ]
+}

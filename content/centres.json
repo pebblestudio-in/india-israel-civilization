@@ -1,0 +1,157 @@
+{
+  "note": "The Centres of Excellence are the most physically distributed thing in the whole relationship. They sit in district agricultural stations, not in capitals, and they are where an abstraction about cooperation turns into a particular crop in a particular place. The list below is as published by the Embassy of Israel in New Delhi. Counts of how many exist differ between sources and dates, and those differences are shown rather than resolved.",
+  "counts": [
+    {
+      "asOf": "May 2021",
+      "text": "29 operational across 12 states",
+      "sources": [
+        "pib-iiap5"
+      ]
+    },
+    {
+      "asOf": "June 2022",
+      "text": "37 approved, 29 fully operational across 12 states, 8 at various stages",
+      "sources": [
+        "pib-coe2022"
+      ]
+    },
+    {
+      "asOf": "December 2023",
+      "text": "31 established across 13 states",
+      "sources": [
+        "mea-2023"
+      ]
+    },
+    {
+      "asOf": "February 2026 brief",
+      "text": "43 approved, 35 operational, sixth work plan 2024 to 2026",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "asOf": "February 2026 joint statement",
+      "text": "35 operating, 8 being jointly operationalised, more than a million farmers trained",
+      "sources": [
+        "pmo-js-2026"
+      ]
+    }
+  ],
+  "states": [
+    {
+      "state": "Haryana",
+      "n": 5,
+      "centres": "Gharaunda in Karnal for vegetables, Mangiana in Sirsa for citrus and pomegranate, Ladwa in Kurukshetra for mango, Ram Nagar in Kurukshetra for beekeeping, Gignow in Bhiwani for semi-arid horticulture"
+    },
+    {
+      "state": "Maharashtra",
+      "n": 4,
+      "centres": "Dapoli in Ratnagiri for mango, Nagpur for citrus, Rahuri for pomegranate, Aurangabad for mango"
+    },
+    {
+      "state": "Gujarat",
+      "n": 3,
+      "centres": "Talala in Junagadh for mango, Vadrad in Sabarkantha for vegetables, Kukma in Bhuj for date palm"
+    },
+    {
+      "state": "Karnataka",
+      "n": 3,
+      "centres": "Dharwad for vegetables, Bagalkot for pomegranate, Kolar for mango"
+    },
+    {
+      "state": "Punjab",
+      "n": 3,
+      "centres": "Hoshiarpur for fruits, Kartarpur for vegetables, Bhatinda for brackish water"
+    },
+    {
+      "state": "Rajasthan",
+      "n": 3,
+      "centres": "Kota for citrus, Bassi for pomegranate, Jaisalmer for date palm"
+    },
+    {
+      "state": "Tamil Nadu",
+      "n": 2,
+      "centres": "Thally in Krishnagiri for floriculture, Reddiyarchathram in Dindigul for vegetables"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "n": 2,
+      "centres": "Umarda in Kannauj for vegetables, Basti for mango"
+    },
+    {
+      "state": "Bihar",
+      "n": 2,
+      "centres": "Chandi in Nalanda for vegetables, Hajipur in Vaishali for mango"
+    },
+    {
+      "state": "Mizoram",
+      "n": 1,
+      "centres": "Lunglei for citrus"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "n": 1,
+      "centres": "Kuppam for vegetables and flowers"
+    },
+    {
+      "state": "Telangana",
+      "n": 1,
+      "centres": "Jeedimetla for vegetables and flowers"
+    },
+    {
+      "state": "West Bengal",
+      "n": 1,
+      "centres": "Chinsurah in Hooghly for vegetables"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "n": 1,
+      "centres": "Mandi for citrus and pomegranate"
+    }
+  ],
+  "villages": "The Villages of Excellence programme extends the model outward from the centres. In 2021 it targeted eight states, with 13 Centres of Excellence covering 75 villages, on three pillars: modern agriculture infrastructure, capacity building and market linkage. The Embassy of India in Tel Aviv records 190 villages identified across 22 Centres of Excellence in 12 states.",
+  "water": [
+    {
+      "place": "Punjab",
+      "text": "On 24 October 2018 Punjab signed a memorandum with Israel's Mekorot, under which Mekorot would prepare a water conservation and management plan for the state."
+    },
+    {
+      "place": "Haryana",
+      "text": "On 14 June 2022 Israel and Haryana signed a joint declaration on integrated water resources management and capacity building."
+    },
+    {
+      "place": "Rajasthan",
+      "text": "On 10 December 2024, at the Rising Rajasthan summit in Jaipur, the Israeli Foreign Ministry and Rajasthan's Water Resources Department signed a joint declaration on water cooperation."
+    },
+    {
+      "place": "Agra, Uttar Pradesh",
+      "text": "Aqwise, in a joint venture with Triveni Engineering, operates a plant with a capacity of 160,000 cubic metres a day supplying drinking water to Agra."
+    },
+    {
+      "place": "Karnataka",
+      "text": "Tahal Group built a water supply system for 131 villages, at a stated value of USD 74 million."
+    },
+    {
+      "place": "Delhi",
+      "text": "Ayala took a 2017 contract for an eight kilometre stretch of the Yamuna."
+    },
+    {
+      "place": "Hyderabad",
+      "text": "Metzerplas of the Metzer Group has manufactured drip irrigation equipment there since 2019."
+    },
+    {
+      "place": "Chennai and Roorkee",
+      "text": "Centres of water technology were agreed at IIT Madras and IIT Roorkee in May 2023."
+    }
+  ],
+  "sources": [
+    "eoisrael-coe",
+    "pib-iiap5",
+    "pib-coe2022",
+    "mea-2023",
+    "mea-2026",
+    "pmo-js-2026",
+    "eoi-econ",
+    "iitm-water"
+  ]
+}

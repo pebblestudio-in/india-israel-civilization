@@ -1,0 +1,500 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Manager / The India-Israel Civilisations Project</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300..800&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="../assets/css/style.css">
+<style>
+  .adm { max-width: 1080px; margin: 0 auto; padding: 32px var(--pad) 80px; position: relative; z-index: 1; }
+  .adm-top { display: flex; justify-content: space-between; align-items: flex-end; gap: 20px; flex-wrap: wrap;
+             border-bottom: 1px solid var(--line); padding-bottom: 20px; margin-bottom: 28px; }
+  .tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 26px; }
+  .rowlist { display: flex; flex-direction: column; gap: 1px; background: var(--line); border: 1px solid var(--line); }
+  .row { background: var(--surface); padding: 13px 16px; display: flex; gap: 14px; align-items: center; cursor: pointer; }
+  .row:hover { background: var(--surface-2); }
+  .row-t { flex: 1; min-width: 0; }
+  .row-t b { display: block; font-weight: 500; font-size: 15px; color: var(--ink); }
+  .row-t span { font-size: 12.5px; color: var(--muted); }
+  .field-l { display: block; margin: 16px 0 6px; }
+  textarea.field { min-height: 130px; font-family: var(--sans); line-height: 1.6; resize: vertical; }
+  .bar { position: sticky; bottom: 0; background: var(--bg); backdrop-filter: blur(10px);
+         border-top: 1px solid var(--line); padding: 14px var(--pad); display: flex; gap: 10px;
+         flex-wrap: wrap; align-items: center; z-index: 20; margin: 30px calc(var(--pad) * -1) 0; }
+  .msg { padding: 12px 16px; border: 1px solid var(--line-hard); margin-bottom: 18px; font-size: 14px; }
+  .msg.ok  { border-color: var(--ok); color: var(--ok); }
+  .msg.err { border-color: var(--contest); color: var(--contest); }
+  .srcpick { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 8px; }
+  .srcpick label { display: flex; align-items: center; gap: 6px; font-size: 12.5px;
+                   border: 1px solid var(--line); padding: 5px 10px; cursor: pointer; color: var(--ink-2); }
+  .srcpick label:hover { border-color: var(--line-hard); }
+  .srcpick input:checked + span { color: var(--accent); font-weight: 700; }
+</style>
+</head>
+<body>
+<canvas id="chartbed" aria-hidden="true"></canvas>
+
+<div class="adm" id="adm"></div>
+
+<script>
+/* ============================================================
+   THE MANAGER
+   Edits the site's content files and saves them straight to
+   GitHub. No server, no third party service, no monthly cost.
+
+   Your access token is stored only in this browser, and is sent
+   only to github.com. It is never sent to this site or anywhere
+   else, because this site has no backend to send it to.
+   ============================================================ */
+
+const FILES = {
+  articles:    { file: "articles",    key: "articles",     label: "Writing",      title: t => t.title,  sub: t => `${t.type || t.kind || ""} / ${t.published || ""}` },
+  timeline:    { file: "timeline",    key: "timeline",     label: "Timeline",     title: t => t.title,  sub: t => t.dateLabel },
+  synagogues:  { file: "synagogues",  key: "sites",        label: "Built heritage", title: t => t.name, sub: t => `${t.city}, ${t.state}` },
+  communities: { file: "communities", key: "communities",  label: "Communities",  title: t => t.name,   sub: t => t.region },
+  people:      { file: "people",      key: "people",       label: "People",       title: t => t.name,   sub: t => t.field },
+  figures:     { file: "core",        key: "figures",      label: "Figures",      title: t => t.label,  sub: t => t.value },
+  interactions:{ file: "statements",  key: "interactions", label: "Statements",   title: t => t.parties, sub: t => t.dateLabel },
+  posts:       { file: "statements",  key: "posts",        label: "Social posts", title: t => t.handle || t.url, sub: t => t.dateLabel || "" },
+  accounts:    { file: "statements",  key: "accounts",     label: "Accounts",     title: t => t.handle, sub: t => t.kind },
+  coeStates:   { file: "centres",     key: "states",       label: "Agri centres", title: t => t.state,  sub: t => `${t.n} centres` },
+  coeWater:    { file: "centres",     key: "water",        label: "Water projects", title: t => t.place, sub: t => String(t.text || "").slice(0, 80) },
+  coeCounts:   { file: "centres",     key: "counts",       label: "Centre counts", title: t => t.asOf,  sub: t => t.text },
+  countryPairs:{ file: "cities",      key: "countryPairs", label: "Country pairs", title: t => t.point, sub: t => String(t.observation || "").slice(0, 80) },
+  cityPairs:   { file: "cities",      key: "cityPairs",    label: "City pairs",   title: t => `${t.a} and ${t.b}`, sub: t => String(t.link || "").slice(0, 80) },
+  phrases:     { file: "languages",   key: "phrases",      label: "Phrases",      title: t => t.meaning, sub: t => `${t.hebrewT || ""} / ${t.hindiT || ""}` },
+  structure:   { file: "languages",   key: "structure",    label: "Script points", title: t => t.point, sub: t => String(t.hebrew || "").slice(0, 70) },
+  questions:   { file: "core",        key: "questions",    label: "Open questions", title: t => t.q,    sub: () => "" },
+  scenarios:   { file: "core",        key: "scenarios",    label: "2047 scenarios", title: t => t.title, sub: t => String(t.body || "").slice(0, 80) },
+  corrections: { file: "corrections", key: "log",          label: "Corrections",  title: t => t.text,   sub: t => t.date },
+  caveats:     { file: "corrections", key: "caveats",      label: "Caveats",      title: t => String(t).slice(0, 110), sub: () => "", isPlain: true },
+  cultureFigs: { file: "culture",     key: "people",       label: "Culture: figures", title: t => t.name, sub: t => `${t.role || ""} / ${t.dates || ""}` },
+  cultureSecs: { file: "culture",     key: "sections",     label: "Culture: sections", title: t => t.label, sub: t => String(t.blurb || "").slice(0, 80) },
+  readingPaths:{ file: "culture",     key: "readingGuide.paths", label: "Reading paths", title: t => t.title, sub: t => `${(t.steps || []).length} steps` },
+  videos:      { file: "videos",      key: "videos",       label: "Watch room", title: t => t.title, sub: t => t.channel },
+  videoSecs:   { file: "videos",      key: "sections",     label: "Watch: sections", title: t => t.label, sub: t => String(t.blurb || "").slice(0, 80) },
+  books:       { file: "books",       key: "books",        label: "Library: books", title: t => t.title, sub: t => `${t.author || ""}${t.year ? ", " + t.year : ""}` },
+  bookCats:    { file: "books",       key: "categories",   label: "Library: shelves", title: t => t.label, sub: t => String(t.blurb || "").slice(0, 80) },
+  sources:     { file: "core",        key: "sources",      label: "Sources",      title: t => t.publisher, sub: t => t.title, isMap: true }
+};
+
+/* which fields each collection shows, and which are long text */
+const FIELDS = {
+  articles:    [["id","Identifier"],["title","Title"],["standfirst","Standfirst",1],["type","Type: commentary, explainer, method-note or special-report"],["kind","Kind, as shown on the card"],["category","Category"],["author","Author, blank uses the default"],["published","Published, as 2026-08-24"],["status","Status"],["body","Body, one paragraph per blank line",2]],
+  timeline:    [["id","Identifier"],["dateLabel","Date as shown"],["sortKey","Sort key, a number"],["era","Era heading"],["title","Title"],["body","Text",1],["sector","Sector"],["status","Status"],["pivotal","Pivotal, true or false"]],
+  synagogues:  [["id","Identifier"],["name","Name"],["alsoKnown","Also known as"],["city","City"],["state","State"],["lat","Latitude"],["lon","Longitude"],["founded","Founded"],["community","Community"],["tradition","Tradition"],["founder","Founder"],["status","Status"],["statusNote","Status note",1],["detail","Detail, one paragraph per blank line",2]],
+  communities: [["id","Identifier"],["name","Name"],["meaning","Meaning"],["region","Region"],["language","Language"],["colour","Colour, as #rrggbb"],["summary","Summary",1],["detail","Detail, one paragraph per blank line",2]],
+  people:      [["id","Identifier"],["name","Name"],["community","Community"],["field","Field"],["note","Note",1]],
+  figures:     [["id","Identifier"],["label","Label"],["value","Value"],["note","Note",1],["sector","Sector"],["status","Status"]],
+  interactions:[["date","Date, as 2026-01-07"],["dateLabel","Date as shown"],["type","Type"],["parties","Parties"],["summary","Summary",1],["status","Status"]],
+  posts:       [["handle","Account"],["url","Link to the post"],["dateLabel","Date as shown"],["note","Why it matters",1]],
+  accounts:    [["handle","Account name"],["kind","Kind"],["country","Country, IN or IL"],["note","Note",1]],
+  coeStates:   [["state","State"],["n","How many centres, a number"],["centres","The centres, named",1]],
+  coeWater:    [["place","Place"],["text","What is there",1]],
+  coeCounts:   [["asOf","As of"],["text","What the source says",1]],
+  countryPairs:[["point","The point of comparison"],["india","India",1],["israel","Israel",1],["observation","Observation",1],["status","Status"]],
+  cityPairs:   [["a","City in India"],["b","City in Israel"],["aRole","Role of the Indian city",1],["bRole","Role of the Israeli city",1],["link","What connects them",1],["status","Status"]],
+  phrases:     [["meaning","Meaning"],["hebrew","Hebrew"],["hebrewT","Hebrew, transliterated"],["hindi","Hindi"],["hindiT","Hindi, transliterated"],["note","Note",1]],
+  structure:   [["point","The point"],["hebrew","Hebrew",1],["hindi","Hindi and Devanagari",1]],
+  questions:   [["q","The question"],["note","Note",1]],
+  scenarios:   [["id","Identifier"],["title","Title"],["body","Description",1]],
+  corrections: [["date","Date, as 2026-08-24"],["text","What changed",1]],
+  caveats:     [["__plain","The caveat",1]],
+  cultureFigs: [["id","Identifier"],["name","Name"],["section","Section: writers, art, cinema or music"],["dates","Dates, as 1924-2004"],["community","Community"],["role","Role, as shown under the name"],["place","Place"],["motif","Motif: pen, brush, reel, note, book or star"],["summary","Summary",1],["detail","Detail, one paragraph per blank line",2],["links","Links, one per line as Label | https://...",1]],
+  cultureSecs: [["id","Identifier"],["label","Label"],["blurb","Blurb",1]],
+  readingPaths:[["title","Title of the path"],["steps","Steps, one per blank line",2]],
+  videos:      [["id","YouTube id, the 11 characters after v="],["section","Section: communities, places, voices, relations or scripts"],["title","Title, as it is on YouTube"],["channel","Channel"],["note","Why it is here",1],["url","Link, as https://www.youtube.com/watch?v=ID"]],
+  videoSecs:   [["id","Identifier"],["label","Label"],["blurb","Blurb",1]],
+  books:       [["title","Title"],["author","Author"],["publisher","Publisher"],["year","Year"],["isbn","ISBN, digits only"],["cat","Shelf number"],["note","Why it is here",1],["find","Where to find it, a link"],["free","Free full text, a link, blank if none"]],
+  bookCats:    [["id","Shelf number"],["slug","Slug used in the address"],["label","Label"],["blurb","Blurb",1],["count","How many books, a number"]],
+  sources:     [["__key","Identifier"],["publisher","Publisher"],["title","Title"],["url","Link"],["tier","Tier: primary, reference, press or community"],["accessed","Date accessed"]]
+};
+
+const SETTINGS_FIELDS = [
+  ["defaultAuthor", "Default author, used when a piece names no author"],
+  ["contactEmail", "General contact address. Used for the forum, events and contributing"],
+  ["submissionsEmail", "Submissions address. Blank falls back to the contact address"],
+  ["correctionsEmail", "Corrections address. Blank falls back to the contact address"],
+  ["communityInvite", "Community space invite link"],
+  ["supportLink", "Ko-fi or Buy Me a Coffee link"]
+];
+
+const NO_SOURCE = new Set(["videos", "videoSecs", "cultureSecs", "readingPaths", "books", "bookCats", "sources", "questions", "corrections", "caveats", "posts", "accounts", "scenarios", "coeStates", "coeWater", "coeCounts", "phrases", "structure", "communities"]);
+const $ = (s, r = document) => r.querySelector(s);
+/* collection keys may be nested, as readingGuide.paths */
+function at(obj, key) {
+  return key.split(".").reduce((o, k) => (o == null ? undefined : o[k]), obj);
+}
+function atSet(obj, key, val) {
+  const parts = key.split(".");
+  let o = obj;
+  for (let i = 0; i < parts.length - 1; i++) { if (o[parts[i]] == null) o[parts[i]] = {}; o = o[parts[i]]; }
+  o[parts[parts.length - 1]] = val;
+}
+const esc = s => String(s == null ? "" : s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+
+let TOKEN = localStorage.getItem("iicp.token") || "";
+let REPO  = localStorage.getItem("iicp.repo")  || "";
+let cache = {};          // file -> {json, sha}
+let tab = "articles";
+let editing = null;      // index, or "new", or a key for maps
+let msg = null;
+
+const b64encode = (str) => {
+  const bytes = new TextEncoder().encode(str);
+  let bin = "";
+  bytes.forEach(b => bin += String.fromCharCode(b));
+  return btoa(bin);
+};
+const b64decode = (b64) => new TextDecoder().decode(Uint8Array.from(atob(b64.replace(/\n/g, "")), c => c.charCodeAt(0)));
+
+async function gh(path, opts = {}) {
+  const r = await fetch(`https://api.github.com/repos/${REPO}/${path}`, {
+    ...opts,
+    headers: { Authorization: `Bearer ${TOKEN}`, Accept: "application/vnd.github+json", ...(opts.headers || {}) }
+  });
+  if (!r.ok) {
+    const body = await r.text();
+    throw new Error(`GitHub said ${r.status}. ${body.slice(0, 300)}`);
+  }
+  return r.json();
+}
+
+let cfgSha = null;
+async function loadSettings() {
+  const res = await gh("contents/site.config.js");
+  cfgSha = res.sha;
+  const text = b64decode(res.content);
+  const out = {};
+  SETTINGS_FIELDS.forEach(([k]) => {
+    const m = new RegExp(k + '\\s*:\\s*"([^"]*)"').exec(text);
+    out[k] = m ? m[1] : "";
+  });
+  return { text, values: out };
+}
+
+async function saveSettings(values) {
+  const res = await gh("contents/site.config.js");
+  let text = b64decode(res.content);
+  SETTINGS_FIELDS.forEach(([k]) => {
+    const v = String(values[k] || "").replace(/"/g, "'");
+    const re = new RegExp("(" + k + '\\s*:\\s*")[^"]*(")');
+    if (re.test(text)) text = text.replace(re, "$1" + v + "$2");
+  });
+  await gh("contents/site.config.js", {
+    method: "PUT",
+    body: JSON.stringify({
+      message: "Update settings through the manager",
+      content: b64encode(text),
+      sha: res.sha
+    })
+  });
+}
+
+function screenSettings(values) {
+  return `<div class="adm-top">
+      <div><span class="tick">Manager / ${esc(REPO)}</span>
+        <h1 style="font-size:32px; margin-top:10px">Settings</h1></div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap">
+        <a class="btn" href="../" target="_blank">View the site</a>
+        <button class="btn" id="signout">Sign out</button></div>
+    </div>
+    ${msg ? `<div class="msg ${msg.k}">${esc(msg.t)}</div>` : ""}
+    <div class="tabs">${Object.entries(FILES).map(([k, v]) =>
+      `<button class="chip" data-tab="${k}">${esc(v.label)}</button>`).join("")}
+      <button class="chip on" data-tab="__settings">Settings</button></div>
+    <div style="max-width:70ch">
+      <p style="color:var(--ink-2)">Everything on the site that needs a reply goes by email. Nothing on this site collects a visitor's details, so these addresses are the only route in.</p>
+      ${SETTINGS_FIELDS.map(([k, label]) =>
+        `<label class="tick field-l">${esc(label)}</label>
+         <input class="field" data-cfg="${k}" value="${esc(values[k] || "")}">`).join("")}
+    </div>
+    <div class="bar">
+      <button class="btn btn-gold" id="cfgsave">Save settings</button>
+      <span class="tick">Writes to site.config.js</span>
+    </div>`;
+}
+
+async function loadFile(name) {
+  if (cache[name]) return cache[name];
+  const res = await gh(`contents/content/${name}.json`);
+  cache[name] = { json: JSON.parse(b64decode(res.content)), sha: res.sha };
+  return cache[name];
+}
+
+async function saveFile(name, message) {
+  const c = cache[name];
+  const res = await gh(`contents/content/${name}.json`, {
+    method: "PUT",
+    body: JSON.stringify({
+      message,
+      content: b64encode(JSON.stringify(c.json, null, 2)),
+      sha: c.sha
+    })
+  });
+  c.sha = res.content.sha;
+}
+
+/* ---------- screens ---------- */
+
+function screenLogin() {
+  return `<div class="adm-top">
+    <div><span class="tick">Manager</span>
+      <h1 style="font-size:34px; margin-top:10px">Sign in to edit the site</h1></div>
+    <a class="tick" href="../">Back to the site</a></div>
+  ${msg ? `<div class="msg ${msg.k}">${esc(msg.t)}</div>` : ""}
+  <div class="prose" style="max-width:64ch">
+    <p style="color:var(--ink-2)">This manager talks straight to GitHub. There is no server in between, which is why it costs nothing and why nobody else ever holds your key.</p>
+    <label class="tick field-l">Your repository</label>
+    <input class="field" id="repo" placeholder="username/india-israel-civilisations-project" value="${esc(REPO)}">
+    <label class="tick field-l">Your access token</label>
+    <input class="field" id="token" type="password" placeholder="github_pat_..." value="${esc(TOKEN)}">
+    <p style="color:var(--muted); font-size:13.5px; margin-top:12px">
+      Make one at github.com, under Settings, Developer settings, Personal access tokens, Fine grained tokens.
+      Give it access to this one repository only, and give it Contents: read and write. Nothing else.
+      It is stored in this browser and sent only to github.com.</p>
+    <div style="margin-top:22px; display:flex; gap:10px; flex-wrap:wrap">
+      <button class="btn btn-gold" id="signin">Sign in</button>
+      ${TOKEN ? `<button class="btn" id="signout">Forget my token</button>` : ""}
+    </div>
+  </div>`;
+}
+
+function screenList() {
+  const spec = FILES[tab];
+  const f = cache[spec.file];
+  if (!f) return `<p class="tick">Loading</p>`;
+  const raw = at(f.json, spec.key);
+  const rows = spec.isMap
+    ? Object.entries(raw || {}).map(([k, v]) => ({ ...v, __key: k }))
+    : spec.isPlain
+      ? (raw || []).map(v => ({ __plain: v }))
+      : (raw || []);
+  return `<div class="adm-top">
+      <div><span class="tick">Manager &nbsp;/&nbsp; ${esc(REPO)}</span>
+        <h1 style="font-size:32px; margin-top:10px">${esc(spec.label)}</h1></div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap">
+        <a class="btn" href="../" target="_blank">View the site</a>
+        <button class="btn" id="signout">Sign out</button></div>
+    </div>
+    ${msg ? `<div class="msg ${msg.k}">${esc(msg.t)}</div>` : ""}
+    <div class="tabs">${Object.entries(FILES).map(([k, v]) =>
+      `<button class="chip ${k === tab ? "on" : ""}" data-tab="${k}">${esc(v.label)}</button>`).join("")}
+      <button class="chip" data-tab="__settings">Settings</button></div>
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:14px; gap:12px; flex-wrap:wrap">
+      <span class="tick">${rows.length} entr${rows.length === 1 ? "y" : "ies"}</span>
+      <button class="btn btn-gold" id="add">Add new</button></div>
+    <div class="rowlist">
+      ${rows.length ? rows.map((r, i) => `<div class="row" data-i="${spec.isMap ? esc(r.__key) : i}">
+        <div class="row-t"><b>${esc(String(spec.title(r) || "").slice(0, 110))}</b><span>${esc(String(spec.sub(r) || "").slice(0, 130))}</span></div>
+        <span class="tick">Edit</span></div>`).join("")
+        : `<div class="row"><div class="row-t"><span>Nothing here yet. Press add new.</span></div></div>`}
+    </div>`;
+}
+
+function screenEdit() {
+  const spec = FILES[tab];
+  const f = cache[spec.file];
+  const isNew = editing === "new";
+  let rec = {};
+  if (!isNew) {
+    const box = at(f.json, spec.key);
+    rec = spec.isMap ? { ...box[editing], __key: editing }
+        : spec.isPlain ? { __plain: box[editing] }
+        : box[editing];
+  }
+  const sources = f.json.sources || (cache.core && cache.core.json.sources) || {};
+
+  return `<div class="adm-top">
+      <div><span class="tick">${esc(spec.label)}</span>
+        <h1 style="font-size:30px; margin-top:10px">${isNew ? "New entry" : "Edit entry"}</h1></div>
+      <button class="btn" id="back">Back to the list</button></div>
+    ${msg ? `<div class="msg ${msg.k}">${esc(msg.t)}</div>` : ""}
+    <div style="max-width:70ch">
+      ${FIELDS[tab].map(([k, label, long]) => {
+        const v = rec[k];
+        const val = (k === "links" && Array.isArray(v)) ? v.map(x => `${x.label} | ${x.url}`).join("\n")
+          : Array.isArray(v) ? v.join("\n\n") : (v == null ? "" : v);
+        return `<label class="tick field-l">${esc(label)}</label>
+          ${long ? `<textarea class="field" data-f="${k}" data-multi="${long === 2 ? 1 : 0}" style="${long === 2 ? "min-height:280px" : ""}">${esc(val)}</textarea>`
+                 : `<input class="field" data-f="${k}" value="${esc(val)}">`}`;
+      }).join("")}
+      ${NO_SOURCE.has(tab) ? "" : `
+        <label class="tick field-l">Sources. At least one is required, and the site will refuse to publish without it.</label>
+        <div class="srcpick">${Object.entries(sources).map(([id, s]) =>
+          `<label><input type="checkbox" data-src="${esc(id)}" ${(rec.sources || []).includes(id) ? "checked" : ""}><span>${esc(s.publisher)}</span></label>`).join("")}</div>
+        <p class="tick" style="margin-top:10px">Need a source that is not listed? Add it under Sources first.</p>`}
+    </div>
+    <div class="bar">
+      <button class="btn btn-gold" id="save">Save to GitHub</button>
+      ${isNew ? "" : `<button class="btn" id="del" style="border-color:var(--contest); color:var(--contest)">Delete</button>`}
+      <span class="tick" id="savenote">Saving publishes a new version of the site within a minute or two.</span>
+    </div>`;
+}
+
+function render() {
+  const adm = $("#adm");
+  if (!TOKEN || !REPO) { adm.innerHTML = screenLogin(); wireLogin(); return; }
+  adm.innerHTML = editing === null ? screenList() : screenEdit();
+  editing === null ? wireList() : wireEdit();
+}
+
+function wireLogin() {
+  $("#signin").addEventListener("click", async () => {
+    REPO = $("#repo").value.trim().replace(/^https?:\/\/github\.com\//, "").replace(/\.git$/, "");
+    TOKEN = $("#token").value.trim();
+    if (!REPO || !TOKEN) { msg = { k: "err", t: "Both fields are needed." }; return render(); }
+    msg = { k: "ok", t: "Checking" }; render();
+    try {
+      await loadFile("core");
+      localStorage.setItem("iicp.token", TOKEN);
+      localStorage.setItem("iicp.repo", REPO);
+      msg = null; editing = null; await openTab(tab);
+    } catch (e) {
+      msg = { k: "err", t: "Could not read the repository. " + e.message };
+      TOKEN = ""; render();
+    }
+  });
+  const so = $("#signout");
+  if (so) so.addEventListener("click", () => { localStorage.clear(); TOKEN = ""; REPO = ""; render(); });
+}
+
+async function openTab(name) {
+  tab = name; editing = null;
+  const adm = $("#adm");
+  if (name === "__settings") {
+    adm.innerHTML = `<p class="tick" style="padding:40px 0">Loading settings</p>`;
+    try {
+      const { values } = await loadSettings();
+      adm.innerHTML = screenSettings(values);
+      wireSettings(values);
+    } catch (e) { msg = { k: "err", t: e.message }; tab = "articles"; openTab(tab); }
+    return;
+  }
+  adm.innerHTML = `<p class="tick" style="padding:40px 0">Loading ${esc(FILES[name].label)}</p>`;
+  try {
+    await loadFile(FILES[name].file);
+    if (!cache.core) await loadFile("core");
+    render();
+  } catch (e) { msg = { k: "err", t: e.message }; render(); }
+}
+
+function wireSettings(values) {
+  document.querySelectorAll("[data-tab]").forEach(b =>
+    b.addEventListener("click", () => { msg = null; openTab(b.dataset.tab); }));
+  $("#signout").addEventListener("click", () => { localStorage.clear(); TOKEN = ""; REPO = ""; editing = null; render(); });
+  $("#cfgsave").addEventListener("click", async () => {
+    const v = {};
+    document.querySelectorAll("[data-cfg]").forEach(el => v[el.dataset.cfg] = el.value.trim());
+    try {
+      await saveSettings(v);
+      msg = { k: "ok", t: "Settings saved. The site rebuilds itself in a minute or two." };
+    } catch (e) { msg = { k: "err", t: e.message }; }
+    openTab("__settings");
+  });
+}
+
+function wireList() {
+  document.querySelectorAll("[data-tab]").forEach(b => b.addEventListener("click", () => { msg = null; openTab(b.dataset.tab); }));
+  document.querySelectorAll(".row[data-i]").forEach(r => r.addEventListener("click", () => {
+    const spec = FILES[tab];
+    editing = spec.isMap ? r.dataset.i : Number(r.dataset.i);
+    msg = null; render();
+  }));
+  $("#add").addEventListener("click", () => { editing = "new"; msg = null; render(); });
+  $("#signout").addEventListener("click", () => { localStorage.clear(); TOKEN = ""; REPO = ""; editing = null; render(); });
+}
+
+function wireEdit() {
+  $("#back").addEventListener("click", () => { editing = null; msg = null; render(); });
+
+  const del = $("#del");
+  if (del) del.addEventListener("click", async () => {
+    if (!confirm("Delete this entry? The change is saved to GitHub immediately.")) return;
+    const spec = FILES[tab], f = cache[spec.file];
+    if (spec.isMap) delete at(f.json, spec.key)[editing];
+    else at(f.json, spec.key).splice(editing, 1);
+    try {
+      await saveFile(spec.file, `Delete an entry from ${spec.label} through the manager`);
+      msg = { k: "ok", t: "Deleted and saved." }; editing = null; render();
+    } catch (e) { msg = { k: "err", t: e.message }; render(); }
+  });
+
+  $("#save").addEventListener("click", async () => {
+    const spec = FILES[tab], f = cache[spec.file];
+    const rec = {};
+    document.querySelectorAll("[data-f]").forEach(el => {
+      const k = el.dataset.f;
+      let v = el.value;
+      if (k === "links") rec[k] = v.split("\n").map(s => s.trim()).filter(Boolean).map(s => {
+        const i = s.indexOf("|");
+        return i < 0 ? { label: s, url: "" } : { label: s.slice(0, i).trim(), url: s.slice(i + 1).trim() };
+      });
+      else if (el.dataset.multi === "1") rec[k] = v.split(/\n\s*\n/).map(s => s.trim()).filter(Boolean);
+      else if (v === "true") rec[k] = true;
+      else if (v === "false") rec[k] = false;
+      else if (/^-?\d+(\.\d+)?$/.test(v) && (["sortKey", "lat", "lon", "cat", "count"].includes(k) || (tab === "bookCats" && k === "id"))) rec[k] = Number(v);
+      else rec[k] = v;
+    });
+
+    if (!NO_SOURCE.has(tab)) {
+      rec.sources = Array.from(document.querySelectorAll("[data-src]")).filter(c => c.checked).map(c => c.dataset.src);
+      if (!rec.sources.length) {
+        msg = { k: "err", t: "This entry has no source. The site refuses to publish unsourced records, so the manager refuses to save one. Tick at least one source, or add a new source first." };
+        return render();
+      }
+    }
+
+    try {
+      if (spec.isPlain) {
+        const v = String(rec.__plain || "").trim();
+        if (!v) { msg = { k: "err", t: "Nothing to save." }; return render(); }
+        if (at(f.json, spec.key) == null) atSet(f.json, spec.key, []);
+        if (editing === "new") at(f.json, spec.key).push(v);
+        else at(f.json, spec.key)[editing] = v;
+        await saveFile(spec.file, `Update ${spec.label} through the manager`);
+        msg = { k: "ok", t: "Saved. The site rebuilds itself in a minute or two." };
+        editing = null; return render();
+      }
+      if (spec.isMap) {
+        const key = rec.__key;
+        if (!key) { msg = { k: "err", t: "An identifier is needed." }; return render(); }
+        delete rec.__key;
+        if (editing !== "new" && editing !== key) delete at(f.json, spec.key)[editing];
+        at(f.json, spec.key)[key] = rec;
+      } else {
+        if (at(f.json, spec.key) == null) atSet(f.json, spec.key, []);
+        if (editing === "new") at(f.json, spec.key).push(rec);
+        else at(f.json, spec.key)[editing] = { ...at(f.json, spec.key)[editing], ...rec };
+      }
+      await saveFile(spec.file, `Update ${spec.label} through the manager`);
+      msg = { k: "ok", t: "Saved. The site rebuilds itself in a minute or two." };
+      editing = null; render();
+    } catch (e) { msg = { k: "err", t: e.message }; render(); }
+  });
+}
+
+/* background */
+(function bed() {
+  const cv = document.getElementById("chartbed"); if (!cv) return;
+  const ctx = cv.getContext("2d");
+  function draw() {
+    const dpr = Math.min(devicePixelRatio || 1, 2);
+    cv.width = innerWidth * dpr; cv.height = innerHeight * dpr;
+    cv.style.width = innerWidth + "px"; cv.style.height = innerHeight + "px";
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    ctx.strokeStyle = "rgba(142,190,226,0.035)";
+    for (let x = 0; x < innerWidth; x += 92) { ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, innerHeight); ctx.stroke(); }
+    for (let y = 0; y < innerHeight; y += 92) { ctx.beginPath(); ctx.moveTo(0, y); ctx.lineTo(innerWidth, y); ctx.stroke(); }
+  }
+  draw(); addEventListener("resize", draw, { passive: true });
+})();
+
+if (TOKEN && REPO) openTab(tab); else render();
+</script>
+</body>
+</html>

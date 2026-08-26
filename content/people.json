@@ -1,0 +1,379 @@
+{
+  "people": [
+    {
+      "id": "david-sassoon",
+      "name": "David Sassoon",
+      "community": "baghdadi-jews",
+      "field": "Business and philanthropy",
+      "note": "Of the family that arrived in Bombay in 1832. Built institutions in the city that still serve Indian society.",
+      "sources": [
+        "pib-jews",
+        "wjc-india"
+      ]
+    },
+    {
+      "id": "jfr-jacob",
+      "name": "Lieutenant General J. F. R. Jacob",
+      "community": "baghdadi-jews",
+      "field": "Armed forces",
+      "note": "Recognised for his contribution during the 1971 war with Pakistan.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "walter-kaufmann",
+      "name": "Walter Kaufmann",
+      "community": null,
+      "field": "Music",
+      "note": "Composed the signature tune for All India Radio.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "reuben-david",
+      "name": "Doctor Reuben David",
+      "community": null,
+      "field": "Natural history",
+      "note": "Founder of the Kankaria Zoo in Ahmedabad.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "david-abraham",
+      "name": "David Abraham Cheulkar",
+      "community": "bene-israel",
+      "field": "Cinema",
+      "note": "An actor who became a household name across the country.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "edwyn-myers",
+      "name": "Edwyn Myers",
+      "community": null,
+      "field": "Cinema",
+      "note": "Gave shape to the Films Division of India.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "jam-saheb",
+      "name": "The Jam Saheb of Nawanagar",
+      "community": null,
+      "field": "Refuge during the Second World War",
+      "note": "Offered refuge to Polish children, including Jewish children, during the Holocaust.",
+      "sources": [
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "eliyau-bezalel",
+      "name": "Eliyau Bezalel",
+      "community": null,
+      "field": "Pravasi Bharatiya Samman, 2005",
+      "note": "Recipient of the Pravasi Bharatiya Samman in 2005.",
+      "sources": [
+        "eoi-telaviv"
+      ]
+    },
+    {
+      "id": "munir-ansari",
+      "name": "Sheikh Munir Ansari",
+      "community": null,
+      "field": "Pravasi Bharatiya Samman, 2011",
+      "note": "Recipient of the Pravasi Bharatiya Samman in 2011.",
+      "sources": [
+        "eoi-telaviv"
+      ]
+    },
+    {
+      "id": "lael-best",
+      "name": "Doctor Lael A. Best",
+      "community": null,
+      "field": "Pravasi Bharatiya Samman, 2017",
+      "note": "Recipient of the Pravasi Bharatiya Samman in 2017.",
+      "sources": [
+        "eoi-telaviv"
+      ]
+    },
+    {
+      "id": "reena-pushkarna",
+      "name": "Reena Vinod Pushkarna",
+      "community": null,
+      "field": "Pravasi Bharatiya Samman, 2023",
+      "note": "Recipient of the Pravasi Bharatiya Samman in 2023.",
+      "sources": [
+        "eoi-telaviv"
+      ]
+    },
+    {
+      "id": "nissim-ezekiel",
+      "name": "Nissim Ezekiel",
+      "community": "bene-israel",
+      "field": "Poet, editor, professor, 1924 to 2004",
+      "note": "Britannica describes him as one of the founders of the English vernacular literary genre in India, and as the father of post-independence English-language verse in India. He is the single most consequential figure this section contains, and his community identity is almost never mentioned alongside his work.",
+      "sources": [
+        "britannica-ezekiel",
+        "poetryarchive-ezekiel",
+        "theprint-ezekiel"
+      ]
+    },
+    {
+      "id": "esther-david",
+      "name": "Esther David",
+      "community": "bene-israel",
+      "field": "Novelist, sculptor, art critic, born 1945",
+      "note": "A Sahitya Akademi winner who has spent a working life writing the Bene Israel of Ahmedabad into Indian literature, and who trained as a sculptor and illustrates her own books.",
+      "sources": [
+        "estherdavid-site",
+        "syracuse-walledcity",
+        "penguin-rachel",
+        "jbc-awards",
+        "wiki-estherdavid"
+      ]
+    },
+    {
+      "id": "ruby-daniel",
+      "name": "Ruby Daniel",
+      "community": "cochin-jews",
+      "field": "Memoirist, translator, naval servicewoman, 1912 to 2002",
+      "note": "The first Cochin Jewish woman to author a book, and the person who translated roughly 120 Malayalam Jewish women's songs into English before they were lost.",
+      "sources": [
+        "jwa-rubydaniel",
+        "cambridge-rubycochin"
+      ]
+    },
+    {
+      "id": "jael-silliman",
+      "name": "Jael Silliman",
+      "community": "baghdadi-jews",
+      "field": "Writer, academic, archivist, born, year not confirmed",
+      "note": "Built the digital archive of Jewish Calcutta, which is the closest thing to a model for what this project is trying to do for the country as a whole.",
+      "sources": [
+        "skidmore-silliman",
+        "scroll-jewishcalcutta",
+        "seagull-portraits",
+        "wiki-silliman"
+      ]
+    },
+    {
+      "id": "sheela-rohekar",
+      "name": "Sheela Rohekar",
+      "community": "bene-israel",
+      "field": "Novelist in Hindi and Gujarati, born October 1942",
+      "note": "Described by a scholar at Uppsala University as the single living Jewish author of fine literature writing in Hindi.",
+      "sources": [
+        "ecsas-rohekar",
+        "samalochan-rohekar",
+        "speakingtiger-misssamuel",
+        "arb-misssamuel"
+      ]
+    },
+    {
+      "id": "zilka-joseph",
+      "name": "Zilka Joseph",
+      "community": "bene-israel",
+      "field": "Poet, born, year not recorded here",
+      "note": "A Bene Israel poet whose most recent book is built around the malida ceremony, the Bene Israel rite associated with the Prophet Elijah.",
+      "sources": [
+        "mayapple-malida",
+        "yetzirah-zilka",
+        "zilka-site"
+      ]
+    },
+    {
+      "id": "sophie-judah",
+      "name": "Sophie Judah",
+      "community": "bene-israel",
+      "field": "Short story writer, born 1949",
+      "note": "Nineteen linked stories set in an invented Bene Israel town, written by someone whose own childhood was spent as the only Jewish family in a series of real ones.",
+      "sources": [
+        "encyclopedia-judah"
+      ]
+    },
+    {
+      "id": "kehimkar",
+      "name": "Haeem Samuel Kehimkar",
+      "community": "bene-israel",
+      "field": "Historian, 1830 to 1909",
+      "note": "Wrote the first history of his own community, in English, in 1897. It was published forty years later in Tel Aviv, twenty-eight years after his death.",
+      "sources": [
+        "posen-kehimkar",
+        "nli-kehimkar"
+      ]
+    },
+    {
+      "id": "fyzee-rahamin",
+      "name": "Samuel Fyzee-Rahamin",
+      "community": "bene-israel",
+      "field": "Painter, 1880 to 1964",
+      "note": "Born Bene Israel in Poona, trained under John Singer Sargent, became in 1925 the first Muslim artist represented in the Tate. One life crosses three religious identities and four cities.",
+      "sources": [
+        "benuri-fyzee",
+        "tate-fyzee",
+        "wiki-fyzee"
+      ]
+    },
+    {
+      "id": "siona-benjamin",
+      "name": "Siona Benjamin",
+      "community": "bene-israel",
+      "field": "Painter, born 1960",
+      "note": "Paints blue-skinned figures, in gouache and gold leaf, drawing on Indian and Persian miniature painting, illuminated manuscripts, comic books and Sephardic icons at once.",
+      "sources": [
+        "jwa-siona",
+        "artsiona-site",
+        "ajs-siona"
+      ]
+    },
+    {
+      "id": "anish-kapoor",
+      "name": "Anish Kapoor",
+      "community": null,
+      "field": "Sculptor, born 1954",
+      "note": "Included here for one precise reason, and described carefully because this is exactly the kind of entry that gets exaggerated.",
+      "sources": [
+        "wiki-kapoor"
+      ]
+    },
+    {
+      "id": "shimon-lev",
+      "name": "Shimon Lev",
+      "community": null,
+      "field": "Artist, photographer, curator, scholar of India, born 1962",
+      "note": "An Israeli artist whose doctorate was on the mutual influence of Jewish and Indian cultures, and who has written a book on Gandhi and Hermann Kallenbach.",
+      "sources": [
+        "wiki-shimonlev"
+      ]
+    },
+    {
+      "id": "ruby-myers",
+      "name": "Ruby Myers, known as Sulochana",
+      "community": "baghdadi-jews",
+      "field": "Silent film actress, producer, 1907 to 1983",
+      "note": "A telephone operator from a Baghdadi Jewish family in Poona who became the highest paid film star in India, then learned Hindustani in a year in order to survive the arrival of sound.",
+      "sources": [
+        "wiki-rubymyers",
+        "munich-vamp"
+      ]
+    },
+    {
+      "id": "pramila",
+      "name": "Esther Victoria Abraham, known as Pramila",
+      "community": "baghdadi-jews",
+      "field": "Stunt actress, the first woman film producer in the Hindi industry, 1916 to 2006",
+      "note": "Won the first Miss India title in 1947 at the age of thirty-one, acted in around thirty films, and produced sixteen more through her own company.",
+      "sources": [
+        "wiki-pramila",
+        "munich-vamp",
+        "ejp-bollywood"
+      ]
+    },
+    {
+      "id": "nadira",
+      "name": "Florence Ezekiel, known as Nadira",
+      "community": "baghdadi-jews",
+      "field": "Actress, 1932 to 2006",
+      "note": "Played the definitive screen vamp of Hindi cinema for three decades, and was among the first Indian actresses to own a Rolls-Royce.",
+      "sources": [
+        "wiki-nadira",
+        "ejp-bollywood"
+      ]
+    },
+    {
+      "id": "david-cheulkar",
+      "name": "David Abraham Cheulkar",
+      "community": "bene-israel",
+      "field": "Actor, 1908 to 1982",
+      "note": "Appeared in more than a hundred and ten films across four decades, billed simply as David, and became one of the most recognisable faces in Indian cinema.",
+      "sources": [
+        "wiki-cheulkar",
+        "ejp-bollywood",
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "ezra-mir",
+      "name": "Ezra Mir, born Edwyn Myers",
+      "community": "baghdadi-jews",
+      "field": "Documentary film maker, 1903 to 1993",
+      "note": "Worked on over seven hundred documentaries, became Chief Producer of the Films Division in 1956, and founded the Indian Documentary Producers Association in the same year.",
+      "sources": [
+        "wiki-ezramir",
+        "ejp-bollywood",
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "rose-musleah",
+      "name": "Rose Musleah, known as Miss Rose",
+      "community": "baghdadi-jews",
+      "field": "Actress, 1911 to 1985",
+      "note": "Acted from 1922 to 1945. Of her known films, exactly one is known to survive.",
+      "sources": [
+        "wiki-rosemusleah",
+        "munich-vamp"
+      ]
+    },
+    {
+      "id": "pearl-padamsee",
+      "name": "Pearl Padamsee",
+      "community": "baghdadi-jews",
+      "field": "Theatre director, actor, producer, 1931 to 2000",
+      "note": "A central figure in Mumbai English-language theatre for four decades, with a Punjabi Christian father and a Baghdadi Jewish mother.",
+      "sources": [
+        "wiki-padamsee",
+        "ejp-bollywood"
+      ]
+    },
+    {
+      "id": "joseph-david",
+      "name": "Joseph David Penkar",
+      "community": "bene-israel",
+      "field": "Playwright, dates not established here",
+      "note": "Wrote the Parsi play behind Alam Ara, India's first talkie, released on 14 March 1931 and now lost.",
+      "sources": [
+        "wiki-alamara",
+        "ejp-bollywood"
+      ]
+    },
+    {
+      "id": "walter-kaufmann-music",
+      "name": "Walter Kaufmann",
+      "community": null,
+      "field": "Composer, conductor, musicologist, 1907 to 1984",
+      "note": "A Jewish refugee from Nazi Europe who wrote the signature tune of All India Radio, taught Zubin Mehta, and ended as a professor of musicology in Indiana.",
+      "sources": [
+        "wiki-kaufmann",
+        "metromod-kaufmann",
+        "pib-jews"
+      ]
+    },
+    {
+      "id": "bombay-jewish-musicians",
+      "name": "The Iraqi Jewish musicians of the Bombay studios",
+      "community": "baghdadi-jews",
+      "field": "Instrumentalists and singers, early to mid twentieth century",
+      "note": "Oud, qanun and mandolin players from Baghdad and Samarkand who played on Hindi film soundtracks, and one Arabic tune that became a Hindi film song.",
+      "sources": [
+        "scroll-jewishsounds"
+      ]
+    },
+    {
+      "id": "cochin-womens-songs",
+      "name": "The Malayalam songs of Cochin Jewish women",
+      "community": "cochin-jews",
+      "field": "Oral tradition, tradition of uncertain age, translated 1982 to 1999",
+      "note": "A body of Jewish women's songs in Malayalam, roughly a hundred and twenty of which were translated into English by one woman in her seventies and eighties.",
+      "sources": [
+        "jwa-cochinmusic",
+        "jwa-rubydaniel"
+      ]
+    }
+  ]
+}

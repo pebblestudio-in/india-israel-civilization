@@ -1,0 +1,975 @@
+{
+  "meta": {
+    "name": "The India-Israel Civilisations Project",
+    "tagline": "History. People. Ideas. Partnership.",
+    "lastReviewed": "2026-08-25"
+  },
+  "sources": {
+    "mea-2026": {
+      "publisher": "Ministry of External Affairs, Government of India",
+      "title": "India-Israel Bilateral Relations (brief, February 2026)",
+      "url": "https://www.mea.gov.in/Portal/ForeignRelation/Israel_February_2026_1_.pdf",
+      "tier": "primary",
+      "accessed": "2026-08-23"
+    },
+    "eoi-telaviv": {
+      "publisher": "Embassy of India, Tel Aviv",
+      "title": "Indian Community in Israel",
+      "url": "https://www.indembassyisrael.gov.in/pages?id=xboja&subid=wdLwb",
+      "tier": "primary",
+      "accessed": "2026-08-23"
+    },
+    "pib-jews": {
+      "publisher": "Press Information Bureau, Government of India",
+      "title": "Press release on Jewish communities in India",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2232908&lang=1&reg=3",
+      "tier": "primary",
+      "accessed": "2026-08-23"
+    },
+    "wjc-india": {
+      "publisher": "World Jewish Congress",
+      "title": "Jewish Community in India",
+      "url": "https://www.worldjewishcongress.org/en/about/communities/IN",
+      "tier": "reference",
+      "accessed": "2026-08-23"
+    },
+    "britannica-paradesi": {
+      "publisher": "Encyclopaedia Britannica",
+      "title": "Paradesi Synagogue",
+      "url": "https://www.britannica.com/topic/Paradesi-Synagogue",
+      "tier": "reference",
+      "accessed": "2026-08-23"
+    },
+    "syn360-shaar": {
+      "publisher": "Synagogues360, ANU Museum of the Jewish People",
+      "title": "Shaar Harahamim, Mumbai",
+      "url": "https://synagogues-360.anumuseum.org.il/gallery/shaar-harahamim/",
+      "tier": "reference",
+      "accessed": "2026-08-23"
+    },
+    "syn360-shaare-rason": {
+      "publisher": "Synagogues360, ANU Museum of the Jewish People",
+      "title": "Shaare Rason Synagogue, Mumbai",
+      "url": "https://synagogues-360.anumuseum.org.il/gallery/shaare-rason-synagogue/",
+      "tier": "reference",
+      "accessed": "2026-08-23"
+    },
+    "syn360-magen-david": {
+      "publisher": "Synagogues360, ANU Museum of the Jewish People",
+      "title": "Magen David, Mumbai",
+      "url": "https://synagogues-360.anumuseum.org.il/gallery/magen-david/",
+      "tier": "reference",
+      "accessed": "2026-08-23"
+    },
+    "syn360-kneseth": {
+      "publisher": "Synagogues360, ANU Museum of the Jewish People",
+      "title": "Kneseth Elyahoo, Mumbai",
+      "url": "https://synagogues-360.anumuseum.org.il/gallery/kneseth-elyahoo/",
+      "tier": "reference",
+      "accessed": "2026-08-23"
+    },
+    "syn360-parur": {
+      "publisher": "Synagogues360, ANU Museum of the Jewish People",
+      "title": "Parur Synagogue, Kerala",
+      "url": "https://synagogues-360.anumuseum.org.il/gallery/parur-synagogue/",
+      "tier": "reference",
+      "accessed": "2026-08-23"
+    },
+    "syn360-kadavumbagam": {
+      "publisher": "Synagogues360, ANU Museum of the Jewish People",
+      "title": "Kadavumbagam Synagogue, Ernakulam",
+      "url": "https://synagogues-360.anumuseum.org.il/gallery/kadavumbagam-synagogue/",
+      "tier": "reference",
+      "accessed": "2026-08-23"
+    },
+    "syn360-judah-hyam": {
+      "publisher": "Synagogues360, ANU Museum of the Jewish People",
+      "title": "Judah Hyam Hall, Delhi",
+      "url": "https://synagogues-360.anumuseum.org.il/gallery/judah-hyam-hall/",
+      "tier": "reference",
+      "accessed": "2026-08-23"
+    },
+    "syn360-search": {
+      "publisher": "Synagogues360, ANU Museum of the Jewish People",
+      "title": "Synagogue search, India listing",
+      "url": "https://synagogues-360.anumuseum.org.il/synagogue-search/",
+      "tier": "reference",
+      "accessed": "2026-08-23"
+    },
+    "amcharts-india": {
+      "publisher": "amCharts",
+      "title": "Geodata, India point of view (worldIndiaHigh and india2023High)",
+      "url": "https://www.amcharts.com/",
+      "tier": "reference",
+      "accessed": "2026-08-24"
+    },
+    "pmo-js-2026": {
+      "publisher": "Prime Minister's Office, India",
+      "title": "India-Israel Joint Statement, 26 February 2026",
+      "url": "https://www.pmindia.gov.in/en/news_updates/india-israel-joint-statement/",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "mea-2023": {
+      "publisher": "Ministry of External Affairs, India",
+      "title": "India-Israel bilateral brief, December 2023",
+      "url": "https://www.mea.gov.in/Portal/ForeignRelation/EOI_TELAVIV_BILATERAL_BRIEF2.pdf",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "eoi-econ": {
+      "publisher": "Embassy of India, Tel Aviv",
+      "title": "Economic and commercial relations",
+      "url": "https://www.indembassyisrael.gov.in/pages?id=nel5a&subid=7ax9b",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "eoisrael-coe": {
+      "publisher": "Embassy of Israel, New Delhi",
+      "title": "Indo-Israel Agricultural Project, Centres of Excellence",
+      "url": "https://embassies.gov.il/delhi/Relations/Indo-Israel-AP/Pages/Centers%20of%20Excellence.aspx",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "pib-iiap5": {
+      "publisher": "Press Information Bureau, India",
+      "title": "Fifth Indo-Israel agriculture work programme, 24 May 2021",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1721269",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "pib-coe2022": {
+      "publisher": "Press Information Bureau, India",
+      "title": "Centres of Excellence and Villages of Excellence, 2 June 2022",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1830410",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "pib-karnataka": {
+      "publisher": "Press Information Bureau, India",
+      "title": "Three Centres of Excellence inaugurated in Karnataka, 16 June 2021",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1727550",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "pib-mrsam": {
+      "publisher": "Press Information Bureau, India",
+      "title": "First MRSAM firing unit handed to the Indian Air Force, 9 September 2021",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1753559",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "pib-bia": {
+      "publisher": "Press Information Bureau, India",
+      "title": "India-Israel Bilateral Investment Agreement signed, 8 September 2025",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2164745&reg=48&lang=2",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "pib-fta-round1": {
+      "publisher": "Press Information Bureau, India",
+      "title": "First round of India-Israel free trade agreement negotiations, February 2026",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233199&reg=3&lang=2",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "pmo-water-2015": {
+      "publisher": "Prime Minister's Office, India",
+      "title": "Cabinet approves water resources memorandum with Israel, 2 December 2015",
+      "url": "https://www.pmindia.gov.in/en/news_updates/memorandum-of-understanding-between-india-and-israel-in-the-field-of-water-resources-management-and-development-cooperation/",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "pmo-water-2017": {
+      "publisher": "Prime Minister's Office, India",
+      "title": "Cabinet approves memorandum on a national water conservation campaign, 28 June 2017",
+      "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-mou-between-india-and-israel-on-national-campaign-for-water-conservation-in-india/",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "drdo-mrsam": {
+      "publisher": "Defence Research and Development Organisation, India",
+      "title": "Medium Range Surface to Air Missile",
+      "url": "https://drdo.gov.in/drdo/en/offerings/products/mrsam",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "dst-i4f": {
+      "publisher": "Department of Science and Technology, India",
+      "title": "First India-Israel initiatives under the joint 40 million dollar technology fund",
+      "url": "https://dst.gov.in/first-india-israel-initiatives-announced-joint-40-million-technology-fund",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "iitm-water": {
+      "publisher": "Indian Institute of Technology Madras",
+      "title": "India-Israel Center of Water Technology, 9 May 2023",
+      "url": "https://www.iitm.ac.in/happenings/press-releases-and-coverages/israel-partners-iit-madras-establish-india-israel-center",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "sipri-2024": {
+      "publisher": "Stockholm International Peace Research Institute",
+      "title": "Trends in international arms transfers, 2024",
+      "url": "https://www.sipri.org/sites/default/files/2025-03/fs_2503_at_2024_0.pdf",
+      "tier": "reference",
+      "accessed": "2026-08-24"
+    },
+    "ibef-trade": {
+      "publisher": "India Brand Equity Foundation, Ministry of Commerce and Industry",
+      "title": "India-Israel trade",
+      "url": "https://www.ibef.org/indian-exports/india-israel-trade",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "un-273": {
+      "publisher": "United Nations Digital Library",
+      "title": "Resolution 273 (III), admission of Israel to membership in the United Nations, 11 May 1949",
+      "url": "https://digitallibrary.un.org/record/210373?ln=en",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "un-es10-19": {
+      "publisher": "United Nations",
+      "title": "Resolution A/RES/ES-10/19, Status of Jerusalem, 21 December 2017",
+      "url": "https://www.un.org/unispal/wp-content/uploads/2018/01/A.RES_.ES_.10.19.pdf",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "un-es10-21": {
+      "publisher": "United Nations Digital Library",
+      "title": "Resolution A/RES/ES-10/21, adopted 27 October 2023",
+      "url": "https://digitallibrary.un.org/record/4025940/files/A_RES_ES-10_21-EN.pdf",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "un-es10-24": {
+      "publisher": "United Nations",
+      "title": "Resolution of the tenth emergency special session, 18 September 2024",
+      "url": "https://www.un.org/unispal/document/ga-10th-ess-resolution-18sep24/",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "unnews-dec2023": {
+      "publisher": "UN News",
+      "title": "General Assembly demands immediate humanitarian ceasefire, 12 December 2023",
+      "url": "https://news.un.org/en/story/2023/12/1144717",
+      "tier": "press",
+      "accessed": "2026-08-24"
+    },
+    "unnews-sep2025": {
+      "publisher": "UN News",
+      "title": "Assembly endorses the New York Declaration, 12 September 2025",
+      "url": "https://news.un.org/en/story/2025/09/1165835",
+      "tier": "press",
+      "accessed": "2026-08-24"
+    },
+    "noa-workers": {
+      "publisher": "Newsonair, Prasar Bharati",
+      "title": "Indian workers deployed in Israel, parliamentary reply",
+      "url": "https://www.newsonair.gov.in/4825-indian-workers-deployed-in-israel-no-objections-from-central-trade-unions",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "noa-palestine-un": {
+      "publisher": "Newsonair, Prasar Bharati",
+      "title": "India votes in favour of the Palestinian membership resolution",
+      "url": "https://www.newsonair.gov.in/india-votes-in-favour-of-draft-resolution-supporting-palestines-bid-to-become-full-member-of-united-nations/",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "noa-fta": {
+      "publisher": "Newsonair, Prasar Bharati",
+      "title": "India and Israel sign terms of reference for a free trade agreement",
+      "url": "https://www.newsonair.gov.in/india-israel-sign-terms-of-reference-to-initiate-negotiations-for-free-trade-agreement",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "noa-agri-2025": {
+      "publisher": "Newsonair, Prasar Bharati",
+      "title": "India and Israel sign agreements on agricultural cooperation, April 2025",
+      "url": "https://newsonair.gov.in/india-israel-sign-agreements-on-bilateral-agricultural-cooperation",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "bs-workers": {
+      "publisher": "Business Standard, India",
+      "title": "6,774 Indian workers went to Israel under the pact, parliamentary reply of 8 August 2025",
+      "url": "https://www.business-standard.com/india-news/under-pact-6-774-indian-workers-went-to-israel-for-work-as-of-july-1-govt-125080800031_1.html",
+      "tier": "press",
+      "accessed": "2026-08-24"
+    },
+    "adani-elbit": {
+      "publisher": "Adani Group",
+      "title": "Adani Defence and Elbit Systems inaugurate a UAV manufacturing facility, 14 December 2018",
+      "url": "https://www.adani.com/newsroom/media-releases/adani-defence-and-aerospace-and-elbit-systems-inaugurate-india-first-private-uav-manufacturing",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "ddnews-2026": {
+      "publisher": "DD News, India",
+      "title": "India and Israel sign 16 memoranda and announce a special strategic partnership",
+      "url": "https://ddnews.gov.in/en/india-israel-sign-16-mous-pm-modi-and-pm-netanyahu-announce-special-strategic-partnership/",
+      "tier": "primary",
+      "accessed": "2026-08-24"
+    },
+    "britannica-ezekiel": {
+      "publisher": "Encyclopaedia Britannica",
+      "title": "Nissim Ezekiel",
+      "url": "https://www.britannica.com/biography/Nissim-Ezekiel",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "poetryarchive-ezekiel": {
+      "publisher": "The Poetry Archive",
+      "title": "Nissim Ezekiel",
+      "url": "https://poetryarchive.org/poet/nissim-ezekiel/",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "theprint-ezekiel": {
+      "publisher": "ThePrint",
+      "title": "Nissim Ezekiel, a pioneer of Indian English poetry",
+      "url": "https://theprint.in/theprint-profile/nissim-ezekiel-a-pioneer-of-indian-english-poetry-was-bound-by-layers-of-his-identity/334326/",
+      "tier": "press",
+      "accessed": "2026-08-25"
+    },
+    "estherdavid-site": {
+      "publisher": "Esther David",
+      "title": "Biography and books",
+      "url": "https://estherdavid.com/esther-david/biography/",
+      "tier": "primary",
+      "accessed": "2026-08-25"
+    },
+    "syracuse-walledcity": {
+      "publisher": "Syracuse University Press",
+      "title": "The Walled City",
+      "url": "https://press.syr.edu/supressbooks/1177/walled-city-the/",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "penguin-rachel": {
+      "publisher": "Penguin Random House India",
+      "title": "Book of Rachel",
+      "url": "https://www.penguin.co.in/book/book-of-rachel/",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "jbc-awards": {
+      "publisher": "Jewish Book Council",
+      "title": "2021 National Jewish Book Award winners",
+      "url": "https://www.jewishbookcouncil.org/pb-daily/2021-national-jewish-book-award-winners",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-estherdavid": {
+      "publisher": "Wikipedia",
+      "title": "Esther David",
+      "url": "https://en.wikipedia.org/wiki/Esther_David",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "jwa-rubydaniel": {
+      "publisher": "Jewish Women's Archive",
+      "title": "Ruby Daniel",
+      "url": "https://jwa.org/encyclopedia/article/daniel-ruby",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "cambridge-rubycochin": {
+      "publisher": "Cambridge University Press, The Journal of Asian Studies",
+      "title": "Ruby of Cochin, review record",
+      "url": "https://www.cambridge.org/core/journals/journal-of-asian-studies",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "skidmore-silliman": {
+      "publisher": "Skidmore College",
+      "title": "Jael Silliman, Jacob Perlow Series",
+      "url": "https://www.skidmore.edu/perlow/jael-silliman.php",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "scroll-jewishcalcutta": {
+      "publisher": "Scroll.in",
+      "title": "The rich cultural life of Kolkata's Jews comes alive in an online archive",
+      "url": "https://scroll.in/article/676912/the-rich-cultural-life-of-kolkatas-jews-comes-alive-in-online-archive",
+      "tier": "press",
+      "accessed": "2026-08-25"
+    },
+    "seagull-portraits": {
+      "publisher": "Seagull Books",
+      "title": "Jewish Portraits, Indian Frames",
+      "url": "https://www.seagullbooks.org/jewish-portraits-indian-frames-new-edition/",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-silliman": {
+      "publisher": "Wikipedia",
+      "title": "Jael Silliman",
+      "url": "https://en.wikipedia.org/wiki/Jael_Silliman",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "ecsas-rohekar": {
+      "publisher": "European Conference on South Asian Studies",
+      "title": "Heinz Werner Wessler on Sheela Rohekar",
+      "url": "https://nomadit.co.uk/conference/ecsas2014/paper/18801",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "samalochan-rohekar": {
+      "publisher": "Samalochan",
+      "title": "Sheela Rohekar",
+      "url": "https://samalochan.com/sheela-rohakar/",
+      "tier": "press",
+      "accessed": "2026-08-25"
+    },
+    "speakingtiger-misssamuel": {
+      "publisher": "Speaking Tiger Books",
+      "title": "Miss Samuel, A Jewish-Indian Saga",
+      "url": "https://speakingtigerbooks.com/product/miss-samuel/",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "arb-misssamuel": {
+      "publisher": "Asian Review of Books",
+      "title": "Miss Samuel, A Jewish-Indian Saga",
+      "url": "https://asianreviewofbooks.com/miss-samuel-a-jewish-indian-saga-by-sheela-rohekar/",
+      "tier": "press",
+      "accessed": "2026-08-25"
+    },
+    "mayapple-malida": {
+      "publisher": "Mayapple Press",
+      "title": "Sweet Malida, Memories of a Bene Israel Woman",
+      "url": "http://mayapplepress.com/sweet-malida-memories-of-a-bene-israel-woman-zilka-joseph/",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "yetzirah-zilka": {
+      "publisher": "Yetzirah",
+      "title": "Zilka Joseph",
+      "url": "https://yetzirahpoets.org/bios/zilka-joseph/",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "zilka-site": {
+      "publisher": "Zilka Joseph",
+      "title": "About",
+      "url": "http://www.zilkajoseph.com/about.html",
+      "tier": "primary",
+      "accessed": "2026-08-25"
+    },
+    "encyclopedia-judah": {
+      "publisher": "Encyclopedia.com, Contemporary Authors",
+      "title": "Sophie Judah",
+      "url": "https://www.encyclopedia.com/arts/educational-magazines/judah-sophie-1949",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "posen-kehimkar": {
+      "publisher": "The Posen Library of Jewish Culture and Civilization",
+      "title": "History of the Bene Israel of India",
+      "url": "https://www.posenlibrary.com/entry/history-bene-israel-india",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "nli-kehimkar": {
+      "publisher": "National Library of Israel",
+      "title": "Kehimkar catalogue record",
+      "url": "https://www.nli.org.il/en/books/NNL_ALEPH990020458210205171/NLI",
+      "tier": "primary",
+      "accessed": "2026-08-25"
+    },
+    "jwa-siona": {
+      "publisher": "Jewish Women's Archive",
+      "title": "Siona Benjamin",
+      "url": "https://jwa.org/encyclopedia/article/benjamin-siona",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "artsiona-site": {
+      "publisher": "Siona Benjamin",
+      "title": "About and curriculum vitae",
+      "url": "https://artsiona.com/about-siona-benjamin/",
+      "tier": "primary",
+      "accessed": "2026-08-25"
+    },
+    "ajs-siona": {
+      "publisher": "Association for Jewish Studies",
+      "title": "Artists on their art, Siona Benjamin",
+      "url": "https://www.associationforjewishstudies.org/artists-on-their-art-siona-benjamin",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-kapoor": {
+      "publisher": "Wikipedia",
+      "title": "Anish Kapoor",
+      "url": "https://en.wikipedia.org/wiki/Anish_Kapoor",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "benuri-fyzee": {
+      "publisher": "Ben Uri Gallery and Museum",
+      "title": "Samuel Rahamin Samuel, biography",
+      "url": "https://benuri.org/artists/723-samuel-rahamin-samuel/biography/",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "tate-fyzee": {
+      "publisher": "Tate",
+      "title": "Samuel Fyzee-Rahamin",
+      "url": "https://www.tate.org.uk/art/artists/samuel-fyzee-rahamin-1136",
+      "tier": "primary",
+      "accessed": "2026-08-25"
+    },
+    "wiki-fyzee": {
+      "publisher": "Wikipedia",
+      "title": "Samuel Fyzee-Rahamin",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Fyzee-Rahamin",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-shimonlev": {
+      "publisher": "Wikipedia",
+      "title": "Shimon Lev",
+      "url": "https://en.wikipedia.org/wiki/Shimon_Lev",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-rubymyers": {
+      "publisher": "Wikipedia",
+      "title": "Ruby Myers",
+      "url": "https://en.wikipedia.org/wiki/Ruby_Myers",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "munich-vamp": {
+      "publisher": "Munich Research Centre for Jewish-Arabic Cultures, University of Munich",
+      "title": "How Jewish actresses shaped early twentieth century Indian cinema",
+      "url": "https://www.jewisharabiccultures.fak12.uni-muenchen.de/the-vamp-of-baghdad-how-jewish-actresses-shaped-early-20th-century-indian-cinema/",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-pramila": {
+      "publisher": "Wikipedia",
+      "title": "Esther Victoria Abraham",
+      "url": "https://en.wikipedia.org/wiki/Esther_Victoria_Abraham",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "ejp-bollywood": {
+      "publisher": "eJewish Philanthropy",
+      "title": "The Jews of Bollywood, by Navras Jaat Aafreedi",
+      "url": "https://ejewishphilanthropy.com/the-jews-of-bollywood/",
+      "tier": "press",
+      "accessed": "2026-08-25"
+    },
+    "wiki-nadira": {
+      "publisher": "Wikipedia",
+      "title": "Nadira",
+      "url": "https://en.wikipedia.org/wiki/Nadira_(Indian_actress)",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-cheulkar": {
+      "publisher": "Wikipedia",
+      "title": "David Abraham Cheulkar",
+      "url": "https://en.wikipedia.org/wiki/David_Abraham_Cheulkar",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-ezramir": {
+      "publisher": "Wikipedia",
+      "title": "Ezra Mir",
+      "url": "https://en.wikipedia.org/wiki/Ezra_Mir",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-rosemusleah": {
+      "publisher": "Wikipedia",
+      "title": "Rose Musleah",
+      "url": "https://en.wikipedia.org/wiki/Rose_Musleah",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-padamsee": {
+      "publisher": "Wikipedia",
+      "title": "Pearl Padamsee",
+      "url": "https://en.wikipedia.org/wiki/Pearl_Padamsee",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-alamara": {
+      "publisher": "Wikipedia",
+      "title": "Alam Ara",
+      "url": "https://en.wikipedia.org/wiki/Alam_Ara",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "wiki-kaufmann": {
+      "publisher": "Wikipedia",
+      "title": "Walter Kaufmann, composer",
+      "url": "https://en.wikipedia.org/wiki/Walter_Kaufmann_(composer)",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "metromod-kaufmann": {
+      "publisher": "METROMOD Archive, LMU Munich",
+      "title": "Walter Kaufmann in Bombay",
+      "url": "https://archive.metromod.net/viewer.p/69/2951/object/5138-12032183",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    },
+    "scroll-jewishsounds": {
+      "publisher": "Scroll.in",
+      "title": "Iraq and roll, the Jewish sounds of Bollywood, by Naresh Fernandes",
+      "url": "https://scroll.in/magazine/842621/iraq-and-roll-the-jewish-sounds-of-bollywood",
+      "tier": "press",
+      "accessed": "2026-08-25"
+    },
+    "jwa-cochinmusic": {
+      "publisher": "Jewish Women's Archive",
+      "title": "Cochin, Jewish Women's Music",
+      "url": "https://jwa.org/encyclopedia/article/cochin-jewish-womens-music",
+      "tier": "reference",
+      "accessed": "2026-08-25"
+    }
+  },
+  "sectors": [
+    {
+      "id": "diplomacy",
+      "label": "Diplomacy",
+      "glyph": "DIP"
+    },
+    {
+      "id": "defence",
+      "label": "Defence",
+      "glyph": "DEF"
+    },
+    {
+      "id": "agriculture",
+      "label": "Agriculture",
+      "glyph": "AGR"
+    },
+    {
+      "id": "water",
+      "label": "Water",
+      "glyph": "WTR"
+    },
+    {
+      "id": "science",
+      "label": "Science",
+      "glyph": "SCI"
+    },
+    {
+      "id": "trade",
+      "label": "Trade",
+      "glyph": "TRD"
+    },
+    {
+      "id": "culture",
+      "label": "Culture",
+      "glyph": "CUL"
+    },
+    {
+      "id": "education",
+      "label": "Education",
+      "glyph": "EDU"
+    },
+    {
+      "id": "diaspora",
+      "label": "Diaspora",
+      "glyph": "DIA"
+    },
+    {
+      "id": "history",
+      "label": "History",
+      "glyph": "HIS"
+    }
+  ],
+  "figures": [
+    {
+      "id": "trade-2425",
+      "label": "Bilateral trade, FY 2024-25",
+      "value": "USD 3.75 bn",
+      "note": "India's exports USD 2.1 billion, imports USD 1.6 billion. The brief records that trade fell in this year.",
+      "sector": "trade",
+      "status": "verified",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "coe",
+      "label": "Agricultural Centres of Excellence",
+      "value": "43 approved, 35 operational",
+      "note": "Operating under the sixth work plan, covering 2024 to 2026.",
+      "sector": "agriculture",
+      "status": "verified",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "haifa",
+      "label": "Haifa Port acquisition, 2022",
+      "value": "USD 1.18 bn",
+      "note": "By an Adani-led consortium.",
+      "sector": "trade",
+      "status": "verified",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "odi",
+      "label": "Indian outward direct investment",
+      "value": "About USD 443 mn",
+      "note": "Cumulative, April 2000 to April 2025.",
+      "sector": "trade",
+      "status": "verified",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "fdi",
+      "label": "Israeli foreign direct investment into India",
+      "value": "USD 334.26 mn",
+      "note": "Cumulative, April 2000 to March 2025.",
+      "sector": "trade",
+      "status": "verified",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "indian-origin-jews",
+      "label": "Jews of Indian origin in Israel",
+      "value": "Sources differ",
+      "note": "The Ministry of External Affairs brief of February 2026 records over 100,000. The Embassy of India in Tel Aviv records approximately 85,000. This site shows both rather than picking one.",
+      "sector": "diaspora",
+      "status": "figures-differ",
+      "sources": [
+        "mea-2026",
+        "eoi-telaviv"
+      ]
+    },
+    {
+      "id": "indian-citizens",
+      "label": "Indian citizens in Israel",
+      "value": "Sources differ",
+      "note": "The Ministry of External Affairs brief records over 42,000. The Embassy page records about 18,000, described as mainly caregivers, diamond traders, information technology professionals and students. The two figures may be counting different populations or different periods.",
+      "sector": "diaspora",
+      "status": "figures-differ",
+      "sources": [
+        "mea-2026",
+        "eoi-telaviv"
+      ]
+    },
+    {
+      "id": "students",
+      "label": "Indian students in Israel",
+      "value": "About 1,000",
+      "note": "",
+      "sector": "education",
+      "status": "verified",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "jews-in-india",
+      "label": "Jews living in India",
+      "value": "About 4,800",
+      "note": "Figure for 2020. Earlier estimates recorded between 4,900 and 7,000 as of 1996.",
+      "sector": "diaspora",
+      "status": "verified",
+      "sources": [
+        "wjc-india"
+      ]
+    },
+    {
+      "id": "ajay",
+      "label": "Evacuated under Operation Ajay",
+      "value": "Over 1,300",
+      "note": "Between 12 and 22 October 2023.",
+      "sector": "diaspora",
+      "status": "verified",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "sindhu",
+      "label": "Evacuated under Operation Sindhu",
+      "value": "About 818",
+      "note": "Between 22 and 25 June 2025.",
+      "sector": "diaspora",
+      "status": "verified",
+      "sources": [
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "trade-series",
+      "label": "Bilateral trade, the whole series",
+      "value": "200 mn to 10.77 bn to 3.75 bn",
+      "note": "About USD 200 million in 1992, almost all diamonds. USD 7.86 billion in FY 2021-22. A peak of USD 10.77 billion in FY 2022-23. USD 6.53 billion in FY 2023-24. USD 3.75 billion in FY 2024-25. The rise and the fall are both steep, and the fall is attributed in the Ministry brief to regional security issues and trade disruption.",
+      "sector": "trade",
+      "status": "verified",
+      "sources": [
+        "mea-2023",
+        "eoi-econ",
+        "mea-2026"
+      ]
+    },
+    {
+      "id": "trade-2425-differ",
+      "label": "Trade in FY 2024-25, two official figures",
+      "value": "3.75 bn or 3.62 bn",
+      "note": "The Ministry of External Affairs records USD 3.75 billion. The Press Information Bureau records approximately USD 3.62 billion. Both are Indian government sources for the same financial year.",
+      "sector": "trade",
+      "status": "figures-differ",
+      "sources": [
+        "mea-2026",
+        "pib-fta-round1"
+      ]
+    },
+    {
+      "id": "arms-share",
+      "label": "Israel's share of Indian arms imports, 2020 to 2024",
+      "value": "13 per cent",
+      "note": "Third largest supplier after Russia at 36 per cent and France at 33 per cent. India was the second largest arms importer in the world over that period.",
+      "sector": "defence",
+      "status": "verified",
+      "sources": [
+        "sipri-2024"
+      ]
+    },
+    {
+      "id": "i4f",
+      "label": "The India-Israel innovation fund",
+      "value": "USD 40 mn",
+      "note": "Twenty million dollars from each side. Established after the July 2017 visit, ran from 2018 to 2022, renewed for 2023 to 2027. Thirty-four projects funded.",
+      "sector": "science",
+      "status": "verified",
+      "sources": [
+        "dst-i4f",
+        "eoi-econ"
+      ]
+    },
+    {
+      "id": "farmers-trained",
+      "label": "Farmers trained at the Centres of Excellence",
+      "value": "More than one million",
+      "note": "Stated in the joint statement of 26 February 2026. An earlier count, in June 2022, recorded more than 3.6 lakh farmers trained and over 250 field officers trained in Israel.",
+      "sector": "agriculture",
+      "status": "verified",
+      "sources": [
+        "pmo-js-2026",
+        "pib-coe2022"
+      ]
+    },
+    {
+      "id": "workers-framework",
+      "label": "Indian workers in Israel under the framework agreement",
+      "value": "6,774",
+      "note": "As of 1 July 2025, comprising 6,730 in construction and 44 caregivers. Counting private recruitment channels as well, the Indian government's parliamentary reply puts the total transferred between November 2023 and July 2025 at more than 20,000.",
+      "sector": "diaspora",
+      "status": "verified",
+      "sources": [
+        "bs-workers"
+      ]
+    },
+    {
+      "id": "workers-future",
+      "label": "Additional Indian workers agreed in February 2026",
+      "value": "Up to 50,000",
+      "note": "Agreed for arrival within five years, with implementation protocols signed for commerce and services, restaurants, and manufacturing.",
+      "sector": "diaspora",
+      "status": "verified",
+      "sources": [
+        "pmo-js-2026"
+      ]
+    },
+    {
+      "id": "bilateral-investment",
+      "label": "Total bilateral investment, September 2025",
+      "value": "USD 800 mn",
+      "note": "The figure stated when the Bilateral Investment Agreement was signed.",
+      "sector": "trade",
+      "status": "verified",
+      "sources": [
+        "pib-bia"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Why did India recognise Israel in 1950 but wait until 1992 for full diplomatic relations?",
+      "note": "Forty-two years is the longest unexplained interval in the relationship. Any account of India and Israel that skips it is not an account."
+    },
+    {
+      "q": "What did the copper plates of Kerala actually grant, and to whom?",
+      "note": "The plates are the closest thing to a dated primary document in the early history of Jews in India."
+    },
+    {
+      "q": "Are Bene Israel origin traditions historically testable at all?",
+      "note": "Community memory and documentary history are different kinds of evidence. The interesting question is what happens where they meet."
+    },
+    {
+      "q": "Is the relationship becoming more technological than military?",
+      "note": "Agriculture, water and innovation funding have grown alongside defence. Which one defines the next decade is genuinely open."
+    },
+    {
+      "q": "Why did bilateral trade fall in FY 2024-25?",
+      "note": "The Ministry of External Affairs brief records the fall. The reasons are worth documenting rather than assuming."
+    },
+    {
+      "q": "Why do official Indian sources give different diaspora figures?",
+      "note": "Over 100,000 and approximately 85,000 appear in two Indian government sources. The gap itself is a research question."
+    },
+    {
+      "q": "What did migration to Israel change for the communities that left?",
+      "note": "Four communities, four different trajectories, one destination."
+    },
+    {
+      "q": "How has India imagined Israel, and how has Israel imagined India?",
+      "note": "Both countries carry an image of the other that predates any embassy."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "trade",
+      "title": "The trade turn",
+      "body": "The free trade agreement, whose terms of reference were agreed in November 2025, becomes the organising fact of the relationship, and commerce outgrows defence."
+    },
+    {
+      "id": "water",
+      "title": "Water and climate",
+      "body": "Scarcity does what diplomacy could not. Desalination, reuse and desert agriculture become the shared frontier as both countries face harder water years."
+    },
+    {
+      "id": "corridor",
+      "title": "The corridor",
+      "body": "Haifa, the Arabian Sea and the Mediterranean are stitched into one logistics chain, and the relationship becomes a question of infrastructure."
+    },
+    {
+      "id": "tech",
+      "title": "Deep technology",
+      "body": "Innovation funding, joint research and startup capital carry the relationship, and the centre of gravity moves from governments to firms and laboratories."
+    },
+    {
+      "id": "civil",
+      "title": "Civilisational exchange",
+      "body": "Chairs, archives, translation and scholarship build a durable intellectual link that survives changes of government on both sides."
+    },
+    {
+      "id": "plateau",
+      "title": "The plateau",
+      "body": "The relationship consolidates at its present level. Agreements are renewed, dialogues continue, and nothing fundamental changes."
+    }
+  ]
+}

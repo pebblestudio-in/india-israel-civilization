@@ -1,0 +1,221 @@
+{
+  "intro": {
+    "title": "The watch room",
+    "lede": "Twenty three films, lectures and recordings that are worth an evening. Every one was checked against YouTube's own record before it went on this page, so the title and the channel here are the title and the channel there.",
+    "note": "Nothing plays until you press it. No video loads a single request to Google before you click, and when you do click it loads through youtube-nocookie.com."
+  },
+  "sections": [
+    {
+      "id": "communities",
+      "label": "The communities on film",
+      "blurb": "Four Jewish communities, filmed at different moments over fifty years, mostly by people who were inside them."
+    },
+    {
+      "id": "places",
+      "label": "Walking the places",
+      "blurb": "Synagogues, streets and a cemetery, in Kochi, Kolkata and the Negev."
+    },
+    {
+      "id": "voices",
+      "label": "Voices and prayer",
+      "blurb": "What Indian Jewish liturgy actually sounds like, in Marathi and in Hebrew."
+    },
+    {
+      "id": "relations",
+      "label": "The relationship",
+      "blurb": "The state to state story, and the part of it that is carried by people who work."
+    },
+    {
+      "id": "scripts",
+      "label": "Learning the two scripts",
+      "blurb": "Companions to the alphabet trainer on this site. Watch one, then go and drill it."
+    }
+  ],
+  "videos": [
+    {
+      "id": "j94ctiwkhFI",
+      "section": "communities",
+      "title": "About the Jews of India: The Shanwar Telis or Bene Israel (1978), a film by Johanna Spector",
+      "channel": "Avi Solomon",
+      "note": "The oldest thing on this page and the most valuable. Spector was an ethnomusicologist at the Jewish Theological Seminary who filmed the Bene Israel in the Konkan in the 1970s, when the villages still had people in them. Much of what she recorded no longer exists to be recorded.",
+      "url": "https://www.youtube.com/watch?v=j94ctiwkhFI"
+    },
+    {
+      "id": "lJ9pZnnHlKs",
+      "section": "communities",
+      "title": "Bene Israel: Jews of Mumbai (Bombay)",
+      "channel": "sweettalkproductions",
+      "note": "Bombay rather than the Konkan villages, and the community at the point where it has become urban, professional and much smaller.",
+      "url": "https://www.youtube.com/watch?v=lJ9pZnnHlKs"
+    },
+    {
+      "id": "iu0ptoC1IY4",
+      "section": "communities",
+      "title": "Shalom Ahmedabad: Purim with Amdavadi Jews",
+      "channel": "Riverr Cafe",
+      "note": "Purim in Ahmedabad. Worth watching for how ordinary it looks, which is the point that gets lost when Indian Jewish life is written up as an exotic survival.",
+      "url": "https://www.youtube.com/watch?v=iu0ptoC1IY4"
+    },
+    {
+      "id": "niouljKUwqE",
+      "section": "communities",
+      "title": "Who are the Cochin Jews, one of the world's oldest Jewish communities?",
+      "channel": "i24NEWS English",
+      "note": "A short Israeli news explainer on the Kerala community. Useful as an orientation, thin on the internal divisions between Paradesi and Malabari Jews, which is where the interesting history sits.",
+      "url": "https://www.youtube.com/watch?v=niouljKUwqE"
+    },
+    {
+      "id": "TRqXVbu52Ao",
+      "section": "communities",
+      "title": "The Last Jews Of Kolkata",
+      "channel": "101 India",
+      "note": "Kolkata's Baghdadi community down to a handful of people, and the synagogues still standing and still looked after. Watch it for who is doing the looking after.",
+      "url": "https://www.youtube.com/watch?v=TRqXVbu52Ao"
+    },
+    {
+      "id": "CJRdIB9XDCU",
+      "section": "communities",
+      "title": "The Untold Story of Calcutta's First Jews, with Jael Silliman",
+      "channel": "The Mohua Show",
+      "note": "Silliman built the digital archive of Calcutta's Jews and is the reason a great deal of that material still exists. A long interview, and the best single introduction to the Baghdadi story from someone inside it.",
+      "url": "https://www.youtube.com/watch?v=CJRdIB9XDCU"
+    },
+    {
+      "id": "bnnSlK4AISI",
+      "section": "communities",
+      "title": "Recalling Jewish Calcutta: The Making of an Archive",
+      "channel": "Babylonian Jewry Heritage Center",
+      "note": "The same project from the archivist's side. How the collecting was done, what was nearly lost, and what still is not gathered.",
+      "url": "https://www.youtube.com/watch?v=bnnSlK4AISI"
+    },
+    {
+      "id": "uVmnIlQX_GQ",
+      "section": "places",
+      "title": "A walk through of Jewish Calcutta",
+      "channel": "Sahapedia",
+      "note": "Sahapedia is a serious Indian heritage documentation body, and this is a proper walk rather than a montage. Maghen David, Beth El, the school, the bakery.",
+      "url": "https://www.youtube.com/watch?v=uVmnIlQX_GQ"
+    },
+    {
+      "id": "QZiGOluLK-Y",
+      "section": "places",
+      "title": "Hanukkah Special: Paradesi Synagogue, Kochi",
+      "channel": "Speaking Archaeologically",
+      "note": "The 1568 synagogue in Mattancherry, looked at as a building, including the Cantonese floor tiles and the clock tower, rather than as a photo stop.",
+      "url": "https://www.youtube.com/watch?v=QZiGOluLK-Y"
+    },
+    {
+      "id": "1c_UFPwV6CI",
+      "section": "places",
+      "title": "The Cochin Jewish Heritage Center in Nevatim",
+      "channel": "Sam Aronow",
+      "note": "What Kerala looks like after it has been moved to the Negev. Nevatim was founded by Cochin Jews in 1946 and the synagogue there carries fittings brought from India.",
+      "url": "https://www.youtube.com/watch?v=1c_UFPwV6CI"
+    },
+    {
+      "id": "iPovluH4gho",
+      "section": "places",
+      "title": "Cochin Jews in Nevatim",
+      "channel": "Unexpected Israel",
+      "note": "The same moshav from a different angle, with more of the people and less of the building.",
+      "url": "https://www.youtube.com/watch?v=iPovluH4gho"
+    },
+    {
+      "id": "k2iVNpdkP9I",
+      "section": "voices",
+      "title": "Bene Israel Malida (Eliyahu Hannavi) ceremony",
+      "channel": "BenShalom01",
+      "note": "The Malida is the Bene Israel rite that has no parallel anywhere else in the Jewish world: a plate of flattened rice and fruit offered to Elijah, done at thanksgivings and at the start of things. Watch this before reading anything about syncretism.",
+      "url": "https://www.youtube.com/watch?v=k2iVNpdkP9I"
+    },
+    {
+      "id": "aJseUF-D6us",
+      "section": "voices",
+      "title": "Marathi derashot and prayer, Rabbi Shmuel Divekar",
+      "channel": "BenShalom01",
+      "note": "Prayer and preaching in Judeo Marathi. Recorded because there are not many people left who do it this way.",
+      "url": "https://www.youtube.com/watch?v=aJseUF-D6us"
+    },
+    {
+      "id": "Iiqjr9EAG7I",
+      "section": "voices",
+      "title": "Eliyahu Hanavi, Bene Israel, India",
+      "channel": "Irene Orleansky",
+      "note": "Orleansky is a musician who records Jewish communities on the edges of the Jewish world. This is the Bene Israel melody, sung.",
+      "url": "https://www.youtube.com/watch?v=Iiqjr9EAG7I"
+    },
+    {
+      "id": "K0fUcCS3SEo",
+      "section": "relations",
+      "title": "India-Israel Relations: How We Can Secure Our Common Future, Benjamin Netanyahu",
+      "channel": "Observer Research Foundation",
+      "note": "Netanyahu's Raisina Dialogue address. A primary document rather than commentary: this is how the Israeli side chose to describe the relationship to an Indian policy audience.",
+      "url": "https://www.youtube.com/watch?v=K0fUcCS3SEo"
+    },
+    {
+      "id": "d2kEzDb-vyE",
+      "section": "relations",
+      "title": "India's World: Revisiting India-Israel Relations",
+      "channel": "Sansad TV",
+      "note": "Sansad TV is India's parliamentary channel, so this is the establishment Indian read on the relationship, panel format, and useful precisely because it is cautious.",
+      "url": "https://www.youtube.com/watch?v=d2kEzDb-vyE"
+    },
+    {
+      "id": "MlH5JqXoiUU",
+      "section": "relations",
+      "title": "Indian Workers Fill Critical Roles In Israel",
+      "channel": "WION",
+      "note": "Indian construction and care workers in Israel after 2023. The most consequential part of the relationship for the largest number of people, and the least written about.",
+      "url": "https://www.youtube.com/watch?v=MlH5JqXoiUU"
+    },
+    {
+      "id": "iNzADbY6Fio",
+      "section": "relations",
+      "title": "Indians replace Palestinian construction workers in Israel",
+      "channel": "South China Morning Post",
+      "note": "The same recruitment, framed by what it replaced. Included because a site that only carries the comfortable framing of its own subject is not worth reading.",
+      "url": "https://www.youtube.com/watch?v=iNzADbY6Fio"
+    },
+    {
+      "id": "eq-yfNZ8pXw",
+      "section": "scripts",
+      "title": "Hebrew alphabet in 20 minutes, alefbet introduction",
+      "channel": "Hebrewly",
+      "note": "Twenty two letters in twenty minutes. Fast, clear, and enough to start the trainer on this site.",
+      "url": "https://www.youtube.com/watch?v=eq-yfNZ8pXw"
+    },
+    {
+      "id": "kkxvqIxTE3A",
+      "section": "scripts",
+      "title": "Hebrew alphabet and vowels, full tutorial",
+      "channel": "Tim McNinch",
+      "note": "The longer version, and the one that covers niqqud. Hebrew is normally written without the vowel points, which is exactly why you need to know them first.",
+      "url": "https://www.youtube.com/watch?v=kkxvqIxTE3A"
+    },
+    {
+      "id": "9eLoBQu0SVo",
+      "section": "scripts",
+      "title": "Introducing Hindi script, Devanagari",
+      "channel": "RJK English with Alex",
+      "note": "Devanagari from zero. The letters, the matras, and the logic of the hanging line.",
+      "url": "https://www.youtube.com/watch?v=9eLoBQu0SVo"
+    },
+    {
+      "id": "e1YrkXyMw0o",
+      "section": "scripts",
+      "title": "Rupert Snell: Lessons from the Hindi Classroom",
+      "channel": "Hindi Urdu Flagship",
+      "note": "Not a lesson. Snell wrote the Teach Yourself Hindi that most English speaking learners end up with, and this is him on how the language is taught badly and how it could be taught well.",
+      "url": "https://www.youtube.com/watch?v=e1YrkXyMw0o"
+    },
+    {
+      "id": "QRl--OTu9x0",
+      "section": "scripts",
+      "title": "Hindi Baat Chit with Professor Rupert Snell",
+      "channel": "hindiuniversity",
+      "note": "Snell in Hindi, at conversation speed. The thing to graduate to once the script has stopped being an obstacle.",
+      "url": "https://www.youtube.com/watch?v=QRl--OTu9x0"
+    }
+  ],
+  "checked": "2026-08-25"
+}
