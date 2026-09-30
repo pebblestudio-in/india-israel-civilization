@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-09-30 04:44 UTC",
+  "generated": "2026-09-30 12:09 UTC",
   "items": [],
   "feedsTried": [
     "Press Information Bureau",
@@ -20,7 +20,7 @@ window.NEWS_DATA = {
   "feedsFailed": [
     {
       "name": "Press Information Bureau",
-      "reason": "HTTP 403"
+      "reason": "fetch failed"
     },
     {
       "name": "Indian Express, World",
