@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-10-04 21:02 UTC",
+  "generated": "2026-10-05 04:46 UTC",
   "items": [
     {
       "title": "Watch: Netanyahu calls Indian FlyDubai pilot Smit Machchhar ‘hero of the entire world’",
