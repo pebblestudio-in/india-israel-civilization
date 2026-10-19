@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-10-19 03:53 UTC",
+  "generated": "2026-10-19 12:34 UTC",
   "items": [
     {
       "title": "Israeli PM Netanyahu warns of potentially hostile future U.S. President, calls for alliances with India, Latin America",
