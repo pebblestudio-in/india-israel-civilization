@@ -1,7 +1,15 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-10-18 20:18 UTC",
-  "items": [],
+  "generated": "2026-10-19 03:53 UTC",
+  "items": [
+    {
+      "title": "Israeli PM Netanyahu warns of potentially hostile future U.S. President, calls for alliances with India, Latin America",
+      "link": "https://www.thehindu.com/news/international/israeli-pm-netanyahu-warns-of-potentially-hostile-future-us-president-calls-for-alliances-with-india-latin-america/article71601129.ece",
+      "date": "2026-10-19",
+      "source": "The Hindu, International",
+      "tier": "press"
+    }
+  ],
   "feedsTried": [
     "Press Information Bureau",
     "The Hindu, International",
