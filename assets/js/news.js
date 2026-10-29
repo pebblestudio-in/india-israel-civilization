@@ -1,11 +1,11 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-10-29 04:58 UTC",
+  "generated": "2026-10-29 12:32 UTC",
   "items": [
     {
       "title": "Israel elections: Understanding how Knesset polls work vs India’s system",
       "link": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "source": "The Hindu, International",
       "tier": "press"
     }
