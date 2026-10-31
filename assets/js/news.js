@@ -1,15 +1,7 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-10-31 04:44 UTC",
-  "items": [
-    {
-      "title": "Israel elections: Understanding how Knesset polls work vs India’s system",
-      "link": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece",
-      "date": "2026-10-29",
-      "source": "The Hindu, International",
-      "tier": "press"
-    }
-  ],
+  "generated": "2026-10-31 11:53 UTC",
+  "items": [],
   "feedsTried": [
     "Press Information Bureau",
     "The Hindu, International",
