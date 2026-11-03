@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-11-03 13:51 UTC",
+  "generated": "2026-11-03 23:00 UTC",
   "items": [
     {
       "title": "India, Israel vote against UNGA draft on regional conventional arms control",
@@ -28,7 +28,7 @@ window.NEWS_DATA = {
   "feedsFailed": [
     {
       "name": "Press Information Bureau",
-      "reason": "fetch failed"
+      "reason": "HTTP 403"
     },
     {
       "name": "Indian Express, World",
