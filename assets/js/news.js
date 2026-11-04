@@ -1,15 +1,7 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-11-04 13:58 UTC",
-  "items": [
-    {
-      "title": "India, Israel vote against UNGA draft on regional conventional arms control",
-      "link": "https://www.thehindu.com/news/national/india-israel-vote-against-unga-draft-on-regional-conventional-arms-control/article71659577.ece",
-      "date": "2026-11-03",
-      "source": "The Hindu, International",
-      "tier": "press"
-    }
-  ],
+  "generated": "2026-11-04 23:24 UTC",
+  "items": [],
   "feedsTried": [
     "Press Information Bureau",
     "The Hindu, International",
