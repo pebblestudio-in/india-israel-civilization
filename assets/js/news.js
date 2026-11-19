@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-11-19 00:01 UTC",
+  "generated": "2026-11-19 15:27 UTC",
   "items": [],
   "feedsTried": [
     "Press Information Bureau",
@@ -13,7 +13,6 @@ window.NEWS_DATA = {
   ],
   "feedsOk": [
     "The Hindu, International",
-    "Indian Express, World",
     "Times of India, World",
     "The Jerusalem Post",
     "BBC World"
@@ -21,6 +20,10 @@ window.NEWS_DATA = {
   "feedsFailed": [
     {
       "name": "Press Information Bureau",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Indian Express, World",
       "reason": "HTTP 403"
     },
     {
