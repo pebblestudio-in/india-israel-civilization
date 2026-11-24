@@ -1,6 +1,6 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-11-24 09:02 UTC",
+  "generated": "2026-11-24 22:05 UTC",
   "items": [
     {
       "title": "India and Israel: Cut from different cloths",
