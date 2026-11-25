@@ -1,15 +1,7 @@
 /* Written automatically by .github/workflows/news.yml. Do not edit by hand. */
 window.NEWS_DATA = {
-  "generated": "2026-11-25 07:40 UTC",
-  "items": [
-    {
-      "title": "India and Israel: Cut from different cloths",
-      "link": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-india-and-israel-cut-from-different-cloths/article71735254.ece",
-      "date": "2026-11-24",
-      "source": "The Hindu, International",
-      "tier": "press"
-    }
-  ],
+  "generated": "2026-11-25 21:21 UTC",
+  "items": [],
   "feedsTried": [
     "Press Information Bureau",
     "The Hindu, International",
